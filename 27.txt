@@ -1,0 +1,630 @@
+Hey everyone, welcome to episode 27 of The Daily Churn. Today we'll be doing a recap of June and
+all the things I churned in June, along with some updates on some new developments, particularly
+in the crypto space, if you've been keeping up on that. And originally I had another episode
+kind of scheduled before this on employer dark deposits, and that one's actually almost done
+and it should be a pretty good episode. But a couple of things came up in just life,
+which is that I went to a wedding in New York and both my wife and I ended up getting COVID.
+And I mean, the reality of it, I think at this point is that we're all going to get COVID
+at some point if we haven't already, but it still kind of sucks when you do get it,
+because even though everyone at the wedding had to be vaccinated in order to attend,
+we're still traveling from out of state. New York is a big city. The wedding had a lot of people.
+And so, yeah, unfortunately we ended up getting it.
+And even though...
+Even being vaccinated, we were out of commission for a good two weeks. And honestly,
+I can't even imagine what that would have been like if we weren't vaccinated. Like even while
+vaccinated and boosted, it was still probably the worst illness I've gotten in recent memory.
+So yeah, that definitely sucked. But we just kind of spent two weeks binge watching a bunch
+of shows, which if you haven't seen For All Mankind on Apple TV, amazing show. We watched
+all three seasons of that along with many others. Didn't really do much churning. So kind of just
+took it easy and happy to say that we're fully recovered. No long-term symptoms. So feeling good
+and glad to be over that hump. But that's sort of why that Employer Dark Deposit episode is a little
+bit delayed, but we should be seeing that in the next week or two after I post this one. But yeah,
+getting back to the June recap, June turned out to be a pretty eventful month, particularly because
+there was a lot of things happening in the crypto space. Celsius and Voyager froze their
+withdrawals, which is pretty major news. But I'm thinking I'll leave the crypto update this time
+until the end, because I do want to properly give kind of a primer as to what is happening
+right now with crypto. And I know people are sort of on two sides of it, which is you either are
+totally just sick of hearing about crypto or you're invested. And I think that's kind of
+in crypto or at least curious about crypto. And I think, you know, the reality of it now is that
+crypto is not going away. So at least being a little bit educated on it is probably a good
+thing in the long term. That said, I'm going to leave it till the end. So if you don't want to
+listen to it, feel free to just skip that part. But for now, let's start with some of the usual
+suspects. We've got banks, a bit of brokerages, some cash back, a lot of mail kits, cell phones,
+a little update on ANA,
+I've been getting a lot of ANA booking advice requests lately. So I thought I'd give a quick
+update on that one. But yeah, let's start with banks first. So banks wise, I got $150 for myself
+and $150 for P2 from Affinity Credit Union. And that offer was essentially you had to do 10
+transactions. So like Amazon reloads, plus $500 worth of employer direct deposit for three
+continuous months. And so I did that for both myself and P2. And I think I started working on
+this bonus back in like February or March. So it finally posted in June. So that was nice $300
+total. And yeah, I used Square to do the employer direct deposits just to be super safe because
+there wasn't a lot of data points on what else might work. And so Square worked out pretty well
+for that. And so the next episode on employer direct deposits, I'll be going a lot more
+in depth into the whole Square and employer DD space. Then there was also Teachers Federal
+Credit Union, which turned out to be just a massive fail for everyone who did it. So what
+happened with this bonus was that it was a $450 bonus for doing some pretty basic requirements.
+So itself already a pretty decent massive bonus, but they offered credit card funding of up to
+$5,000.
+And so anytime you have a bank that offers credit card funding, people are really excited
+because it's essentially free minimum spend on a credit card that you're working on. And so
+unsurprisingly, the moment this was posted, everyone jumped in to sign up, myself included.
+So I signed up my P2, we had a new Wells Fargo card that I charged for $5,000. And during sign
+up, her account was instantly approved. And the CC funding, which was $5,000, was instantly approved.
+Then on top of that, they were offering a referral bonus. So I immediately had P2 refer me,
+and I think it was a $50 or $100 referral bonus. And unfortunately, my app went into pending. So
+I didn't get instantly approved. And so I wasn't able to do the CC funding. But P2s went through
+totally smoothly. And you know, in the comments, a lot of peoples were instantly approved and
+were able to fund $5,000. I mean, I'm talking like hundreds of people were able to do this.
+And that's sort of where things started going downhill, because the offer was posted,
+I think around Memorial Day weekend. So everyone was applying on a weekend when the Teachers
+Federal Credit Union wasn't open. So they probably didn't have any staff on hand reviewing any of
+this and weren't expecting the influx of churners coming in to do credit card funding and to do
+their new bonus. And so since Monday was a holiday, these apps sort of sat in limbo,
+but the people who were instant approved were able to get into their accounts and start setting up
+direct deposits, etc. So everything seemed fine initially. But then Tuesday rolls around after
+the holiday weekend, and everybody loses access to their online portal. And they lose access in
+the worst way possible. It wasn't like you get an email saying like, hey, we messed up, we need to
+re-review your accounts. What they did was they just made everyone's password incorrect. So even
+though you could log in, you could log in, you could log out, you could log out, you could log
+in the day before. Now when you log in, it tells you you've entered the wrong password. So of course,
+everyone is trying to figure out if someone like got into their accounts and hacked their password,
+people are doing like, I forgot my password resets, they'll send you a temporary password,
+and then the temporary password doesn't work either. Because what they'd actually done on
+the back end was really just disabled your account without any notification or any communication,
+even though your accounts were already approved, and your credit card had been
+charged for $5,000. And you'd set up direct deposits from like your employer, for example,
+to try and meet that $450 bonus. And this sort of just went on for like a week or two where there
+was zero communication and no one could get into their accounts. And eventually, I think it was
+maybe two, three weeks in, they just closed off most of the people's accounts that were approved
+and just refunded their $5,000 again, without really any communication. So P2's account was
+just shut down, the $5,000 was refunded. And for my account, I was just never approved in the first
+place. It was impending the whole time. And then I think I got an email saying that we denied your
+account a couple weeks later. I think the people that were particularly upset were the ones who
+had direct deposits scheduled to go in, and then they couldn't access their accounts. And now
+they're in sort of a limbo state of like, is my DD gonna show up in this closed account? Or like,
+how do I get it back out after you've closed it? And the money's gone? And then they're like,
+money's already been deposited. The whole thing was just a complete shitshow. And so you can sort
+of understand the kind of comments that were being posted in the thread on DOC. And I guess,
+you know, sort of in their defense a little bit is that they're probably a really small credit
+union that had maybe one or two people reviewing these apps, and they weren't expecting the influx
+to happen over the Memorial Day holiday. That said, they probably shouldn't have launched this
+massive business.
+Over the holidays, and allowed credit card funding and instant approval of accounts,
+if they were going to then turn around and spend two, three weeks not telling anyone what was
+happening, and then go in and deny and refund everyone. So I think a lot of fails on their part
+there. But yeah, that was sort of the drama in June around Teachers Federal Credit Union, which
+I think is still sort of ongoing, you know, and people are filing like CFPB complaints and all
+that kind of stuff.
+So anyways, sadly, it did not work out for myself or P2. But that's sort of just how it goes with
+churning sometimes, you know, you win some and, and you lose some. Then bank bonus wise, I have
+plans to do quite a few business bank accounts this month in July, partly because of the crypto
+news, which we'll cover at the end of this episode. But I've got like Chase business lined up, I think
+for $750, the Huntington business checking for another 750.
+There's Citi business, which is a tiered bonus, but I think I'm probably going to do the $700 tier
+where you deposit $25,000. And you get $700 back over 60 days. There's also a US bank business one
+for $300. So yeah, those are on my list of to do's. And I'll post links to all of these on
+thedailychurnpodcast.com if you want to try and tackle them as well. But essentially, I have right
+now just a lot of money sitting around in my ally account because of the
+recent crypto news. And so yeah, July should be pretty busy for business bank bonuses. But in
+terms of just actual bank bonuses earned for June, it was just the $300 from Affinity.
+Moving on to brokerages, not too much happening on the brokerage side. I did check my Nadex
+account, which if you remember, Nadex is the binary options trading platform from a while back. I
+think it's been like six, seven months since they launched that bonus, but it is still around.
+And I saw that I had another $300 in there from three referrals. So thanks guys for doing that. I
+haven't checked it in a while. So kind of a nice surprise. And thanks Maddy and two other listeners
+for using that referral. I really appreciate it. And yeah, so going to count that $300 towards
+brokerages for June. Next up, we have cashback. And cashback is probably where I spent a good
+chunk of my time in June, particularly with Rakuten. So Rakuten was,
+offering $50 for signing up with personal capital. If you're not familiar with personal
+capital, it's sort of just like an aggregation financial service. So you just input all of your
+accounts and it'll show all of the balances in one place. So you can more easily manage
+like how much money do I have? How much money is coming in, going out? How are my investments doing?
+Stuff like that. I personally use Simplify to do that. I think it's a better platform and Simplify
+though is paid.
+I think it's like $3 a month, so almost free, but it's the same kind of concept. You may have also
+seen Mint. Mint is completely free to use as well, where you can just sort of import all of your
+accounts. But Mint has ads and it's a little janky. I like Simplify a lot. And I think personal
+capital does something similar. So that could be a good option as well. But for us, we just signed
+up for that $50 bonus. And in order to get it, you have to sign up and then link accounts where your
+end total balance in
+personal capital is over $100,000. So if you have $100,000, it can be spread out between like bank
+accounts, brokerages, retirement accounts. It doesn't really matter. But as long as the total
+is over $100,000 and you link it, you'll get that $50 from Rakuten. And so it's a pretty easy $50.
+I think the concern or criticism people have with these kinds of bonuses is that you're essentially
+being paid to give up a lot of your data to these companies. And so depending on how you feel about
+data privacy, you may not think that's worth $50. For me, I'm just sort of of the opinion. I think
+that all of my data is pretty much out there anyway. Between all the hacks that happen that
+you don't want to have happen and all the churns that I do, for better or worse, all of my data
+is already pretty public and out there. And so if you want to give me $50 for my bank transaction
+info, sure, go ahead. And maybe that's not the right choice, but I think it's a good idea.
+I'm just like Chase and Bank of America and Fidelity. They're probably already selling my
+data to people. So I may as well be the one to sell it and get that $50. So yeah, that's the $50
+from Personal Capital. And it was through Rakuten. And I'm going to change things up a little bit
+with Rakuten where I'm just going to count the cash back immediately instead of counting it when
+Rakuten does their quarterly payouts. Because with Rakuten, it's just so reliable. I haven't
+where Rakuten shows the $50 credit, and then I don't later get that $50 credit. The only times
+it hasn't shown up, I've contacted Rakuten customer support and they've credited it immediately. So for
+me, getting money in my Rakuten account balance, even though it's not paid out immediately,
+is really as good as cash because I have no concerns about getting that eventually.
+And it makes the tracking a little bit easier where I can just sort of count it immediately
+now and tie it to a specific thing instead of counting it.
+Three months from now and trying to figure out what exactly the $200 I got from Rakuten was made
+up of. So that's just sort of the quick FYI on why I'm counting Rakuten immediately. So it was
+the $50 for myself and $50 for P2 for both of us opening Personal Capital and linking some accounts.
+And I think that offer is still around right now. So if you think $50 is worth the price of
+some financial data, then yeah, it's a pretty easy bonus to get. Then moving on to some meal kits,
+with Rakuten. So Coldstar on Reddit kind of gave me a tip about how some of the meal kit offers
+are back up again to some of the higher payouts. So that's sort of a thing that happens pretty much
+every holiday, like 4th of July, Memorial Day, I think randomly like May 10th, it happened on
+Rakuten as well. But basically, if you have something you want to buy on Rakuten, particularly
+meal kits, I would just sort of set a reminder for the big holiday weekends. And usually they'll
+double or triple their cost. So if you have something you want to buy on Rakuten,
+during that time. So for example, for the July 4th weekend, Green Chef was bumped up to 60%
+cashback through Rakuten, which then also stacks with 15% cashback when you use your Chase Freedom
+card, because the Chase Freedom card had a Chase offer for 15% back. And that was an amazing deal
+because on Green Chef, when you sign up, they're also giving you their own Green Chef offer of 50%
+off. So you're stacking the Green Chef 50% off with 60%
+off of that from Rakuten with 15% off of that from Chase. So what it ends up being was we did
+four meals for two, and it would have been $103. But with all of these various discounts ended up
+being $14 total for four meals for two people. So really amazing deal. I think the price ends
+up being like $1.75 per meal, which is a price even like folks on the Lean Fire subreddit would
+be proud of. And Green Chef is one of our favorite meal kits.
+It's kind of expensive, but when you get it at a discount, flavor-wise and in terms of just
+enjoyment, it is one of our favorites. And it's pretty high in calories too, which is nice because
+some of these meal kits are like four or 500 calories. Looking at you, Blue Apron, which just
+sort of isn't enough for an adult who isn't trying to diet or lose weight. But yeah, this one seems
+to roll back around pretty much every holiday weekend. So definitely keep your eye out for that
+during the next holiday period.
+We also did Gobble again, which was offering $45 cash back. So triple what it usually is of $15.
+And with Gobble, you can get four meals for $45 for your first box. So it ends up being free.
+If you only did three meals, it ends up being like a $8 or $9 moneymaker. But for us, it's nicer just
+to have the meals. So we did $45 worth of Gobble with $45 back on Rakuten. So it ends up being
+totally free. And with Gobble,
+one thing to keep in mind is they by default, when you sign up, will have the Rakuten special
+offer on Gobble. You can actually replace that promo code with Oxology 50, which just gives you
+a straight $50 off of your first Gobble. And so that ends up being more lucrative than the default
+Rakuten promo code, which I think only gives you like $36 off of your first box. And so keep in
+mind, these promo codes that you enter directly on Gobble stack with the
+cashback that you're getting through Rakuten. So you're getting both, which is how that meal
+kit ends up being free. And again, that promo code is Oxology, O-X-O-L-O-G-Y 50, 5-0. And hat tip to
+the DOC comment thread for finding that code. And it's been working every time Gobble has done one
+of their increased cashbacks through Rakuten. So similar to Green Chef, just keep an eye out for it
+during the next holiday period. Then we also did HelloFresh through Rakuten,
+we went on a bit of a spree. So HelloFresh was $42 off of your first box, and then HelloFresh
+themselves were offering 50% off of your first box. So what that translates into when you stack
+both of those was that we ended up paying $2 total for five meals for two people, or we could have
+paid $8 total for six meals for two people. We didn't do the six meals version because that would
+mean we'd have to cook it every day for six days. And, you know,
+by the sixth day, some of the ingredients are not in the best shape. So if you miss a day and you end
+up cooking a meal on the seventh or eighth day, good chances are your ingredients are no longer
+fresh. So we just went with the five meal plan for two and only ended up paying $2, which again,
+really amazing deal. Then we also signed up for Sunbasket. This time it wasn't through Rakuten,
+we just gotten a welcome back coupon from Sunbasket, which a lot of these meal kits
+will send to you. So definitely keep an eye out for these welcome back offers,
+because they can be quite good. And so the welcome back offer was that the first box was
+$22 for three meals. And many of the Chase cards like the Chase Freedoms are doing $10 cash back
+right now when you pay with one of those Chase cards. And so $22 for the three meals minus the
+$10 from our Chase Freedom card ended up being $12 for three meals from Sunbasket. So again,
+that turned out to be quite a good deal. Sunbasket has been pretty aggressively raising their prices.
+It used to be one of our favorites, but they've just raised their prices so much that most of the
+time we wouldn't get it unless one of these deals came through. So yeah, between Green Chef, Gobble,
+HelloFresh, and Sunbasket, we are fully stocked for dinners for the month of July. So that's
+always nice to have the whole month's meal plan already set without having to think too much
+about it and not having to do much grocery shopping, particularly with inflation and
+grocery store prices going up. These meal kits, I don't know where
+I'm getting all this VC funding, but it hasn't dried up yet. And it's one way to at least beat
+inflation, I guess, on food. And still on the topic of meal kits, some of my cash back from
+doing meal kit offers through the Capital One shopping portal that you see with your Venture
+X card, for example, those actually cashed in as statement credits. So I got my $37.50 from
+Blue Apron plus $35 from Green Chef. And I think it took about a month or two for those to show up,
+but they did finally
+post in June. Finally, with meal kits, we had a pretty massive fail with meal kits. So what
+happened was there was a meal kit that actually someone on Reddit tipped me off to, which was
+Factor 75 on Rakuten back in May was offering 70% off. And with Factor 75, the first box was
+$100 for 18 separate little meals. And so the meal kits themselves are sort of like
+the airplane food. So they come in these little trays that are all pre-cooked and you just have
+to microwave them for two minutes and then you're ready to eat them. And they're definitely better
+taste-wise and health-wise than airplane food. And you get 18 of these for a hundred bucks,
+but then Rakuten gives you 70% off. So only 30 bucks will get you 18 of these. So each of these
+little trays ends up being like $1.66, which is a pretty good deal for pretty decent food that you
+don't have to put any effort into.
+Cooking-wise. So we'd done that both for myself and P2 and that worked out well. You know,
+we got like 36 of these little trays that we were slowly eating. Like it took up our entire fridge
+and our freezer. But of course I made the classic newbie mistake, which is that I did not cancel
+in time before they ship the second shipment. And the reason I didn't cancel in time was that
+they only show two weeks at a time. It's the week you're getting now,
+and the week after. And like back in May, I had scheduled the meals to come in June. And so I
+couldn't skip the week after because it was too far in the future. And I had a reminder to after
+getting the first delivery to go in and skip the weeks after. But we came back from the wedding in
+June and we both got COVID. And so I was just not really paying attention to like my spreadsheet
+and my reminders and like the churning.
+Things that I had to do. And so it completely slipped my mind to skip that second week.
+And for any other meal kit, it might not have been a big deal. It would have been,
+oh, okay, we're out 50 bucks, but we're going to get three meals. So it's like not the worst
+thing ever. With Factor 75, only the first shipment of 18 meals was $100. The second
+shipment of 18 meals was $175. So I was pretty confused when a box of Factor 75 showed up.
+And it's a pretty massive box because they've packed in 18 of these meals. And I thought,
+oh, maybe they'd made a mistake. And then I tracked it down to my credit card and we were
+charged $175, which ends up being like almost $10 for one of these meals, which is not worth it at
+all. So yeah, I was pretty devastated when I realized what had happened there. But on the
+flip side, it came while we had COVID and it actually turned out sort of okay in that sense
+too tired and not in the mood to cook. And so having these microwavable pre-made meals ready
+was actually a bit of a lifesaver. So in a sense, it did actually work out okay. But just like my
+inner churner is dying at the fact that I mistakenly paid $175 for a meal kit because
+that sort of negates a lot of these discounts on other meal kits that we're trying to get.
+So yeah, that was the big lesson learned, which is that when you have a spreadsheet with,
+just tons of items that you need to do, it's all good and fine when you're healthy and you
+can keep track of it, which is how I usually am. But you know, when something unexpected in your
+life happens and you stop keeping track, that's when things can really, really go to shit. So
+yeah, lesson learned there, which is always check that churning spreadsheet through thick and thin.
+So doing a quick tally on all the meal kit cashbacks, there was the $31 from Green Chef
+$8 from Chase, then $45 from Rakuten on Gobble $42 from Hello Fresh on Rakuten. Then $10 on
+Sun Basket from a Chase offer. $37.50 on Blue Apron from the Capital One portal. $35 on Green Chef,
+again from the Capital One portal for a total of $208.50 in cash back. And I've been debating
+whether or not to count this in the final tally and I think going forward,
+I am considering that it will come down to, and I'm disappointed that it looks like it's not. So
+going to count these because this is purely just the extra cash back that I'm getting from like
+Rakuten and Chase and Capital One. This isn't like the discounts that the meal kit companies
+are offering themselves because I'm getting those discounts as well. And those discounts
+are pretty good. Like I would probably get the meal kit just for the discount that the meal
+kit company is offering. So the additional cash back from these portals is kind of like a cherry
+on top, which I'll count towards the monthly churning earnings. Finally, on the topic of
+cash back, there's a new extension that I've been trying and you've probably heard about this one
+before or have seen it in ads, which is Honey. And I've never gotten around or I guess had a
+reason to install Honey, but I was shopping for a KitchenAid mixer for my wife because she's
+trying to get into more baking, which I'm all for because I love cookies and stuff. And so I ran
+across a deal.
+On SlickDeals, where the mixer, which usually goes for $400, refurbed was only $220. And then
+if you sign up for the KitchenAid newsletter, they'll give you another 10% coupon. So it ends
+up being basically $200. But on top of that, someone on the SlickDeals threads left a comment
+saying that the Honey extension was offering an extra $45 specifically on that mixer. So I was
+like, okay, cool. I'll check it out. So I downloaded the Honey extension,
+and yeah, it's similar to how the Rakuten extension or the Be Frugal one pops up. Honey has that
+similar thing, but it seems like they sometimes target specific items. So in this case, it was
+targeting specifically a refurbed KitchenAid mixer and was giving $45 if you purchased it
+and activated Honey. And so of course I did that and yeah, it knocked off the $45 and the mixer
+ended up being $160 versus $400 brand new.
+And even though it was a refurbed unit, when we got it, it looked completely brand new. Like
+there was nothing wrong with it, no scratches, no dents. So yeah, amazing deal on a mixer. I mean,
+I'll post the link to it because I think it's still alive if you're in the market for a KitchenAid
+mixer. But yeah, that was sort of my first exposure to actually using Honey. And so now
+it's one of my extensions that I have. I've got like five or six of these like cashback extensions
+now in Chrome, which is actually starting to get annoying because when I visit a site,
+sometimes it's like, oh, I don't know. I don't know. I don't know. I don't know. I don't know. I don't
+all five of them will trigger. And I've got like five pop-ups, which slows down the website. But
+you know, for now it's kind of manageable. And Honey, I guess, is owned by PayPal. So I'm not
+really too concerned about not getting the money like I would be with Swagbucks sometimes. So I'm
+going to count that $45 towards the churning earnings for the month because we would have
+gotten that mixer at $200. So getting that extra 45 was just a nice bonus on top.
+All right. So moving on from cashback,
+we've got cell phones. With cell phones, not much. I just got a visible referral from Gary.
+So appreciate that, Gary. And I kind of value these referrals at about $15. So yeah, $15 on
+the cell phone front. Then some miscellaneous things. I had some tickets to a show that I
+stubhubbed and ended up making $60 on. The reason I did it was because we got COVID and couldn't go
+and it was a sold out show. So it ended up being a pretty
+easy $60 for two tickets. But I know people who make pretty good money doing stubhub reselling.
+There's just a little bit of risk involved if the show doesn't sell out and you're stuck with like
+eight tickets that will sell below face value. And stubhub takes like a 15, I think, percent
+cut. So it can be hit or miss. But yeah, I got 60 bucks from stubhub in June. Then on the topic of
+like miscellaneous things, this wasn't really money I made churning, but I did kind of want to
+just mention it here, which is that I got $60 from stubhub in June. So I got $60 from stubhub in June.
+I think booking tickets to Japan on ANA right now is extremely difficult. And I bring it up because
+I've gotten 10 or 12 messages over the last few weeks from people reaching out who have listened
+to the ANA episode who want help with their booking or just want some advice on if they're
+doing it right. And one of the common questions I'm getting is around award availability. Like
+they're checking these awards a year out on VPN. And sometimes it's like, oh, I don't know,
+they're not seeing any availability. And sometimes they're seeing one seat only instead of two.
+And so they're like, you know, what's going on? Am I doing it right? Is someone just beating me
+to the punch? And honestly, the answer is actually, yeah, you're getting beaten to these tickets,
+even though you're checking it right when it opens. Someone is maybe a second faster than you.
+It's really like buying Coachella tickets. There is way more demand right now than there are
+available tickets. Most people are expecting Japan,
+to open up in 2023. And so everyone is trying to book these tickets. Like I posted that ANA
+episode, I think two, three months ago, but it's only been in the last couple of weeks
+that everyone's been reaching out about booking ANA. And so I think everyone is trying to go to
+Japan right now. And honestly, of the dozen or so people that I responded to, most of them were
+actually able to secure their business and first class tickets. And the only advice I really gave
+was just to keep trying, like be persistent, try for multiple days, be faster if you can,
+by maybe doing it over the phone. And for the most part, that has worked. So there isn't really
+anything magic that I'm doing other than just keeping at it. But you know, right now is just
+a tough time to be trying to book these tickets because of that demand. And probably the honestly,
+the podcast is not helping in the sense that more people now are doing this VPN,
+and so yeah, if you have the patience and the persistence, you can still get the tickets. But
+if you don't literally need to go to Japan in like June of 2023, I would probably recommend
+waiting a little bit when this demand sort of dies down a bit more. So yeah, not directly related to
+any trading money I made in June. But I thought I'd just mention it here because I am getting a
+lot of messages about ANA. And hopefully this answers some of those questions. And I apologize
+for doing an episode.
+on ANA and potentially contributing to some of this difficulty.
+Okay, finally, we have the crypto update specifically with Celsius and Voyager. But
+the thing with crypto is everything is very interconnected. And so I've been debating
+how much detail to go into, like, I don't want to turn this into a full crypto explanation episode,
+because that would take a long time. And there are probably YouTube videos and other podcasts
+that are going to be on there. But I don't want to turn this into a full crypto explanation episode,
+because that would take a long time. And there are probably YouTube videos and other podcasts
+that are going to be on there. But I don't want to turn this into a full crypto explanation episode,
+because that would take a long time. And there are probably YouTube videos and other podcasts
+that can sort of explain a lot of this stuff better. But I think it is valuable to have
+kind of a basic understanding of how the ecosystem is sort of working and what has
+led to this sort of chain reaction of busts and bankruptcies and accounts being frozen and stuff
+like that. So I figured I'd start with a bit of a primer and I'll try and keep it as short as
+possible, because I think that primer will set the foundation for understanding a lot of what's
+happening right now with crypto and hopefully help inform some of your future decisions on
+where to park or move money. Again, if you have zero interest in crypto, definitely feel free to
+just skip this and go straight to the final tally where I tally up all the earnings for June. But if
+you are even mildly interested, here we go. So I'm sure everyone at this point is pretty familiar
+with Bitcoin and Bitcoin is both a token and also the blockchain that the token kind of runs on.
+And the blockchain is sort of like the accounting ledger that keeps track of everything. And so
+the Bitcoin blockchain generates Bitcoin tokens that you trade and sell and use to buy things.
+Now, similarly, there is the Ethereum blockchain, which creates the Ether token. So same kind of
+concept. The way you get more tokens is you mine them. And mining, as you've probably heard in the
+news, is very inefficient. It essentially uses up computer resources.
+And a ton of electricity to compute a bunch of math equations for no reason other than to create
+more of the token. So it is a complete waste in the sense that it does nothing other than make
+more of that token being mined. And so the creators of Ethereum have proposed Ethereum 2.0,
+because unlike Bitcoin, where no one really knows who created it, Ethereum was very much
+intentional. And they actually have developers and it's on GitHub. And you can kind of
+review the changes in Ethereum 2.0. And one of the changes in Ethereum 2.0 is that instead of
+mining, using up electricity, and that's the way that you generate new Ether tokens.
+So instead of it being a mining activity, it becomes a staking activity. And what that means
+is to get more Ether, you stake or put up Ether. So similar to how a bank works, you put money in
+and you earn interest. The way Ethereum 2.0 will work,
+is that you put in Ether, and the Ether earns rewards, aka interest. And that's how new Ether
+is generated. And that's vastly more efficient because people aren't buying graphics cards
+and using tons of electricity just to make Ether. The way you make Ether now is that you stake
+existing Ether. So that all sounds pretty good on paper, right? Like less electricity and better for
+the environment. So moving to this, what they call the Ethereum 2.0, which is a very, very good
+proof-of-stake model, is beneficial. But the issue is that Ethereum 2.0 currently exists alongside
+original Ethereum. And both are in operation because they're testing Ethereum 2.0, making
+sure all the bugs are ironed out. And at some point in the future, there's going to be an event
+called the merge, where they will merge Ethereum 2.0 with original Ethereum, and it'll just become
+one Ethereum chain.
+Instead of two separate chains. So an analogy might be that you're currently, let's say,
+doing all of your accounting in a paper ledger book, and you're wanting to transition to a nice
+accounting software on your computer, which is better. But while you're weighing that transition,
+you're testing out the new software, making sure it works well, all that stuff. And you're running
+both accounting books in parallel with the goal that someday in the future, you're going to merge
+both of those together. And if that sounds like a good idea, then you should be able to do that.
+a bit of a shit show. It really is because the merge date that they proposed for Ethereum has
+been pushed back for years now. So everyone kind of agrees it's going to happen. But the date that
+it's going to happen has been continuously pushed back. So why do we care? Why does that matter? How
+is this even relevant to Celsius and Voyager? So the thing with Ethereum 2.0 is, as we said,
+it's a staking mechanism where you put up Ether. So because Ethereum 2.0 is a staking mechanism,
+Ethereum 2.0 already exists. People right now can put up Ether into Ethereum 2.0 in order to start
+using this staking mechanism. So in order to be on Ethereum 2.0 and staking and earning interest
+on Ethereum 2.0, you currently need to put up 32 Ether, which right now it's trading at around
+$1,000 per Ether. So you need to put in $32,000 worth of Ether
+in order to participate in this new Ethereum 2.0 staking mechanism. So it's a lot of money. But
+on top of that, when you stake your 32 Ether on Ethereum 2.0, that Ether is locked. You can't
+touch it. You can't get it out. It's stuck in Ethereum 2.0 and it's earning the interest by
+staking. So that's good. But you don't have access to it until Ethereum 2.0 merges with Ethereum.
+So until the merge,
+your staked Ether is inaccessible. So as you can imagine, that presents
+liquidity issues because you can't touch that Ether anymore, but also just barriers of entry
+issues because you need 32 Ether, $32,000, which if you don't have that, you can't participate
+in this Ethereum 2.0 staking thing. So of course, a company has come around to solve both of those
+issues. And that company is Lido Financial, who offers a thing called Ethereum 2.0. And they're
+called staked Ether. And so staked Ether aims to solve both of these problems of liquidity and
+barrier of entry. Because with Lido, what you can do is you can give them Ether, let's say one Ether,
+and in exchange, they'll give you one staked Ether. And a staked Ether is sort of like an IOU
+for an Ether that they have on the Ethereum 2.0 blockchain. Because what they can do is they can
+give you one staked Ether. So if you only have one Ether, when it's pooled with everyone else's
+Ether, it meets that 32 Ether requirements. And in exchange, Lido will give you one staked Ether.
+And one staked Ether is nice to have because it is liquid. So you can use that one staked
+Ether now. You don't have to wait until the merge happens. You can sell it, you can trade it,
+you can split it up, and you can even convert one staked Ether back into Ether,
+so it's not locked up and you can cash it out in theory at any time. And the value of staked Ether
+is pegged to the value of Ether. So one staked Ether equals one Ether because staked Ether
+really is just an IOU on Ether on the 2.0 blockchain. And because everyone agrees that
+the merge will happen, your one staked Ether IOU is really worth one Ether in the future.
+So that's why they are pegged one to one.
+Hopefully that all made sense so far and you're still following along because that's it
+for the, I guess, the technical part of it, because this sort of sets the foundation
+for what's currently happening in crypto. So if you recall from the last recap, I kind of went
+through a little bit about Luna and Terra and the stablecoin that got depegged and became worthless,
+etc. And so that happened back in May. And that was sort of the start of a chain reaction of events
+because when Luna and Terra,
+that sort of triggered a lot of people to want to cash out of their crypto, you know, that coupled
+with it just being a bear market anyway, where stocks are down, people want safer assets with
+less risk. And so a lot of these exchanges are experiencing like an outpouring of cash as people
+convert their crypto into actual fiat money. And so Celsius was one of those exchanges where they
+did have exposure to Luna and Terra. And so they did have exposure to Luna and Terra. And so they
+lost some money that way. But that event itself spurred a lot of people to want to take their
+money out of Celsius. The problem, though, was that Celsius had taken people's Ether deposits
+and converted those deposits into staked Ether, because the benefit of having staked Ether is that
+staked Ether actually earns money. So whereas Ether would sit around and earn 0% interest,
+staked Ether might earn 5% interest.
+And, you know, that's sort of how Lido, Lido Financial makes their money is that they take
+your Ether and then they stake it on Ethereum 2.0, which is how you'll make Ether in the future
+on 2.0. And they give you a staked Ether token in exchange. And so the money that Lido makes
+by staking Ether on 2.0, let's say it's 5%, they give you a staked Ether that earns 4%.
+And so they make that 1%, which is how they make money.
+So what a lot of exchanges did with the Ether that customers deposited, so for example,
+Celsius, which is like a crypto brokerage exchange that offers loans, the whole shebang, really,
+they had like 400, 500 million dollars worth of Ether that customers had deposited with them.
+And they want that money to make money for them, right? That's how Celsius makes a profit.
+So they converted that Ether into staked Ether, which makes interest.
+Okay, so why is this a problem? So when Luna and Terra collapsed, everyone was cashing in their
+tokens for real currency. They were selling their Bitcoin. They were also selling their Ether.
+And that became a problem for Celsius because they no longer had your Ether. They had staked
+Ether. And so they now had to sell the staked Ether to convert back into Ether, which again,
+because they are pegged in theory one-to-one, that shouldn't be a problem. But it became a problem
+because...
+Because every exchange was trying to sell their staked Ether. And, you know, basic supply and
+demand, which is when everyone is trying to sell staked Ether and no one wants to buy staked Ether,
+you lose the peg because no one wants to pay one Ether for your staked Ether anymore. I think at
+its low, it was selling at like a 7% to 8% discount compared to regular Ether. And so when
+you extrapolate that discount to like 500 million dollars, that's...
+It's already a like 35 million dollar loss. But what was actually worse was that just in terms of
+sheer liquidity, there was no one wanting to buy staked Ether. So not only was it selling at a
+discount, but no one wanted to even buy it at a discount. And if you try to sell more, the only
+way you'd be able to sell more was if staked Ether was discounted even further, which would then
+create even more losses for you. So the act of you selling so much of it was causing more and more
+losses.
+And so eventually on, I think, June 12th or so, Celsius just halted all transactions. So no
+withdrawals in and out of their system, no deposits, no selling coins, just a complete
+freeze on all trading operations because they simply didn't have enough cash on hand to meet
+the requests of all the people trying to cash out of their tokens. And it really is anyone's guess
+as to what happens to everyone who's still selling.
+So the thing with holding crypto at Celsius or any exchange really is that you don't actually
+fully own that crypto. The standard phrase you might see on the internet is not your keys,
+not your coin. And what that means is when you buy crypto from, let's say, Celsius,
+they're the ones who generate and hold your private keys. So you don't actually have direct
+access and control over that Bitcoin. So when Celsius freezes and holds,
+you literally can't get that Bitcoin out because Celsius owns all the keys to it and has full
+control over your coins. And if Celsius goes bankrupt, what happens to your coins? That's
+debatable. And I think right now, probably not even Celsius knows, which is why they've hired
+a ton of bankruptcy and restructuring lawyers to figure out how to pay out customers. So the
+chances that you get back $0 is small, but you may be taking a trim off of how much you're getting
+back.
+have to pay other investors back first who are higher priority than you. And unfortunately,
+when an exchange freezes assets like that to prevent a full collapse, it is sort of potentially
+a self-fulfilling prophecy because they've frozen all their assets in order to try and, you know,
+acquire more funding or get bought out. But the second that they unfreeze everyone's assets,
+the first thing everyone's going to do is withdraw more assets, which may be,
+what then tips them over into bankruptcy. And so that's sort of the thing they're trying to figure
+out is how do we potentially prevent that from happening? Similarly, a couple of weeks later,
+Voyager also froze all of their withdrawals and deposits and trading. And the cause was
+a little different. But again, this is all very much interlinked because with Voyager,
+what happened was they had made a loan to Three Arrow Capital, which is a cryptocurrency hedge
+fund.
+And I think the loan was for hundreds of millions of dollars, like four or five,
+$600 million. And Three Arrow Capital defaulted on that loan at the end of June. And because they
+defaulted on that loan, Voyager was unable to meet all of the withdrawals that was happening
+on the Voyager platform as well, which was triggered by the whole Luna Terra collapse
+and the bear market. Everyone was just withdrawing money from all the platforms.
+And so in isolation, if Three Arrow's capital,
+had defaulted on the loan and people weren't trying to withdraw all their crypto,
+Voyager might've been okay. Or if people were trying to withdraw their crypto and Three Arrow's
+capital didn't default on their loan, Voyager might've been okay as well. But the combination
+of both of those happening at once meant they couldn't meet their withdrawal obligations anymore.
+And so they also froze all trading on their platform. And Three Arrow's capital itself
+has filed for bankruptcy as well.
+And Three Arrow's capital has filed for bankruptcy.
+arrows capital found themselves in that position because they were heavily exposed to luna and
+terra as well as ethereum which has lost a lot of value and they also had large positions in staked
+ether so all of that combined meant three arrows capital was not able to fulfill their obligations
+to companies like voyager which then caused the chain reaction of voyager halting their trading
+so you can kind of see how it's sort of a domino effect albeit a slow domino effect of these
+companies falling and causing other companies to fall and i say slow because before the celsius
+collapse people were already warning on reddit that celsius was illiquid and would potentially
+go bankrupt and this was a couple weeks before celsius froze their accounts similarly with
+voyager about a week or two before they actually froze their accounts they started reducing the
+withdrawal rate of their accounts and they started reducing the withdrawal rate of their accounts
+from 25 000 down to 10 000 and there were already articles about three arrow capital
+potentially having to default on this loan to voyager and what that could mean so a lot of
+these collapses like with celsius and voyager were very much like telegraphed ahead of time but you
+know if you're not following crypto news every day and keeping up with this stuff you probably
+would have missed it until you got the notice from voyager being like hey we've frozen withdrawals
+and then you're like oh my god we're going to freeze our accounts and we're going to freeze
+our accounts and so if you have funds stuck at voyager one of the things that voyager very
+heavily advertised that cash deposits with them are fdic insured so if you had just straight
+bitcoin with them that isn't insured but if you had cashed out that bitcoin into us dollars and
+kept it a voyager in theory that's fdic insured at least per voyager's marketing but now there's
+like a pretty heavy debate on reddit as to what that fdic insurance actually means because
+some people say that if voyager goes bankrupt you'd be able to get that cash back through fdic
+insurance but the other argument is that that fdic insurance only applies to voyager sponsoring bank
+so there's a bank behind voyager like i think it's metropolitan bank and there's debate of whether
+metropolitan bank itself would have to go bankrupt in order for fdic insurance to apply so voyager
+going bankrupt is not enough you need the metropolitan bank to go bankrupt so if you're
+going to go bankrupt you need the metropolitan bank to go bankrupt which is not going to happen
+because they're not really that heavily exposed so there's like debate and arguments as to whether
+or not you'd even get your money back that way through voyager but at this point it's kind of
+just a unknown like no one knows not even sure if voyager themselves know and so it's sort of a sit
+and wait and it's quite possible that things will just resolve themselves like they'll be able to
+restructure and everyone will get their money back but more likely probably is that people
+funds their assets at voyager will take a trim potentially or voyager maybe is able to secure a
+loan and potentially be bought out by a bigger company and that is actually sort of what has
+been happening so ftx which i guess is the biggest most stable of these crypto companies
+has offered blockfi which is another like celsius voyager type company has given them a loan of a
+few hundred million dollars with an added option of a few hundred million dollars and they're
+able to just buy blockfi later for 240 million dollars and blockfi agreed to that and sought
+that out because they were facing the same issues as celsius and voyager and instead of freezing all
+of their customer accounts they got that loan from ftx and has given ftx an option to just buy them
+out later similarly ftx also has like a 12% stake in voyager so there's speculation that ftx would
+buy voyager on top of that it's been an issue for them for a long time and they've been able to
+the news as well that ftx is potentially going to buy robin hood which is the the trading the app
+trading platform for regular stocks and it seems at least that out of this chaos potentially ftx
+will swallow up a lot of these companies and come out the other side stronger and i think part of
+the reason why ftx is in a more stable position than companies like voyager and celsius and stuff
+is that ftx fundamentally makes most of their money in a different way they make their money
+through trading fees so they're not going to be able to buy robin hood because they're not going to
+be able to buy robin hood so there's a pretty fascinating article i think done by bloomberg on
+how ftx and their founder sam came about but essentially ftx made most of their money
+arbitraging disparities in like bitcoin price so he saw that like bitcoin in korea was selling for
+less than bitcoin in america so he would buy up bitcoin in korea and then sell it in america
+and so when you make money that way the price of bitcoin doesn't actually matter
+you're making a lot of money and you're making a lot of money and you're making a lot of money
+based on the difference in price and these days i think most of their money is just made from
+trading fees like the fact that crypto is being traded on their platform whereas voyager and
+celsius they were trying to make the bulk of their money by loaning their money out and making
+interest on it whereas ftx does that as well but the bulk of their profits are from just people
+actually trading and even when things are going bad people are still trading because people are
+trying to sell their assets versus buy their assets and so they're trying to make the bulk of their
+money and so i think that's why ftx has probably one of the biggest war chests for surviving the
+the crypto winter and why they weren't as heavily exposed to the fluctuations of coin prices as
+celsius and voyager are all right so that's sort of the background on celsius and voyager and what
+happened to them in june and if you've made it this far you're in like the top one percent of
+one percent of people who understand what is even happening right now and so i think that's why ftx has
+in the crypto space and so that can sort of help inform some of your decisions going forward as to
+whether or not you want to park any money in these exchanges because for me i had money parked at
+voyager gemini and ftx because they were offering good interest rates voyager is now sort of out of
+the equation and i got lucky in the sense that when the celsius collapse happened i moved my
+money out of voyager gemini and ftx because the risk profile kind of just didn't make sense
+for me and so i think that's why ftx is a good place to start and i think that's why celsius
+for me anymore where it was like well i would rather just lose a few weeks worth of interest
+by moving the money out and just let the whole crypto thing play out and see if it calms down
+before i move money back in because it is so easy to just move money in and out of these exchanges
+and obviously hindsight's 2020 but i'm very glad that i moved my money out of voyager given what
+happened to voyager a couple weeks after that and i've been sort of debating on whether or not to
+move money back into the celsius space and so i think that's why ftx is a good place to start and
+into gemini and ftx at least for now ftx seems to be potentially the winner out of all of this
+and they seem quite stable gemini seems fine too i mean they i think laid off like 10 of their
+employees but so did coinbase and so did many other companies that aren't in crypto because
+of the bear market and the potential recession so that itself isn't a red flag but at the same time
+you know i don't have any insight into where gemini's
+money is who they've loaned it out to and how much risk there is of the people they've loaned
+it out to defaulting on their loan to gemini which then might trigger something else and so because
+that's all sort of a black box i'm just more comfortable keeping my money out of these
+exchanges for now until this sort of domino chain reaction kind of finishes and calms down because i
+was talking with one of my friends who works in finance and he was like you know we have a term
+for this in crypto and he was like you know we have a term for this in crypto and he was like
+which is picking up nickels in front of a steamroller and i thought that was pretty apt
+for the current situation which is that you know earning eight nine percent interest in front of a
+potential steamroller of crypto collapsing is sort of just not worth it you know it's very risky
+particularly because we're churning that money can be put to use elsewhere so for me what i'm doing
+in the interim with that money and sort of my plans for july is that all the money that's been
+cashed out i'm going to be able to use that money and i'm going to be able to use that money
+to go tackle some business bank account bonuses because those usually have pretty high requirements
+i think that chase seven hundred and fifty dollar bonus wants a twenty thousand dollar deposit the
+huntington one wants twenty thousand dollars the city one wants twenty five thousand dollars
+so you know that's money that i can move from withdrawing from these crypto exchanges and it
+works out pretty well from a returns perspective because like that chase one you're getting seven
+hundred and fifty dollars for depositing twenty thousand dollars and you get that bonus in six
+days which if you annualize that ends up being a twenty two percent interest i think the huntington
+pays out in ninety days and ends up being a ten percent annual interest the city tiered one if you
+do the twenty five thousand dollar tier you get seven hundred dollars in sixty days which ends up
+being a sixteen point eight percent interest so these all far exceed what these exchanges were
+offering and it sort of buys you two three months to just see how things play out and whether or not
+you want to dive back into parking cash in crypto so yeah that's my sort of uh short term two three
+month plan for where i plan to park cash while this crypto thing shakes out i'll definitely keep
+doing updates to this during the recaps um if new events happen which i'm sure they will you know
+with just the general volatility of the markets not just crypto but also in stocks so yeah we'll
+see but hopefully at least that crypto bit was informative and now
+you can bore all of your friends with the crypto conversation all right so circling back to the
+final tally for june we've got the three hundred dollars from banks with affinity three hundred
+dollars from brokerages through nadex referrals hundred dollars from personal capital through the
+racquet turn cash back two hundred and eight dollars and fifty cents of meal kit cash back
+through racquet turn chase offers and capital one then forty five dollars cash back from honey
+for the
+kitchenaid mixer fifteen dollars from invisible referral and sixty bucks from step up from
+selling a couple concert tickets for a total of one thousand and twenty eight dollars and fifty
+cents in june and that was a pretty close one i barely scraped past that thousand dollar goal i
+have each month and you know part of it was just getting sick and not being able to do much churning
+but luckily some of the earlier things had paid off and were set on meal kits for july so that's
+always nice and uh yeah
+otherwise i'm just finishing up the uh employer dark deposit episode so i should have that posted
+soon and if you want a notification right when it gets posted just go on to the daily churn podcast
+dot com and sign up for the newsletter and you'll get an email in your inbox with the summary of the
+episode as soon as it's available all right folks thanks for listening stay safe out there and i'll
+see you next time

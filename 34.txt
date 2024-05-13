@@ -1,0 +1,192 @@
+because my strategy with brokerages is that it's money that's sitting around anyway in stocks and
+so every year i'll move from one brokerage to another brokerage in order to get the new
+brokerage bonus so i've moved around quite a bit and in the case of this public bonus
+i actually did two partial acats transfers to qualify for the hundred thousand dollars
+hey everyone welcome to episode 34 of the daily churn today i thought i'd try something a little
+bit different which is instead of waiting until the monthly recap to cover all of the accounts
+that i'm currently churning i thought i'd do a dedicated shorter episode on just one of the
+bonuses i'm currently working on which sort of is what i used to actually do in the past
+like early on in the podcast the episodes were just focused on one thing like the first one was
+on hm bradley there was one on interactive brokers and i've sort of migrated towards
+longer recap episodes but i had some extra time this weekend so i figured i'd sit down
+and record a shorter episode on public public brokerage because they have a really really
+amazing bonus right now it's probably the best brokerage bonus that i've ever seen and it's
+gone really smoothly for me so far so i wanted a little bit of time to do a little bit of
+share it with you guys before it expires at the end of the year and give you plenty of time to
+start the process of getting this bonus because it is a brokerage bonus which involves a little
+bit more effort than your regular bank bonus but i think the massive payout makes this very very
+worth it and so i'll walk you guys through the steps that i did to qualify for the bonus as well
+as some of the questions that i had submitted to support and so hopefully by the end of this it
+should be a pretty smooth process before we dive in just a quick
+reminder that if you haven't subscribed to my channel yet please do so by clicking the bell
+that you can follow along on all of these churns that i do on the daily churn podcast.com
+slash tracker which will take you to the live tracker where i post the new churns i do along
+with notes and data points about these churns and so recently i put the public one on there i think
+yesterday or the day before and you'll also get access to the newsletter which notifies you when
+one of these new episodes come out along with show notes and links so definitely recommend
+subscribing if you haven't already but for now let's get back to public
+what makes the public bonus so amazing and worth doing a dedicated episode on is that it's just so
+much higher than any other brokerage bonus out there so it's tiered depending on how much money
+you transfer in at the $25,000 tier you get a $500 bonus and at the $100,000 tier you get a
+$2,000 bonus to put that into perspective that's double the amount that interactive brokers is
+offering which prior to this was the best brokerage bonus so interactive
+brokers is offering the best brokerage bonus so interactive brokers is offering the best brokerage bonus
+gives you $1,000 of interactive broker stock if you deposit $100,000 if you deposit $50,000 you get
+$500 of ib stock so it's tiered that way but with public for depositing $100,000 you get $2,000 so
+double what interactive brokers is offering and actually quadruple what charles schwab is offering
+so charles schwab offers $500 for depositing $100,000 as someone who's done both the interactive
+brokers bonus for the interactive brokers bonus and the interactive brokers bonus for the interactive
+brokers bonus and the interactive brokers bonus for both p1 and p2 as well as the charles schwab bonus
+for p1 and p2 i'm super excited about this public one because it is just worth so much more and the
+thing i love about brokerage bonuses is that the money that you transfer over to the new brokerage
+are in the form of assets that you already hold in stocks or bonds and so that money is already
+invested and earning money but it's not making any additional money just by being at your existing
+brokerage so just by moving those assets over to the new brokerage you can transfer that money to
+that bank and get back your old abroad funds in a very cheap way you're going to be paid out in this
+case a very large bonus for stocks and assets that were just sitting around anyway at your old
+brokerage whereas with bank bonuses and moving cash around there is an opportunity cost for you
+to move your cash from one bank to another because it's earning interest at your prior bank and now
+moving to a new bank maybe the new bank doesn't pay any interest you're just doing it for the
+bonus so you kind of have to figure out if that's a good move or not in the case of stocks you're
+and brokerage bonuses, you don't have to sell those stocks. You literally just transfer them
+over. And the process you use to transfer them over is called an ACATS process, which I think
+stands for Automated Customer Account Transfer Service. So it's essentially the stock version
+of an ACH direct deposit transfer. And typically doing an ACATS transfer is kind of a pain in the
+ass depending on which brokerage you're initiating and transferring to. It often involves forms where
+you have to enter all kinds of obscure information like the address of the brokerage that you're
+transferring from, the DTC number of both the sending brokerage and the receiving brokerage.
+So it's a bit of a convoluted process compared to the ACH transfer process. And in fact,
+that Interactive Brokers episode I did, I think half of that episode was just me walking through
+how to do an ACATS.
+Transfer through the Interactive Brokers interface. However, with Public, they've made it
+really, really simple. For those that haven't used Public before, it's a app bank. So it's only on
+your phone. And the app is pretty nice to use. I think a lot of us ended up on Public from a
+previous churn where you're able to fund your public account with up to $5,000 using a credit
+card. That has since died when PayPal Key died. But that's sort of why I think many of us do have
+Public.
+And I haven't really used Public outside of getting that free 5K of MS. But one thing they've
+done really well with this new promo is that the transfer process is all done inside the app. And
+they've updated the app to really support this ACATS process very well. They have a list of,
+I think, 12 or so brokerages that they support natively to do the ACATS process. I think there's
+Robin Hood, Fidelity, Charles Schwab, etc. You can look on the website.
+You can look on the Public app to see that full list. But if you have one of those brokerages,
+the ACATS transfer only ends up taking a couple minutes to fill out the info. You just say what
+stocks you want to transfer over, your account balance at the other company. And they seem to
+have a way where they're able to validate and pull all the information that's needed instead
+of you filling out like a three-page form and sending it in by mail, which is what some
+brokerages require. If you have a brokerage that isn't on their natively supported app,
+so in my case, Interactive Brokers is not on that list, you can still start the transfer.
+The only difference is that you need to upload a copy of your latest statement.
+This is, however, where things get a little less smooth than I'd like it to be because with
+Interactive Brokers, the app automatically rejected my ACATS transfer request. And so I
+reached out to Public Support who were very, very responsive. And they ended up just sending me a
+DocuSign with pretty much all of the...
+Important information filled out like the address of the sending broker and their DTC number and
+stuff. The only thing I had to fill in was how many stocks I wanted to move over as well as sign
+it. And so it was a pretty smooth process despite having to do it manually through support. My guess
+for why support right now is just so good at Public is that they are, I think, very heavily
+promoting this transfer bonus. When I'm scrolling Reddit, the Public Transfer Bonus ad shows up
+constantly in my...
+Feed as well as on DOC. I think they've got the CTO or CFO, one of the higher ups in the company
+responding to comments on DOC about this specific bonus. And I'll link to that thread in the show
+notes as well so you can see, but they're being very supportive. So it seems like they're pushing
+really hard to get as many accounts transferred into Public by the end of the year, which is when
+the promo expires. And that's good for us because it is one of the smoothest ACATS transfers I've
+ever done. I also initiated one in the app from Charles Schwab, which is one of their natively
+supported transfers. And that was handled entirely in the app and only took a couple minutes for me
+to fill out all the info. So really just very impressed with the process. And I've done a lot
+of brokerage transfers because my strategy with brokerages is that it's money that's sitting
+around anyway in stocks. And so every year I'll move from one brokerage to another brokerage in
+order to get the new brokerage bonus.
+So I've moved around quite a bit. And in the case of this Public bonus, I actually did two
+partial ACATS transfers to qualify for the $100,000 tier. That was a question that I had when I was
+researching this bonus and I didn't see answered anywhere was whether it had to be one single
+ACATS transfer that qualifies you for a tier, or can you do multiple ACATS transfers? And so I'd
+reached out to support and they answered, yep, multiple is fine as long as they come in before
+the deadline of December 31st.
+They'll just tally your transfers and figure out the tier that you qualify for that way.
+Additionally, partial ACATS transfers are totally supported as well. And the benefit of doing a
+partial transfer versus a full account transfer is that when you do a full account transfer,
+your ascending brokerage will close down your account. So in my case, I wanted to keep my
+Charles Schwab and my Interactive Brokers accounts open. With Charles Schwab, I was like, maybe I
+want to apply for the Charles Schwab Amex Platinum in the future. And with Interactive Brokers,
+I'm like, maybe I have some referrals coming in. So I didn't want IB to close my IB account.
+So I did a partial transfer from both and public will cover the cost of either type of transfer,
+whether it's a full account transfer or a partial, public will reimburse you for the fee that your
+ascending brokerage will charge. And they'll charge you different amounts depending on
+whether you're doing a full or a partial because of the full, they close it down. And I think it
+usually ends up being a higher fee than when you do a partial where you just take out, let's say,
+100 of the stocks and you leave 100 there. There's a different fee associated with doing that.
+But either way, public reimburses you. So on your end, it doesn't really matter if you transfer from
+10 different brokerages or transfer from one, as long as the end total that arrives qualifies for
+the tier that you're going for. In terms of tier qualification, it is based on the value of the
+stocks and cash that you transfer when it arrives into your account. So if your assets have decreased
+in value, you can transfer it to your account. So if your assets have decreased in value, you can
+transfer it to your account. So if your assets have decreased in value by, let's say, 10% by the time
+it arrives in public because the market is swinging like crazy right now, then you may not qualify for
+the tier that you're going for if that 10% causes you to drop into a lower tier. So that's where
+it's kind of important to over-transfer. So transfer more than you think is needed for that
+tier. And I kind of just went with between 5% to 10% extra to provide that buffer in case stocks
+drop 5% to 10% during that time while you're transferring.
+Another interesting way to add a buffer if the account that you're transferring from
+doesn't have enough money to cover an extra 5% or 10%, or if you're trying to qualify for a higher
+tier and your total assets don't equal that higher tier, you can also transfer in cash,
+whether it's through a full transfer or a partial transfer. And that can be a good option for a lot
+of folks. It's something I did for P2 where I didn't want to put another $5,000 into the market,
+but I also didn't have enough funds,
+to qualify for that $100,000 tier. So I just added another $5,000 in cash to the brokerage
+account and then transferred that over as part of the ACAT's transfer over to Public. And I
+confirmed with Public that on their end, they don't care whether your assets arrive as cash
+or arrive as stocks when it comes to qualifying for the bonus and the tier that you're going for.
+All assets that come over during ACAT's will count, including cash. Of course,
+if you're adding cash to your account,
+it sort of becomes like a bank bonus almost. So I wouldn't necessarily do it unless you're
+pretty close to another tier. Because if you're pretty far from another tier and you transfer,
+let's say, $50,000 in cash over, that $50,000 could be used towards other bank bonuses that
+you could be doing that may have cumulatively a higher payout than what Public is offering.
+But Public is unique because they're offering this on a brokerage transfer of assets. And so assets
+like stocks are usually things that aren't
+making you money other than being invested in the market. So that's sort of where the
+value proposition of this public bonus comes in versus it being like, let's transfer $100,000
+of cash from one brokerage into public, which you actually technically could do by doing the
+ACAS transfer. But your return at that point becomes a $2,000 bonus for $100,000 of cash,
+which isn't terrible, but with interest rates where they are, isn't amazing either.
+Because with public, you do need to leave the funds that you transferred over there
+for six months. That's their holding period. So if you transferred $100,000 of cash and you left
+it there for six months and you get the $2,000 bonus, that basically equates to like a 4%
+annual interest rate on your $100,000, which is like, okay, but also not super amazing.
+Whereas if you transferred $100,000 worth of stocks, that stock is making or these days
+losing money in the market.
+And you're going to make a $2,000 bonus on top. Another thing worth mentioning with public
+transfers is that joint accounts will not work. Public only supports individual accounts right
+now. So if you have a joint account somewhere else and you want to transfer over to public,
+you can't do that natively. The way you would do that is with your sending brokerage,
+you would open an individual account there and transfer from the joint into the individual,
+and then transfer from that individual over to public. And that can be
+super easy or impossible depending on the brokerage that you have. So with Charles Schwab,
+you can just open an individual account in a couple minutes and just move money from the
+joint over to your individual. With Chase Uinvest, it's an entirely new application.
+So you'd have to reopen an entirely new Chase Uinvest account in order to get an individual
+account if you had a joint one, which is what we currently have. So Chase sadly wasn't an option
+for us. And it's sort of why I'm kind of cobbling together funds.
+From like IB and Charles Schwab to try and get to that 100k tier. And I did reach out to public
+and ask them about the joint accounts as well. And you know, I got the generic reply of it's
+something we're working on. I know people want it, but most likely it's not going to be supported
+before this bonus ends. So I think that's it. I think I covered everything I wanted to say about
+the public account. I think if you can go for the $100,000 tier and get 2k, amazing. If you can get
+the $25,000 tier and make money, you're going to be able to get a lot of money. So I think that's
+$500, still really good. The $5,000 tier where you make $150 is less exciting because there's
+often bank bonuses too, where you can get a couple hundred dollars for depositing $5,000 of cash.
+But in this case, it is stocks that you wouldn't be able to usually qualify for a bonus on
+anyway. So even that 5k tier could be worth it as well. But yeah, check it out and see what you
+can move over. I believe this bonus goes through the end of December of 2022, unless they extend
+it. So make sure you get the transfers in with at least a few weeks buffer before that, because it
+can take a couple of weeks for the transfer to process. My assets just showed up yesterday and
+I think I initiated it like the week before. So it only took a week, which is pretty good,
+but your mileage may vary. All right. I think that's it for this episode, guys. I'm not used
+to these endings so quickly now. So let me know in the comments what you thought of it though. If
+the shorter dedicated one that comes out a bit more timely was interesting, or if you just prefer
+a big round of money, I'd love to hear from you in the comments. And if you have any questions,
+at the end of the month, let me know. I'd love to hear your thoughts. Otherwise I will catch you
+guys probably next week for another one of the shorter ones, unless you guys totally hate the
+format. All right, guys. Thanks for listening. See ya.

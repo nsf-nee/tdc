@@ -1,0 +1,398 @@
+so i think how this all ends up working in the back end is that your browser tracks the cookie
+from swagbucks that says hey you click through via swagbucks and then when you open via the
+referral link it adds another cookie or tracking to see that hey you also use the referral link so
+that's how you end up stacking it and actually this method works for a lot of these offers where
+you want to click through via swagbucks but then also
+welcome to episode 33 of the daily churn today's gonna be a recap of all the things that i churned
+in september for those of you that are following along on the live tracker on the website you've
+already got kind of a preview of all of this but september has been a pretty good month actually
+there was a bunch of bank bonuses that posted
+some credit cards that posted
+card bonuses a bunch of meal kits and i've recently started tracking freebies which i didn't
+track before and i didn't realize how many freebies i actually do in any given month but it's quite a
+few and i'm including those in this episode and going forward as well as always you can find links
+to everything i covered today on the daily churn podcast.com or if you're subscribed to the newsletter
+you should have received that in your inbox already but for now let's dive in starting with
+banks pretty busy month
+for banks actually i figured i'd start with an update on hm bradley since that was the very first
+episode i did for this podcast back when hm bradley was good and it hasn't been good for a while
+they've been changing tiers and making it harder to qualify for some of those really good three
+percent interest rate tiers but the most recent change i think might be the nail in the coffin
+for hm bradley and so for those of us that receive hm bradley emails because we've had accounts with
+them in the past you've probably seen that they are closing all of their existing hm bradley accounts
+that are being held at their sponsoring bank and switching to a new sponsoring bank but the problem
+here is that they aren't doing this automatically everyone is getting their old accounts closed out
+and those that want to stick around have to manually open a new account with their new
+sponsoring bank and i just can't imagine anyone wanting to do this given that interest rates at
+ally and sofi are already at two percent hm bradley is only offering three percent as their top tier
+and that requires you to have their credit card and charge money on the credit card so now this
+additional hurdle of having to then reopen a brand new account just seems like too much and
+i'd imagine the majority of their customer base doesn't follow them over to this new sponsoring
+bank my guess for why they're doing this is that their relationship with their old sponsoring bank
+probably sour
+like at some point last year they closed off the ability to join hm bradley because their
+sponsoring bank was like we have too much deposits than what you had originally contracted us for
+and they were offering three percent which wasn't sustainable and so i think things probably just
+went downhill from there to the point where their sponsoring bank was just like we don't really want
+to do business with you anymore and they found a new bank but the lack of automated account
+conversion yeah i i think this might be the case but i think it's probably the case that they're
+going to have an extra step so but they feel like she's losing the ability to do it and they've
+decided that it might be it for h and bradley i'm expecting in the next year or sooner we just get an
+email that they're they're shutting down so a bit of a shame but things are pretty crazy in fintech
+right now with the market the way it is and h and bradley hasn't been very customer friendly for her
+for a long time so not crying over the loss but um i may have to delete that episode one of the
+podcast or maybe just leave it up for posterity moving on to other banks gate city was one of the
+Doctor of Credit last month. That was interesting for a lot of people because they were offering
+$100 Amazon gift card for referrals. But most interestingly was that they were letting you
+fund your accounts with up to $2,000 with a credit card. So super easy MS opportunity there.
+And it worked out for some people. The folks that got in early enough were able to fund with their
+credit card. And when Gate City, as predicted, went through and then closed everybody's account
+because they realized, I think that like, oh crap, we've let thousands of people in and let
+them fund with a credit card when really we only want people in our state. And I think they're like
+in Wisconsin or something, you know, so very small footprint. They went in and refunded everyone's
+$2,000 credit card funding. But for the people that they refunded first,
+they refunded it via check. They sent an email to everyone being like, hey,
+we can't open your account. We're going to refund your credit card, but our system doesn't support
+credit card refunds. So you'll be getting a check. And of course, everyone on DOC was like,
+fantastic. We just got $2,000 of credit card spend and you're going to reimburse me with a check.
+Great. For those of us that joined like a few hours later, like me, apparently they'd figured
+out how to work the refund button on their credit card system. And unfortunately,
+they just refunded it via credit card. And in my case, it wasn't even a refund. It went into
+pending and then they canceled the pending transaction, which sadly means it doesn't
+qualify for any minimum spend. But for those that got in early, it was a pretty good,
+easy MS opportunity. For those that got in a little later, not so much, but you've always
+got to try. You never know. Next up, there was SoFi. And this SoFi one was a bit strange because
+for those of you that have listened for a while, you might remember that SoFi was a little bit of a
+I did this SoFi bonus, I think four, five months ago was when we opened those accounts and I'd
+opened it for both myself and P2. And what the account was, was that most of us had a SoFi money
+account before. And now if you open a SoFi checking and savings account, which is, I guess,
+something different, they were giving a $300 bonus. The problem though, was that because we
+had SoFi money, there was a question around, will I get the $300 bonus if I upgrade my money
+into a checking and saving account? Or should I close the money account and then reopen the
+SoFi checking and savings? And so between P1 and P2, we tried both methods. And only one of the
+methods resulted in the bonus being posted. I don't remember now if it was the close and reopen
+method or the upgrade method that resulted in the $300 bonus being posted. But in September,
+four or five months later, I got an email from SoFi that said, hey, we reviewed our records.
+It looks like you did qualify for this bonus. And they just randomly deposited another $300
+into my SoFi account. And so I can confirm that both methods actually work. And this is sort of
+relevant because the bonus is back. So I don't think the $300 part ever went away, but the
+additional $175 via Swagbucks went away. And so that is back now. So you can open it through
+Swagbucks and then go and open your checking and savings accounts or do an upgrade. So
+actually worked. We got both the Swagbucks and we got the bonus from SoFi, albeit one of them was
+like four months later. But yeah, definitely worth checking out. And again, this link will be up on
+the podcast because I think this is still alive and kicking. And it's a pretty easy, essentially
+almost $500 for depositing $5,000 via direct deposit. Just a reminder, though, to check the
+comments on BOC to see what will qualify for that $5,000 because SoFi tends to be quite strict and
+rules are always updating for what counts. Back in the day, I think Wise would work. I ended up
+using Square Payroll, which definitely will work, but just check to see if things like Astra might
+work too. If you're not familiar with all the flavors and variations of how you can trigger
+direct deposit, be sure to check out that employer direct deposit episode for a lot of tips there.
+On the topic of random bonuses posting, I got another $500 referral bonus from Albert. So if
+Albert had this increased $500 referral offer and it was a shit show because they removed the
+ability to track these, their customer service was just all over the place and probably actively
+trying to avoid telling people if they qualified for the $500. And so kind of a shot in the dark,
+I referred three people and all three bonuses actually ended up getting paid. But what was
+extra crazy is now the total amount I've received from Albert in referral bonuses is $1,800,
+which doesn't make sense because Albert on their site says there's a $1,500 referral cap.
+So I'm already over the cap. And I guess this shouldn't be surprising just given how Albert
+has handled the whole thing. And I wouldn't be surprised if they just never even coded a thing
+in their backend to limit how many referrals you're going to get or like increasing to $500
+messed up their code somehow where they're just counting for 15 referrals of $100 instead of...
+Anyways, long story short...
+I've made $1,800 off of Albert's referrals, $1,500 of which were just from three referrals because
+$500 is just an absolutely insane amount of money to pay for a referral, especially for a fintech
+company. So no complaints. I think this is probably the last time we're going to talk about
+Albert because I don't expect any more of these to come in. But yeah, that was a nice surprise in
+September. I also got a couple of referrals from Juno. So one of them I think was just from my wife.
+And another was from someone joining. So thank you, whoever did that. And I've got a few more
+pending Juno referrals, but those haven't posted yet. So maybe we'll see those in October.
+But the sad thing with Juno is that they've really crippled the referral program. So I think for
+those that joined before October 1st, it's still okay. But as of October 1st, their referral
+program now is only $10 instead of $100. But you do get a thousand Jcoin, so Juno coin for referring.
+And no one knows how much a Jcoin is worth, but they are giving them out in the thousands
+like candy. I tried Googling it and one site has a Jcoin listed at 0.000346 of a cent. So a thousand
+Jcoin might be worth a thousandth of a cent. So essentially Jcoin is absolutely worthless. And so
+their program is really now $10 for you and for someone else for referring. So really,
+a big downgrade. I guess they got like $18 million in funding recently. And so my guess is their goal
+is just to boost up numbers to get the VC funding. And then once they got the VC funding,
+their VCs were probably like, you're offering way too much in referral bonuses and scaled that back
+down. So a bit sad that it got killed, but sort of how it goes. And it was good while it lasted.
+And just a reminder too, if you're transferring money still to meet that referral bonus and
+you're using Wise, you're going to get a lot of money. So if you're transferring money still to
+don't forget to put payroll in the Wise reference field, because I forgot to do that for P2. And now
+I'm having to redo another Wise transfer that has payroll included because she didn't get that $100
+bonus initially. So yep, friendly reminder. Finally, on the bank front, there was the
+upgrade card along with the checking account. And this one's kind of an interesting one because the
+upgrade card has been around for a while. Credit Karma has been promoting this card
+on their sidebar. And so they've been promoting this card on their sidebar. And so they've been
+for months now. And the offer was $400 for opening the upgrade card and opening the checking account
+and making three debit purchases. But there's a better offer that some people were seeing,
+which is $500. And not everyone was seeing that. But on DOC, someone had posted the link to the
+$500 offer that anyone can use. So it ends up being $500 for opening this upgrade card.
+But the new thing that recently happened is,
+there's also now a $100 checking bonus if you join using a referral link. So remember,
+this upgrade card requires you to open that checking account anyway. But you could open
+the upgrade card and then open the checking account separately using a referral link to
+get that extra $100. On top of that, you can also click through via Swagbucks, which is offering
+$100 worth of Swagbucks to open that checking account. And there's a sequence of events you
+can try to assess the $100 bonus. And there's a lot of things that you can do to get that $100 bonus.
+So I posted a comment on DOC that details this, which I'll link to in the show notes as well.
+But basically what you do is you open the upgrade card first using the link on DOC that gets you the
+$500 offer instead of the $400 offer. Then during the upgrade card application process,
+once you're done applying for it, they'll ask you to open the checking account as well,
+which is required.
+But you can just close out of that and just say, I'll open my checking account later.
+And so don't open the checking account at the same time because you want to open the
+checking account and get the Swagbucks and the referral bonus. So the next step is to
+open the checking account yourself separately. But before you can do that, you need to wait
+for your upgrade card to be approved. So you won't be able to open that checking account
+separately until your upgrade card application has gone through and been approved. So that
+may take a few hours or a couple of days. But once your upgrade card is approved, you'll go on to
+Swagbucks and look for upgrade and you'll see their checking account offer and click through via
+Swagbucks. And that will open up a page on the upgrade website with the checking account. Leave
+that tab open, but open a new tab and now paste in the referral link. And so I think how this all
+ends up working in the backend is that your browser tracks the cookie from Swagbucks that says, hey,
+you click through via Swagbucks. And then when you open via the referral link, it adds another
+cookie or tracking to see that, hey, you also use the referral link. So that's how you end up
+stacking it. And actually, this method works for a lot of these offers where you want to click
+through via Swagbucks, but then also use a referral link. I think Chime is one of those as
+well. And so, yeah, keep the tab open that you click through via Swagbucks, then open a new tab,
+paste in the referral link, and then actually open the account
+with the referral link. And so that in theory should get you the $500 from the credit card
+plus $100 from Swagbucks plus $100 for opening the checking account. And the only requirement
+is doing three debit transactions, which is very, very easy. And for Swagbucks, I think they want
+you to deposit $25 as an additional requirement. So make sure you do that too. And on my end,
+the Swagbucks now show up as pending with the orange circle. So not 100% sure that the Swagbucks
+will post, but it doesn't hurt to try. At minimum, you'll get the $600, but at maximum,
+you'll get $700, which is either way a really amazing deal for just opening a credit card
+and opening a checking account. So yeah, if you want to give it a try, I'll post my referral link
+on the site. But just remember, don't open the checking account first. Open the credit card
+first because there are reports on DOC where opening the checking will result in the credit
+card getting denied.
+But yeah, that was it for banks in September. We've got the $300 from SoFi, the massive $500
+from Albert and a couple of Juno referrals for a total of $1,000 total for banks. Pretty good
+for banks. And there's a lot more coming actually on the bank front in October, which you can see
+on the tracker. I think I'm already over $1,000 for banks in October. So yeah, it should be a
+pretty good few months. Moving on to credit cards.
+Pretty good month for credit cards in September as well. First off, thanks to everyone who replied
+about the Wells Fargo cashback and how to actually redeem it. So yeah, you guys were all 100%
+correct, which is that it is a quarterly cashback that just automatically gets posted to your
+account. And that actually happened in September. I won't count it because I think I already counted
+it in the previous recap. But yeah, it did finally just show up on my statement. And I guess I'm
+still kind of baffled why Wells Fargo is not able to redeem it. So yeah, I'm going to show up on my
+doesn't mention this anywhere on the website or in their terms or online anywhere really. But I
+guess that's typical Wells Fargo. But I'm glad that the cashback did post and I appreciate you
+guys for responding and saving me a call to Wells Fargo. But the big bonus that did post in September
+was my P2's Chase Inc cash. So that was the 75,000 point bonus plus another 7,000 for a spend. Plus
+she got 20,000 for referring me to the Chase Inc cash. So it ended up being 102,000 Chase points,
+which is a pretty good haul. And she did refer me to the Inc cash. And so that's the new card
+that I'm working on. And that referral loop just keeps on going. And hopefully that will post in
+the next month or so. Then there was also the US Bank triple cash that I opened quite a while ago
+that posted. So it was a $500 bonus for spending $4,500.
+And the nice part was you have 150 days to complete. So what is that like for five months
+to do the bonus? So I've just been slowly chipping away at that one and that posted
+in September. And the extra 64 was just from the spend that you put on the triple cash. So
+564 total there. Then in the mail, I got a upgrade offer from Bank of America to turn my, I think,
+the customized cash rewards card into an unlimited cash rewards card.
+And they were offering $200 if I then spent $1,000 on the new card. So that's a pretty good
+return. It's like a 20% cash back on $1,000. And the nice part with an upgrade offer is there's
+no inquiry. There's no additional card being listed on your account. So no impacts to 524.
+So for me, these kinds of upgrade offers are pretty much a no brainer. I think the only reason
+I would keep the customized cash rewards card instead is that that card is the one that offers,
+I think, 3% cash back.
+On a category that you choose each quarter up to $2,500 worth of spend. But if you're platinum
+honors with Bank of America, which means you have, I think, $100,000 invested with Merrill,
+which is owned by Bank of America, then you get a 75% bonus on top of what you regularly get with
+the cash back. So the 3% ends up being more like 5.125%, I think. So as a card, getting 5% cash
+back is pretty good. That's pretty high, but you are capped at $2,500. So I wasn't really using it
+that much anyway, but I know some people have multiple custom cash reward cards and really try
+and max that out each quarter for that 5% return. But yeah, no bonuses posted from Bank of America,
+but hopefully that will come through in the next month or two as well.
+So tallying up the credit cards, it was the 564 from the triple cash plus,
+102,000 chase points, which for me is worth at least $1,500 minimum. But I tend to just count
+those points separately since I don't usually cash them out for cash. But either way, still
+pretty good month for credit cards. Next up, we have brokerages. Nothing really posted on the
+brokerage front in September, but I did want to mention a pretty big fail that I had on the
+brokerage end, which is that Interactive Brokers, which I did an episode on really early on,
+I think it was episode two.
+I totally misread the terms of their referral promo. So Interactive Brokers did and still does
+offer $1,000 of Interactive Brokers stock if you deposit $100,000. Or if you deposit less,
+they just tear it down so that you get less stock, but it's all proportional.
+And that was all fine and good. No issues getting that referral bonus when I signed up. And then I
+referred my P2 and she signed up. But what I did misread though, was that,
+when you refer other people, in order for you, the referrer, to get a $200 bonus for referring
+someone, you need to have made at least one transaction in the account. And I thought doing
+an ACATS transfer counts as a transaction, but no, they're actually pretty explicit in the terms
+that a transaction is literally buying or selling a stock, which I didn't do until a few months
+after. And during those two, three months,
+where I posted the episode and a bunch of people joined, I hadn't done a transaction.
+And apparently your referral only qualifies if you had done that transaction at the time of you
+referring someone. So it's not like you can do that transaction later and then your previous
+referrals will count. So I'm not sure exactly how many people joined during those three months where
+I didn't do a transaction, but I want to say it's somewhere in the range of like five to 10 people,
+which at $200 per referral,
+is somewhere in the range of $1,000 to $2,000 that I essentially just threw away because I
+didn't read the terms properly. So I'm mentioning this now because I just discovered this in
+September when I followed up with their customer service being like, hey, when are these referrals
+going to post? And they're like, well, you didn't really do a transaction until September of last
+year. So none of the referrals before September will count. And yeah, definitely a bummer to
+lose out on like a couple grand. But the lesson learned here is read the
+damn terms and just kicking myself because I literally did an episode on interactive brokers
+and apparently I didn't read the terms properly. So yeah, hard lessons learned, but hopefully you
+guys don't make that mistake. Moving right on to meal kits and cashback. There was a really crazy
+blue apron offer in September, which I think I posted a tip on DOC and DOC posted about it
+in an update. So hopefully some of you guys saw that and got in on it.
+But the offer was that Ibotta, which is one of those cashback shopping apps,
+was offering $65 back on Blue Apron. So that's pretty high, but nothing super crazy. But the
+extra crazy part was that Blue Apron has sent out an email around that time where anyone who signed
+up and got a Blue Apron delivered before September 30th, Blue Apron was going to send them a $100
+Blue Apron gift card. So you get the $65 from Ibotta and you get a $100 Blue Apron gift card.
+that you can use on future Blue Aprons. And so you can imagine I was pretty excited about this
+because I do a lot of meal kit offers. There's an episode on meal kits if you still haven't
+gotten into them yet. But this offer was especially good because it essentially ends up being a massive
+moneymaker. So on Blue Apron, when you sign up, you get a discount just through Blue Apron too
+off of the first box. And I saw that the lowest tier box you can get is just two meals for two
+people for $12 total because Blue Apron gives you like a $12 discount. So that's a really good
+$35 discount and they give you free shipping on your first box. So essentially I paid Blue Apron
+$12 and I got $65 back from Ibotta. And at the end of September, Blue Apron emailed me the $100
+gift card. So it turned into a $153 moneymaker from Blue Apron, which just simply doesn't happen
+usually. You make $150 bonuses from banks and stuff, but from a meal kit company is pretty
+crazy. So that was the big meal kit.
+win in September. And from HelloFresh, I've just been getting loads of these
+comeback offers in the mail that offer 75% off the first box. And it's crazy because 75% off the
+first box means that you can essentially just load up on as many meals as they'll let you do
+in one box, which is six meals for two people. And that box ends up being over $100. I think
+it's like $120 or $130. But then you can just load up on as many meals as they'll let you do.
+You can apply that 75% discount and we end up getting six meals for two for $26. That's what
+it always ends up being. And every time we get that, we eat it, we cancel HelloFresh. And then
+within a week or two, they're sending another one of these 75% offers, which is insane because
+we've closed and reactivated the same HelloFresh account probably five or six times now. And
+sadly, these 75% offers are tied to a single account. So I can't
+give those away. But yeah, if you have HelloFresh accounts, just keep an eye out in the mail,
+cancel those accounts when you're done and check what kind of offers they're sending you because
+they also send a lot of other discounts like 50% off a box or 30% off a box. But once in a while,
+they send those 75% offs. And the last month or two, they've been pretty consistently sending us
+those every two weeks. And yeah, we've just been eating a lot of HelloFresh. And as you guys know,
+from the previous recap,
+they're now also including three referral codes inside each box where the person you refer
+gets a box for free up to, I think, $65. So I've been giving those away every month for the last
+few months. And now I have three more of those. So if anyone wants one, just let me know in the
+comments and I will email you over the code. I don't get anything from referring you, but it's
+a really good deal for the person being referred to just get a free box. Plus, then you can cancel
+and hopefully get one of these 75% come back. So yeah, that's it.
+Thank you so much for watching. I'll see you in the next video. Bye-bye.
+Factor 75, which also does a similar type of thing where you microwave it. I think it's far
+and beyond tastier than Factor 75. So I would recommend Freshly purely from a taste and
+convenience perspective and just wait for the next deal. It seems they always have something
+good happening on Rakuten during the holidays. They always tend to double or triple their cash
+back amount from, I think, $20 to $40 or $60 during the holidays. So next one might be Black Friday,
+or maybe they do something for Halloween. But if you're interested in trying it out,
+just keep an eye out on Rakuten for that. Then with cash back, I got a couple referrals that
+posted from Ibotta. So $10 from each referral. I think one of them was from Oren in the comments.
+So thanks, Oren. And just a note too about these kinds of cashback site referrals like Rakuten and
+Swagbucks and BeFrugal and Ibotta is that if you join using a referral link, you actually have to
+make a purchase oftentimes.
+In order to get the referral bonus. So like Rakuten, if you join using a referral link,
+you'll get $30. I'll get $30. But only if you actually redeem one of the cashback offers,
+like you use Rakuten, you activate it, and then you get cashback from Rakuten.
+I thought I'd just mention it because on Rakuten, I've gotten maybe 20, 25 people joining using my
+referral link, which is a ton of people. But only I think six or seven people have actually bought
+something using Rakuten.
+During that referral period and gotten their $30, which like boggles my mind, because I'm like,
+it's a free $30 for you, you just have to activate the Rakuten extension next time you're buying
+something online. And you know, pretty much every e commerce website will qualify for Rakuten cashback.
+But the same thing has also happened on Ibotta, BeFrugal and stuff. And so I thought I just like
+remind folks that if you want the free money for both yourself and for me, you do actually have to
+buy something and you do have to pay something for it. So I'm like, okay, I don't know what to buy.
+something within a three month period. But during that referral period, I just have to activate the Rakuten
+extension and you can call and come forward. You can call the Rakuten extension and you can call upon the
+certain time frame after joining. I think maybe that's what throws people off is like, well,
+I'll join Rakuten and maybe during Christmas, I'll buy something. Unfortunately, I think they give
+you like a 30 or 90 day period where to get that $30 bonus, you have to make a purchase within that
+time frame. And I think maybe that's what trips people up. And speaking of cashback sites, I
+recently uninstalled Honey, which is the one that's owned by PayPal, I think, because Honey
+seems to just activate itself randomly. And this happened, I think, with the Freshly order where I
+didn't have Honey activated. I did have Rakuten activated. And I ended up getting an email from
+Honey being like, here's your $1 of cashback instead of the $60 from Rakuten. And the Rakuten
+never tracked even though the Rakuten extension was activated, but Honey wasn't. And I posted
+about this on Reddit on our training. And this has happened, it sounds like to a bunch of other
+people as well. So would not recommend.
+Using Honey for anyone who has it. And if you have it as an extension activated in Chrome,
+I would seriously consider disabling it until you have a specific need for it.
+So that was it for the cashback and meal kit stuff. Tallying it up, it was $153 from Blue Apron.
+Really good deal from HelloFresh, but I won't count it because we did end up paying some money
+for it, even though it was super discounted. There was the $20 of referral bonuses from Ibotta
+for $173 total from meal kits.
+And finally, we have freebies, which is a sort of a new category. I think I'm going to start
+including in these for those that love freebies. And I usually find most of these on Slick Deals
+and Doctor of Credit. And I haven't really been tracking them before. But now with the
+live churn tracker, I'm trying to track everything and then show it to you guys in real time. And so
+I've been keeping track of these. And yeah, as I mentioned in the beginning of the episode,
+I had no idea I was doing so many freebies because you don't really think about them.
+They only take a few minutes oftentimes. And yeah, it looks like there was quite a few in
+September. So let's see, there was a Shake Shack, a free buy one, get one on Shake Shack. So you end
+up saving like six bucks on the second Shake Shack, which we like Shake Shack just because
+we also have the Amex Gold Card, which gives you $10 at Shake Shack each month.
+Plus the free buy one, get one burger was kind of nice. Then there was also Wendy's Burger was
+offering a free cheeseburger, I think, which was worth like $6.
+With any purchase. So we hit up Wendy's. There was four months of Apple TV for free. I think
+this might still be around where if you log into your Target account, everyone who has a Target
+account is part of Target Circle. As part of Target Circle, you can get four months of Apple
+TV for free. And this works whether you're a new subscriber or a subscriber that's canceled before
+you can reactivate. And so you get four months of Apple TV, or I think it's four months of
+Apple TV for free. And so you get four months of Apple TV for free. And so you get four months of
+Apple Music or four months of Apple Arcade. And the only one of those we really use is Apple TV.
+And that's like five bucks a month. So that saves you 20 bucks for four months of free Apple TV.
+And there's some pretty good shows on Apple TV. So definitely worth doing that one. There was also
+$10 off of a Moonage Daydream ticket, which is that David Bowie movie that just came out.
+I did that for both myself and P2. We both went to go see Moonage Daydream for basically free
+because movie tickets around here.
+Only $11. But I know my friend in New York is like, it's not free because movie tickets are
+like $18 there. But I would probably not recommend the movie unless you're a super diehard Bowie fan,
+because I like Bowie, but the movie was just not good. I kind of regret going to that movie. But
+what else do we got on there? We've got Starbucks. Yeah. So PayPal was offering $5 off of a $10 reload.
+If you reload your Starbucks card. So they do that like once every quarter or so. It comes up
+pretty frequently. And every time both myself and P2 will reload $10 because it only costs
+$5 to do that. And Starbucks is always nice. I also signed up for a private VPN for two years
+because TopCashback was offering 105% as cashback. So it costs $60 for two years of the VPN. But
+because you get 105% cashback,
+it ends up being a $5 moneymaker. And I wouldn't have done it just for the $5 aspect, but it is
+useful to have a VPN, especially for things like booking ANA, which if you haven't listened to that
+ANA episode, definitely recommend checking that out because a VPN is something you need. And
+getting a VPN for two years for free is always nice. Someone also joined Visible using my referral.
+I guess it's new iPhone season right now. So yeah, that was nice because it essentially means I get
+a month off.
+Almost for free. It reduces the cost from $25 down to $5. So referrals worth about $20 with
+Visible. And I used to have Visible charged through my Amex Business Platinum because
+Amex Business Platinum gives you that $10 credit. But we recently canceled both of our business
+platinums because the annual fee hit. And with business platinums, it's often better just to
+cancel and then sign up again when there's another bonus offer or sign up for a personal platinum
+and get the platinum benefits that way. So that's why we canceled.
+But sadly, for a little while, we won't have the wireless credit. But we did switch over our
+Visible bill over to the VentureX card. And you want to make sure you have your Visible bill or
+any of your cell phone bills being charged to a card that offers cell phone coverage. So I think
+the Amex Platinums do that. But also the VentureX gives you $800 of cell phone protection. Some of
+the ink cards, maybe the ink preferred does it as well. But yeah, that was it from the freebies
+front.
+Tally those up a little earlier and it adds up to $87 if I include that Visible referral as well.
+So not bad, $87. I'm realizing we do a lot of fast food freebies. I'm not sure how great that is for
+overall health, but it's hard to say no to a free burger sometimes.
+All right. So tallying everything up, we've got $1,000 from banks, from Albert,
+SoFi, and those two Juno referrals. From credit cards, we've got $564.
+From the US bank, triple cash, plus $102,000 Chase Ultimate Reward points. Brokerages,
+nothing posted. Meal kits, $173 from Blue Apron and the Ibotta referrals. Then freebies,
+$87 of random burgers and movies and VPNs for a total of $1,824. Pretty good. Again,
+my target is $1,000. So this is almost double that. So yeah, it's been a pretty busy and
+productive few months on the bonuses.
+But yeah, that's it for the recap. And if you're wondering why I'm sounding a little stuffed up,
+I thought I'd mention it at the end, which is that both my wife and I currently have COVID again,
+and we just gotten it like four months ago. So this is twice in four months. I didn't even know
+if that was necessarily possible to get sick again from it so soon. And it's not like we're
+going out and licking toilet seats and stuff, but we are both vaccinated. So we had a friend
+visiting us who had just gone to a 300 person conference, and they said,
+stayed with us and we got it. And sadly, mildly under the weather. But yeah, that's why I sound
+maybe a little different this episode, but I think we're on the road to recovery and hopefully we'll
+be fully recovered by the next episode. And yeah, if you want to get notified when the next episode
+comes out along with show notes and links, be sure to subscribe to the newsletter if you haven't
+already on thedailychurnpodcast.com. Otherwise, I will catch you guys next time. Thanks.
+Thanks again for tuning in. See ya.

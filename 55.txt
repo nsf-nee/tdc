@@ -1,0 +1,450 @@
+you can withdraw those same funds out of the roth ira after only five years
+the 59 and a half age rule no longer applies to withdrawing the money that you converted over
+hey everyone welcome to episode 55 of the daily churn today's episode is going to be all about
+roth iras and more specifically roth conversion ladders that are possible thanks to a roth ira
+it's a topic i find particularly fascinating because i think it's a great example of how
+our current system of taxation is
+basically made by churners there are so many loopholes in the tax code that have been
+intentionally designed and implemented to help save you a ton of money on your taxes if you know
+they exist the roth ira in my opinion is probably one of the most loophole ridden pieces of tax
+legislation out there and you may already know some of the basics with the roth ira like hey
+you can contribute your money
+after tax into this account and it comes out totally tax-free on the other end and if you're
+totally unfamiliar with roth iras you may be like why is that amazing or why is that a good thing to
+do well because in your roth ira you can hold assets in there like stocks and if all of that
+money comes out the other end tax-free that can be a pretty insane proposition because if you
+imagine you bought a google stock 20 years ago when it launched for a hundred dollars that stock
+worth over a thousand dollars today so if your roth ira is composed entirely of google stock or
+other stocks that have grown which the stock market tends to do then the majority of what's
+in that account are profits from your stocks and you don't have to pay any taxes on those profits
+when they come out compare that to a regular brokerage account that you may open for yourself
+all of the profits there on the stocks that you trade and you buy you're gonna have to pay a
+capital gains tax on when you sell those stocks that is not the case for the roth ira however
+unlike a taxable brokerage account there are limits to how much you can contribute so each
+year you can only contribute sixty five hundred dollars that increases each year with inflation
+but roughly sixty five hundred dollars and there's also an income limit if you make more than a
+hundred and thirty eight thousand dollars a year as a single person or i think it's roughly double
+that if you're married then you can only contribute sixty five hundred dollars a year
+you're not eligible to contribute into a roth ira also you can't access the earnings the profits
+from your stocks in there until you're fifty nine and a half years old so for a lot of people the
+profits the earnings that's going to be the majority of that account if you've had that
+account for a couple decades so can't really tap into that until you're sixty so all of those
+limitations definitely a bummer which i guess is why uh congress folks went in and did a lot of
+and added a bunch of loopholes to get around these limitations so you may have heard even maybe just
+in passing about the backdoor roth ira which is a way to contribute into the roth ira if you make
+too much money so it kind of bypasses that hundred and thirty eight thousand dollar per year income
+limit there's also the mega backdoor ira which these are actually the real official names of
+people refer to these the mega backdoor
+roth ira that bypasses the sixty five hundred dollar contribution limit per year and basically
+means that you can contribute almost i think sixty thousand dollars a year into a roth ira
+so ten times as much money as you would have usually been able to do as fun as it would be
+to do an episode on just the various backdoor methods for the roth ira i'm gonna pass on that
+for today because that's more of the pre-retirement phase where you're trying to accumulate
+and you're trying to get the money back so i'm going to pass on that for today because that's
+assets into your various retirement accounts and there's a lot of different blogs and podcasts
+that cover it already in fact chris over at all the hacks he just did an episode i think just like
+last month on tax advantaged accounts where they go heavily into these two backdoor iras plus a lot
+of other various tax strategies you can take so i'll link to that episode in the show notes if
+you want to kind of dive into the pre-retirement loopholes a bit more but our focus today is going
+on accessing some of these retirement funds post-retirement and more specifically during
+early retirement it's a loophole or a hack that you might not have heard about i think it's a
+little less common than the backdoor iras when it comes to just how often it comes up in conversation
+but it's a really valuable one because it's a way for the roth ira to function as a vehicle
+for tapping into other retirement funds
+before you're 59 and a half. So it's not just about the funds that you have in a Roth IRA
+or a Roth 401k. It's more about how you can use that Roth IRA account to access funds in,
+let's say, your employer 401k or traditional IRAs that you have. The IRA sort of just functions as
+a key that unlocks everything else. And so if you've ever thought about retiring before you're
+59, this is fundamental to that. So today we'll cover some of just the basics first of how things
+roughly work, you know, rollovers versus conversions, distributions, contributions,
+all of that good stuff. But then kind of dig into how Roth conversions work, because that is the
+key, what the five-year rule is, and why you need a Roth conversion ladder, and some common pitfalls,
+as well as how to avoid them, along with some examples of how to execute some of these things.
+So a lot of good stuff coming up in this episode. This is the second in the Big Churn
+miniseries that I'm doing. The first part was on ACA health subsidies, which you don't need to
+have listened to that episode to follow along with this episode, but definitely recommend checking
+that one out if you haven't already. But before we get into it, just a quick programming update,
+which is that I'll be taking a little break for Christmas and New Year's. So the next episode
+after this one won't be released until mid-January.
+And that one is going to be a recap of everything I churned in December,
+along with an end-of-year recap. Basically, I'll be taking about a month off to relax a bit and
+also work on some long-overdue websites and Discord improvements, because that's really
+grown a lot in the last few months. And there are definitely some improvements that I can make that
+I think will make things a lot easier to use and hopefully more useful to you guys. So a lot of
+exciting things planned. I'll see you in the next episode. Bye!
+for 2024. But if you'd like to get notified of when that end-of-year recap is released,
+be sure to subscribe to the free newsletter at thedailychurnpodcast.com.
+But for now, let's get back into Roth conversion ladders.
+So starting with some of just the basics of how a Roth IRA enables someone to access retirement
+funds before retirement.
+Before 59 and a half. So there's a few different ways. The first, I think the more simple way is
+simply that contributions into a Roth IRA can always be withdrawn at any time. This is because
+a Roth IRA is a post-tax account. So the money that you contribute into it are contributed after taxes.
+You've already paid taxes on it. So, you know, it makes sense that you're able to take those
+contributions out whenever you want without it being a taxable event. Because, you know,
+you've already paid taxes. So if you put $6,000 into your Roth IRA today, you can take $6,000 out
+anytime you want. The caveat to that is if it's grown to $7,000, so you've had $1,000 of gains,
+you can't touch those gains, those earnings, until you're 59 and a half. The rule of thumb here is
+that earnings can only be distributed after 59 and a half if you want to avoid paying a 10% penalty
+that's on top of whatever you're paying. So if you're paying a 10% penalty, you can only pay a 10%
+your income tax rate is. Because with earnings, you haven't paid taxes on it yet, which means they
+want to tax you on that unless you've reached retirement age, at which point your earnings
+are tax-free. That's one of the attributes of a Roth IRA and why it's so appealing for a lot of
+folks. There are a few exceptions to that, primarily things like death, disability, some
+other qualified events like buying a new home or paying for college expenses. You're allowed to
+take up to 10% of your income tax rate. So if you're paying a 10% penalty, you can only pay a 10%
+out of your Roth IRA, and that can be earnings without having to pay a penalty. But for the most
+part, aside from these special exception cases, your earnings are always going to just be stuck
+in that Roth IRA until you're 60 years old. The next kind of question I often hear a lot
+with Roth IRAs too is like, well, the bulk of my retirement funds are actually held
+in other accounts, like my employer 401k or this traditional IRA that I opened,
+for myself, they're not in the Roth IRA. So I get that you can withdraw contributions
+out of the Roth IRA at any time, but I don't really have that much in there anyway. So it's
+not really a viable source of income during early retirement. And I think that scenario applies to
+a lot of us because I think most of us are contributing into a pre-tax account like a 401k
+or traditional IRA because you get to enjoy that tax deduction,
+while you're working. It basically lowers how much you have to pay in taxes each year while
+you're employed. So naturally, the bulk of our retirement funds tend to be in these other
+pre-tax accounts, not a post-tax Roth IRA. The missing piece of the puzzle there is
+Roth IRA conversions. That's really the key to enabling early retirement because
+with a Roth IRA conversion, you can move or convert money from your 401k
+or your traditional IRA into a Roth IRA. The only thing you have to do when you convert or move
+is that you pay taxes on the money that you're converting. Now, why would you want to do this?
+Why would you want to convert funds from your traditional or 401k into the Roth IRA? Well,
+it's because there's a special feature slash loophole that's being implemented specifically
+for Roth IRA conversions, which is that when you convert your pre-tax retirement,
+retirement funds into the Roth IRA, you can withdraw those same funds out of the Roth IRA
+after only five years. The 59 and a half age rule no longer applies to withdrawing the money that
+you converted over. So if you were to convert $10,000 today from your 401k into a Roth IRA,
+five years from now, you can withdraw $10,000 out of that Roth IRA without paying taxes because you
+would have paid taxes on that. So if you were to convert $10,000 today from your 401k into a Roth IRA,
+so you don't have to wait till you're 60. Your earnings, however, are still locked until you're
+60. So that $10,000, if during the five years it grew to $15,000, you wouldn't be able to take out
+$15,000. You can only take out that $10,000 that you paid taxes on. The $5,000 of gains of profits,
+you still can't access until you're 59 and a half, just like with contribution gains.
+So a conversion is treated pretty,
+similarly to a contribution. The differences are that with a contribution, like you just putting
+money directly into the Roth IRA, you can withdraw that contribution at any time. Whereas with a
+conversion, you have to wait five years. But whether it's a conversion or a contribution,
+you can't touch the earnings on it, the profits, until 59 and a half. So this five-year waiting
+period is known as the five-year rule. There's actually three different five-year rules that
+apply to the five-year rule. The first one is the five-year rule. The second one is the five-year rule.
+But this is really the only one that's relevant to most of us, which is the five-year rule when it
+comes to conversions into the Roth IRA. So any money you convert over, you can access in five
+years. If you're 35 now, you can convert and start tapping into your 401k funds, basically at age 40,
+once that five-year waiting period is over. So those converted funds have a five-year seasoning
+period, which kind of reminds me of churning sometimes.
+But my rough theory on why this five-year rule exists on conversions, but not contributions,
+for example, is that with a contribution, like you depositing money into your Roth IRA just as cash,
+that happens with money that's already been taxed, right? Like you receive money
+from your paycheck, and now you're putting it into the Roth IRA that same year,
+and you never got a deduction or anything for it because you were taxed on that money.
+When you received it on your W-2 or your 1099, and it's fully after-tax money that's being input
+into the Roth IRA now. With the conversion, though, it's you converting money that was pre-tax,
+so you did get a tax deduction on it. So at some point, you got a $10,000 tax deduction
+for putting $10,000 into a 401k, and now you're trying to convert that money into a Roth IRA.
+And my guess is the IRS,
+doesn't love the idea of you claiming a tax deduction any year you want by contributing
+to like a 401k, and then any later year when, let's say, your taxes are lower because you're
+not working, being able to then just convert that over to the Roth IRA and pay the taxes
+when your taxes are lower and have access to that money immediately. So they put in place
+this sort of like anti-gaming five-year rule where it's like,
+we're going to make you wait five years after you do this conversion before you can access the
+money. So just kind of a mild deterrent. And it definitely reminds me of banks making you hold
+your funds for 90 or 180 days before they pay out your bonus, or making you do 40 debit transactions
+each month to qualify for your bonus. It's these just additional hurdles to make it a little less
+easy to simply just be like, hey, I'm going to share this with you. I'm going to share this with
+some of my taxable income from a year when my taxes are high to a year when my taxes are a lot
+lower, like after retirement. But at the end of the day, this additional five-year requirement,
+I mean, if you're a churner, this is child's play, right? I mean, the simple workaround here
+is just to convert what you need five years from now today and to keep doing that. And this is
+why it's called a Roth conversion ladder, because let's say you retire at 35,
+and you can access those funds at 40 from your Roth conversion. So you'll want to just keep
+converting every year for five years ahead, all the way until you're age 54, because you just
+need to get to age 59 and a half. And that's when the floodgates on all of your retirement accounts
+open anyway, you can just access them freely. So you just got to get to age 54, where you're
+converting money that you'll use when you're 59 years old. And you know, when you're 54,
+you're going to have to convert all of your money to age 54. So you just got to get to age 54,
+using money that you converted when you're 49 years old, so five years before. So essentially,
+it's just a 20 year ladder. And it's honestly quite an easy, simple spreadsheet, like it's
+way simpler than any of our like churning bonus tracking sheets. But it does require you to budget
+five years ahead, because you need to kind of predict how much money you'll need five years
+from now. And that does require some planning and discipline to sort of stick to the
+budget that you made five years ago. And if you're having issues budgeting, definitely check out the
+episode I did, I think episode 36 on some of the budgeting tools that we use specifically for
+churning and fire. But assuming you can stick to and handle a budget, it's a very straightforward
+process, this Roth conversion ladder. And you might be also wondering, like, well, when you
+convert, though, the year you're converting, aren't you paying taxes on the amount of money you're
+converting? And the answer is yes, but you would have had to pay taxes on that 401k or that
+traditional IRA anyway, when you withdrew it at like, let's say age 60. Because those are pre-tax
+accounts, right? You got the tax deduction in the year you contributed to those accounts. And so
+you owe taxes on anything coming out. So it really doesn't make too much difference when you pay
+taxes on that distribution, as long as you're doing it when you're already retired.
+Because that's the key. Whether you're early retired or normal retired, you want to be retired
+because then you're not working, which means you're not making any income, which means you're
+in a super low tax bracket. And that matters because a Roth IRA conversion is a taxable event.
+And so the amount that you convert is going to count as taxable income in the year that you make
+the conversion. And so if you're in a super low tax bracket, you're not going to owe much,
+or any taxes on it, depending on how much you convert. So the standard deduction for a single
+person is $14,000. For married, it's $28,000. That means below those amounts, you pay zero taxes on
+that money. And then above those amounts, the next $11,000 if you're single, or $22,000 if you're
+married, that's only taxed at 10%. You're in the lowest 10% bracket. So if you're retired, and let's
+say you convert $25,000, you're in the lowest 10% bracket, you're in the lowest 10% bracket.
+$25,000 as a single person, or $50,000 as a married couple, you'd only end up paying an
+effective tax rate of 4.4% on 25 or 50k of taxable income, which is a minuscule tax rate. It ends up
+being about $1,000 or $2,000, depending on whether you converted 25k or 50k. And it is far less than
+the value of the tax deduction that you probably got.
+Back when you were working and you contributed into a 401k or a traditional IRA. So you can sort
+of see why the IRS added like a five year waiting period on this because it makes it so easy to
+shift income that they were just like, we got to add some additional stipulations like making you
+wait five years before you get to access those funds that you converted. But the TLDR here is
+that your goal basically during early retirement is to make,
+as little additional income as possible so that you can convert as much as possible into the Roth
+IRA while still staying in a low tax bracket. And that really works perfectly with the whole
+lean fire concept, as well as ACA subsidies. Because with lean fire, unlike regular fire,
+financial independents retire early. Lean fire is about retiring with less and spending less money.
+Spending less money means you need less income,
+during retirement, which means you can get away with converting less into the Roth IRA,
+which then means you pay almost no taxes if you're not exceeding that 10% tax bracket.
+And with less income, you qualify for free or cheap health insurance, thanks to the ACA subsidies.
+So it's really kind of a killer combo. And there is a sweet spot of income because if you're married
+between 40,000 to 50,000, you're going to have to pay a lot of taxes. And if you're married,
+annually of income of taxable income a year puts you in the 200 to 250% of the federal poverty
+level, which if you recall from the ACA subsidy episode is how you get really amazing health
+insurance for free. And if you're in that 40 to 50 K annual income range, you're only paying
+a 4.4% or less effective tax rate on that money that you're converting. It's really kind of this
+magic number or range of income.
+To be in, if you can lower your annual expenses to that level. And that's where churning for us
+really comes into play because in retirement, we want to still travel and do fun things. And
+we're able to do that because points and miles don't count as taxable income. So we're able to
+travel like someone who makes over $500,000 a year, but who pays out of pocket for all their
+travel while only booking 40 to 50 K of income.
+On our tax returns. So in my opinion, it's kind of a, an optimal income range to be in. If you
+really want to maximize all of the benefits available to you, thanks to ACA and low taxes
+and, you know, Roth conversion ladders and all that good stuff. But if you've been following
+along up until now, you might've noticed that there's kind of a five-year gap, right? While
+the Roth conversion ladder seasons, because you can't access those converted funds until five
+years later, and you don't really want to convert while you're working. So you want to convert while
+retired, but what do you do for the first five years of retirement? How do you fund that? And
+that's more of a, a fire topic. Most fire folks will recommend having some kind of a cash buffer
+where you have enough saved cash to basically sustain you for those five years until you can
+access your Roth conversion ladder. Obviously accumulating enough
+funds to be able to do all of those five years of retirement, but you don't really want to convert
+in liquid assets to be able to sustain you for five years is one of the big hurdles of early
+retirement. But if you're able to do that, there are some added benefits of having this cash buffer,
+which is that the biggest point of failure of early retirement is basically retiring right
+before a recession hits. It's known as the sequence of returns risk. So sequence of returns
+referring in this case to stock market returns.
+And depending on how you sequence those stock market returns, like whether it's
+you're retiring during a downturn, like a recession, or you're retiring during a bull
+market, like you got lucky and the stock market just keeps going up during the first few years
+of your retirement, that really has a major impact on the success rate of your early retirement,
+because you need the funds to last potentially 60 plus years. And if you retire right at the
+beginning of a recession, you're going to have a huge impact on the success rate of your early
+your portfolio is going to be down right at the start 20 to maybe 30%. And that's pretty much the
+only way fire can fail is if you end up retiring with 20 to 30% less assets than you thought you
+were retiring with. But that's where this cash buffer can offer a solution. Because what the
+cash buffer does is that during the first few years, in this case, five years, you can just
+take money out of the cash buffer instead of taking money out of the cash buffer. So if you're
+out of your stocks that are depreciated during this recession, and it gives time for the stock
+market to recover. And so cash buffers, and it doesn't have to be cash, really any stable assets
+that are liquid enough for you to pull from, that can help mitigate this sequence of returns risk.
+And this strategy is part of a bigger strategy known as the glide path investment strategy,
+which I think has been pioneered basically by Big Earn over at Early Retirement
+Now. I'm not sure if someone else came up with it before him, but he's definitely the one that has
+popularized it in the fire community. And I'll link to his blog in the show notes. But the glide
+path investment strategy is how we invest our money. And it includes this buffer, which you
+need anyway for the Roth conversion ladder. And that's going to be a topic I'll cover in more
+depth in the next part of this Big Churn miniseries. But getting back to Roth conversions
+and Roth conversion ladders, I wanted to cover finally,
+some gotchas and pitfalls to sort of avoid, as well as some examples. The first one that really
+got me last year, and it's a stupid one to fall for, but maybe you'll empathize with how it
+happened, which is that the deadline for Roth conversions is the end of the tax year, not the
+tax filing deadline. And the confusion came about because with Roth IRA contributions, or IRA
+contributions in general, you have until April 15th, the tax filing deadline, and then you have
+until April 15th of 2024 to make that contribution and get that deduction for 2023. That is not the
+case for Roth IRA conversions. If you convert in 2023, it's going to count towards your taxes for
+2023. However, if you convert in April of 2024,
+that conversion now counts as income for 2024, not 2023. This can make things a little tricky
+if you're targeting a certain income bracket, because it means that, let's say for 2023,
+you want to convert money into the Roth IRA, and the amount that you convert is going to count as
+taxable income. This is fairly straightforward of an equation if you know you have no other
+income in 2023. You're retired, you're not doing anything, you're not
+anything, then yeah, it's simply what do you want to be your income bracket, and that's how much
+you should convert, because you have no other income. So your Roth conversion is your income
+for that year. However, if you do a little bit of part-time work, or you churn some things that
+may result in like a 1099 int, or a 1099b from the brokerage, and those things count as taxable
+income, you don't receive those forms until January or February.
+Or sometimes March or April, if the bank is really backed up. And so you have to really track
+and predict how much income you're making that year, so that you know how much is left,
+how much room is left before you hit your target, and that's how much you'll convert.
+Because you have to convert by the end of the year before you receive any of the other tax
+forms that tell you how much other money you made in 2023. I'm not going to sugarcoat it,
+it is definitely an additional pain slash overhead if you're churning, because now not
+only do you need to track all of your bonuses, which I think you probably should be doing anyway,
+but you also have to figure out which ones are potentially taxable and which ones aren't,
+and use that total number as your baseline income for the year, so that you can figure out how much
+Roth IRA you can convert. So an example for us is like, if our goal,
+for the year, is a $40,000 target income, so that we can stay within the 200% federal poverty level
+to get the better ACA health insurance, then I need to go in and figure out how much were all
+the bonuses I made that were taxable, and tally that up. And the difference between $40,000 and
+the total of the churning bonuses is going to be how much room I have left to do Roth IRA conversions.
+But of course, there is some risk with this,
+because there's always going to be errors. Some places may not send a 1099, other places may send
+that you forgot about. And so if you end up doing it wrong, like the calculation is wrong because
+you didn't account for some income, then you may phase yourself out of a beneficial ACA subsidy
+bracket or a tax bracket and end up owing more taxes than you thought, or owing some premium
+tax credits from the ACA subsidy. Luckily, there is some relief,
+if you mess up. The main one being that IRA contributions can be made all the way through
+April 15th. So conversions you have to do by the end of the year, and you convert based on what
+you predict your income to be. But let's say you're wrong. Let's say you had another $5,000
+of income that you just forgot about, and you end up getting the tax forms telling you that
+in February. Well, luckily, you have until April 15th to contribute into a traditional IRA. Now,
+remember,
+traditional IRAs are pre-tax contributions, which means you get a tax deduction for contributing
+into that IRA. So using the example from earlier, let's say your target was $40,000,
+but you end up getting an extra $5,000 of income that you didn't account for. So now your income
+for 2023 is $45,000, but you really want to be at $40,000 because you want to qualify for 200%
+of the ACA federal poverty level. So what you could do is once you realize that that error
+happens, you can do a tax deduction. So let's say you have an extra $5,000 of income that you didn't
+you could contribute $5,000 into a traditional IRA at let's say you open one up at Fidelity or
+Robinhood, and you just pop $5,000 in there. And that's now a $5,000 tax deduction that reduces
+your taxable income from 2023 back down to $40,000. It's not super ideal to do this because
+now that 5k instead of just being liquid money you can use is now stuck in that traditional IRA.
+That you can't access until 59 and a half. And the only way to access it is to do a Roth IRA
+conversion. So you're in this kind of like catch 22 situation, but in a pinch, it is kind of nice
+having this like, oh crap, I messed up button that sort of fixes that mistake so that you don't
+phase yourself out of like a ACA subsidy or into a higher tax bracket. Of course, the caveat though,
+with contributing into a traditional IRA is that you do need to have earned,
+income in order to do that. And 1099 interest income is not considered earned income. So it
+helps sometimes to have a side business that generates a bit of earned income so that you can
+do these IRA contributions. But I don't want to get too far off track from a Roth IRA conversions,
+but there are a few different levers you can use to kind of structure and offset your income
+to keep it within a certain target range. If you guys are interested, I can definitely do
+a video on that. So if you guys are interested, I can definitely do a video on that.
+A dedicated episode on that as part of this big churn mini series. But getting back to Roth IRAs,
+another point of confusion I see everywhere is that conversions and rollovers often get used
+interchangeably and they're not, they're not the same thing, but people confuse them to be the same
+thing. And that makes it extra confusing when you're like trying to Google how to do one thing,
+but someone has confused the two terms. And that makes it,
+because the two things are very different. Like doing a Roth IRA conversion is very different
+than a Roth rollover. So what are the differences? What is a conversion versus a rollover? So
+a conversion specifically refers to converting pre-tax funds into post-tax funds. So for example,
+converting funds from your 401k or your traditional IRA into a Roth IRA, you know,
+pre-tax.
+into a post-tax account. That's a taxable event. And that is a conversion. A rollover is not a
+taxable event. A rollover is as it sounds, you're just rolling one thing over into another. You're
+not converting. There's no tax conversion happening. So for example, if you have an
+employer 401k and you leave your employer and you join a different employer that has their own 401k
+plan, that's a rollover of your 401k into another 401k.
+Or if you retire and you have a 401k, you're no longer with that employer. You can roll over
+that 401k into a traditional IRA. They're both pre-tax accounts. There's no taxable event.
+So with rollovers, the good rule of thumb is like, you're just moving from one account to another
+rolling over within the same tax bucket. It's just at a different location. Like it's at a
+different employer or now it's with Fidelity instead of another brokerage. Whereas with a
+conversion, you're literally converting the fund. So changing the fund into a different tax bucket.
+So converting funds from a traditional IRA into a Roth IRA. An example of this would be,
+let's say you retire from your job and you had an employer 401k. So now you want to move it into
+your own 401k. So you do a rollover into your traditional IRA that you have that you opened
+yourself, let's say at Fidelity. And if you wanted to tap into those,
+before you're 59 and a half, you could convert those funds from the traditional IRA into a Roth
+IRA, which would be a Roth IRA conversion, not a Roth IRA rollover. You might be like,
+what's a Roth IRA rollover? That's also something that gets confused sometimes because it's sort of
+an employer thing. Some employers will offer Roth 401ks. So not your regular 401k that's pre-taxed,
+but a Roth 401k.
+Post-tax 401k. And so that's where you'll usually hear Roth rollovers is when people are referring
+to a Roth 401k rollover, where they're just rolling over their employer Roth 401k into their
+own Roth IRA. So let's say you retired similar to a regular 401k. You may want to move that into
+your own account. You can do that with a Roth 401k too. You just move it via a rollover because
+you're just moving it from a post-tax Roth 401k.
+Into your own Roth IRA, which is also post-tax. There's no taxable event there. Everything stays
+the same other than you just moving the funds from one account to another. They're really
+fundamentally the same kind of accounts, except for two key differences. One being that the Roth
+401k is being offered by your employer versus you opening it at your own brokerage. The bigger
+difference though, is that a lot of what we covered today, I think all of what we covered
+Roth IRAs, those rules only apply to Roth IRAs, not Roth 401ks. So an example analogy, I guess,
+would be like a cake. So with a Roth IRA, what you're able to do is if you assume the
+contributions are the spongy middle of the cake and the earnings are the frosting, with a Roth
+IRA, you can choose to eat just the sponge. You take the sponge out first.
+Before you eat the frosting on the outside. And that's a good thing because the frosting on the
+outside is taxed. There's a penalty of 10% of taxes if you try and eat that frosting before
+you're 59 and a half. The thing with the Roth 401k is that you can't just eat the middle. You can only
+take slices of that cake. So anytime you take money out of a Roth 401k, it's a combination of
+both frosting and sponge. So if you're doing that before 59 and a half, you're going to end
+up paying a penalty on that frosting that you took out that you couldn't avoid. Whereas with
+the Roth IRA, you can take out just the contributions, the sponge, and not touch the
+earnings and leave the earnings, the frosting there until you're age 59 and a half. So that's
+the nuance and why you hear people talking about rolling over a Roth 401k to a Roth IRA, because
+it really is that easy. You want the Roth IRA rules, the better rules where you can just take
+out the sponge. Sweet. Just roll over your Roth 401k to a Roth IRA. It's a few button clicks and
+you're done. And now you can get the Roth IRA rules instead of the Roth 401k prorata rules,
+which is what they're officially called. I don't think the IRS refers to this as the sponge cake
+frosting rule, but that's a helpful way to think about it. And it's a useful thing to know when it
+comes to frosting.
+Roth IRAs and Roth 401ks is just sort of this nuance around the order of how your distributions
+are composed. What are you taking out when you withdraw $1,000? So with Roth IRAs, the ordering
+is that when you withdraw $1,000, it's always contributions that comes out first, money that
+you contributed directly. Then conversions come out next. So funds that you're doing this five
+year Roth ladder conversion on.
+That comes out next. And there's also another type of conversion, which relates to the backdoor and
+the mega backdoor conversions that comes out after your ladder conversions. And I won't get into the
+nuance of that here. It's complicated, but there's a really, really awesome Reddit FAQ that thoroughly
+explains this in great detail. It's probably one of the best things I've read all year when it
+comes to taxes. And I'll link to that in the show notes. But conversions as a big bucket comes out
+next. Then finally, it's your earnings. So from a Roth IRA, it's that order. And that's good because
+you want your earnings to come out last because that's probably the part that you're going to owe
+a penalty on if you're doing it before 59 and a half. So putting all of that together in a basic
+example, let's say you had an old Roth IRA that you'd contributed to a while back, let's say like
+five, 10 years ago, or you had a Roth 401k that you contributed to at your employer,
+and you've since rolled that over now into a Roth IRA. So that happened a while ago,
+but now you retire and you start your Roth conversion ladder. So you're converting from
+your regular 401k or your traditional IRA into your Roth IRA now. So instead of waiting the full
+five years for your Roth conversion ladder to mature and season, and you're able to access
+those converted funds, you can actually start immediately withdrawing from that Roth IRA
+Going back to that cake analogy, you can take out your contributions at any time. And because
+you'd contributed into that Roth IRA before, you can take out the amount that you'd contributed.
+So while you're waiting for that Roth IRA ladder to mature, your converted funds to mature,
+which takes five years, you can take money out immediately because contributions always comes
+out first. Once you exhaust the amount that you contributed, then it would start taking out the
+conversion ladder. So you can take out the amount that you contributed, and you can take out the
+conversion funds that you just converted. And if that hasn't been five years, then you'd owe a
+penalty because you didn't meet that five-year waiting period. But during that five-year waiting
+period, you can take out anything you've contributed directly into that Roth IRA.
+Just got to be careful not to go over the contribution amounts. Make sure you wait
+five years before you start tapping into the conversion amounts, and definitely wait until
+you're 59 and a half before tapping into any of the earnings that the contribution or the
+conversion amounts made during that time. Because otherwise, you'd owe a 10% penalty on anything
+that you shouldn't have taken out. Long story short, it's just really important to keep track
+of how much you're contributing and converting into that Roth IRA. You never want to distribute
+more than the contributions and the conversions added together. Because if you distribute more
+than that, it means you're distributing earnings. And you don't want to do that unless you want to
+pay a penalty.
+So your brokerage may or may not be tracking all of this for you. Some do to some extent. But if
+you've switched brokerages, you've rolled over to another account, you may have lost that. So it's
+important to keep your own records. I think there's a way to pull up some of these records from the
+IRS too, because the IRS can figure out how much is your contributions, your conversions, and your
+earnings based on your previous year tax filings. I think your contributions and your conversions
+are reported.
+in a tax form when you file your taxes. So that's another way to try and track down this
+information. But from what I can tell, it's mostly an honor system in terms of keeping track of which
+layer of the cake you're eating and taking out. And you do want to keep good records because even
+though it's an honor system, it's all good until you get audited, in which case at that time,
+you're really going to have to make sure your records were spot on. But otherwise, I think
+that's it for this episode.
+I know it was a lot of information. Just imagine if I started talking about the pre-retirement
+variations on the Roth IRA hacks, like the backdoor and the mega backdoor, this would have been like a
+two-hour episode. But hopefully at least this post-retirement side of things was useful.
+Definitely check out some of the resources that I've linked to in the show notes if you want to
+study up. It really is one of the biggest hacks in our system. And I think leveraging it is going
+to be one of the best plays you can make for your retirement.
+Long term. So hopefully you found it useful or at least interesting. And next time in the
+miniseries, at least, we'll be back with an episode on the glide path investment strategy
+and why we switched over and how that's really completely changed how we invest our money for
+like a 60-year horizon instead of a 30-year horizon when it comes to retirement. But until
+then, I hope you have an awesome holiday and New Year's and I'll catch you all next time. I think
+mid-January for the December.
+And the end of year recap. That's usually a really fun episode. So looking forward to that one. But
+as always, if you enjoyed this episode, please do forward it to a friend, maybe a friend that
+has been resisting opening a Roth IRA. Most people find out about this show just through word of
+mouth. So really appreciate it if you do that. Otherwise, thanks for tuning in and happy holidays.
+I'll see you next time.

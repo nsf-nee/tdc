@@ -1,0 +1,652 @@
+it's like if google flights integrated award bookings into their search results
+and then gave you advice on how to transfer the points that you need it really is that nice and
+easy hey everyone welcome to episode 60 of the daily churn i've got a bit of a different kind
+of episode today so if you recall from the last episode the monthly recap i mentioned that i have
+some friends and family that still book their flights with cash so domestic and international
+flights they're not using points to book they're paying cash and as a churner who hasn't paid
+cash for a flight in probably close to 10 years that was a little bit concerning for me to hear
+and so i wanted to just kind of address that head on and maybe do an episode on the tools
+and the workflows that i use to avoid having to pay cash for my award flights but if you are
+someone who already uses points for all of your flight bookings don't worry you can skip straight
+to the second half of the episode where i do a deep dive into the tools and the workflows that
+into a few of the new tools that i've been using that have completely changed the way i go about
+finding and booking award travel but if you are newer to all of this definitely stick around for
+the first half because the common concern i heard from like friends and family when i asked them like
+what's holding you back from booking award flights for everything is that it's just really
+overwhelming you know it's a lot if you're not familiar with it there's a lot of carriers there's
+a lot of point options a lot of loyalty programs
+carriers credit cards you got to figure out which carriers are partnered with who
+what alliance they're part of where do you transfer points from and then when you transfer points in
+you can't transfer them back and so that's kind of stressful this one-way approach to moving points
+around and then you've got like transfer ratios that you have to be mindful of as well as transfer
+bonuses because that all ties into the question of like am i maximizing my points am i booking
+the best flights that meet my needs based on the points that i have and then i have to figure out
+is that the best rate given that maybe i have multiple point options and multiple flight
+routes that i could take am i getting a good point value what points should i acquire what credit
+cards should i open when there are seemingly just an infinite number of options out there and when
+you kind of just summarize it like that it's a lot i mean even for seasoned churners and travel
+hackers the same kinds of thoughts run through my head i'm just more used to it and it's more of a
+process versus a blocker but it can still be stressful because there's just so many options
+and most of those options are going to be super specific to the route that you want to travel
+so if you're flying a new route you're basically a noob again whether you've booked a million award
+flights or you've booked none you sort of have to figure it out from the beginning like i've
+at this point i think mastered booking japan award travel but that's just one route out of
+thousands of different routes and destinations you could be flying there's millions of different
+permutations for all the places you could visit and so it's kind of less important that you know
+the specifics of a certain route unless you plan on flying that same route over and over again
+for the rest of your life i mean i plan on going to japan quite a few times more so it was useful
+to have that kind of deep knowledge about japan award travel and do episodes on it but i also
+plan to visit a lot of other destinations and i'm not sure if i'm going to be able to do that
+that i haven't been to before and for those it's more useful to have a general workflow that you
+can follow that can help you quickly answer questions that you have and also tools that
+can make that whole process easier and that's how you remove some of the frustration and anxiety and
+stress of just the unfamiliarity of booking award travel with especially new routes because when
+things are stressful you tend to avoid it and you tend to just take the easy route and you tend to
+take the easier option which is usually just paying cash that's what the majority of people
+do is pay cash for their flights even though they know award bookings are a thing or if you have
+award booking experience with specific routes you often kind of end up just going to the same places
+over and over again because you know those are easy to book and you know how to book them or you
+spend a lot of time and energy researching a new award flight end up booking one and it turns out
+to be not the most optimal way to book an award flight and you end up booking one and you end up
+booking the normal one that you could have booked I mean I think those three things probably cover
+99.9% of everyone listening here unless you're just like some award booking genius savant that
+has every route memorized honestly the most common question I get from folks are often like
+really specific award booking questions like how do I go from point a to point b to point c on these
+two airlines with the stopover and it's always like yeah I could tell you exactly what you're
+going to have to do and it's always like yeah I could tell you exactly what the most optimal route
+would be but for me to tell you that I would have to figure it out myself by running through the
+workflow and it's just not feasible for me to do that with every request that I get unless I just
+became like a full-time travel booking person so what's a little more practical and I think a little
+more generally useful is for me to run through what my workflow is like how I go about starting
+from the beginning booking one of the most optimal routes and then I would have to figure it out myself
+these award flights like what kind of tools and websites and search engines do I use how I
+structure that workflow like step by step and also cover some of the new tools that have come to
+market in the last year or two that are truly amazing and have made a huge difference in terms
+of saving time and energy when it comes to booking and finding these award flights I'll cover new
+services like points yeah and seats dot arrow and how they fit into my workflow and why points here
+is my new workflow and I'll cover some of the new tools that have come to market in the last year or
+two absolute favorite award booking tool how it compares to some of the other services out there
+like point dot me and when to use points yeah versus seats dot arrow versus like the old school
+expert flyer and why ultimately a manual workflow can still yield better results overall so you can
+kind of think of this episode as sort of like a woodworking 101 class where I'll show you around
+the woodshop show you where all the tools are and what tools you can use to do that and I'll show you
+a little bit more about the tool to use when and why you know a hammer isn't the best tool for every
+job because not everything is a nail and by the end of it hopefully you'll be a little more
+comfortable just diving deeper into the areas of award travel booking that are more specific and
+more interesting to you based on your travel patterns so lots of good stuff to cover today
+but before we get into it just a reminder that we have a free newsletter that you can join if
+you'd like to get notified whenever one of these episodes comes out so I'll see you in the next
+episode
+I'll see you in the next episode
+but I wanted to start with kind of just what my workflow even looks like and walk through some of
+the more manual steps that are still relevant today even with the existence of these other
+tools so the first thing I always do and I recommend you always do first as well is this
+to look up the flights that you want on google flights specifically google flights because google
+flights is the best flight search engine out there it's powered by ita software which you
+may be familiar with from like a decade ago you would go to matrix.itasoftware.com and search for
+flights that way because it was the best tool in the industry and google ended up just buying them
+so now if you go to that website it says the same thing but it has a little powered by google at the
+end but you don't need to even go to the website directly because it's now integrated directly
+into google flights and that software I mean it really is the goat like people on flyer talk
+love this tool and they're going to love it and they're going to love it and they're going to love it
+it used to be like the tool to use for finding mistake fares for doing mileage runs if you ever
+did those I was really into both of those about a decade ago but these days it's all just part
+of google flights and starting there is great because google flights gives you some really
+basic info that you should be aware of for any route that you're trying to book which is
+just what airlines are even flying the route are there any non-stops how much do they charge
+cash
+to fly these routes when the variances are in the season calendar because you can just click
+the calendar and it'll show you all the pricing options across many different months so you can
+kind of see like the seasonality when's low season when's high season and all of that gives you a
+better understanding of like the cash landscape of what it is you're trying to book and that's
+because points options award options often just mirror the cash landscape to some extent
+so once you've plugged it in
+into google flights and you've got your search results usually you'll find like three or four
+different airlines that fly your route non-stop I'm assuming most of us are going for non-stop
+these days like we're all too old for like three stopovers on frontier in order to get to our
+destination like let's focus on the non-stop routes because that makes things a little easier
+and once you know what those are you just go to each airline's website and search for the award
+fares for that route and you'll be able to get to your destination and you'll be able to get to your
+airline and just see what comes up and ultimately you end up with a list of airlines and their
+award costs as well as their cash costs because you have google flights pulled up so you might
+have one that's like united costs 15,000 miles on jet blue when you searched it cost 12,000 miles
+for that route and 10,000 miles on southwest and so that's kind of the stage where you sort of
+mentally compare the values here right like points are roughly worth one to ten thousand miles
+to two cents per point so like you know ten thousand points are worth usually like a hundred
+to two hundred dollars the reason for that valuation is just that's the rate that amex
+and chase will let you cash those points out at usually it's one cent equals one point like
+capital one will let you redeem your points for travel purchases that you made at one cent per
+point chase will let you book through their travel portal where you know a three hundred dollar flight
+you can pay for it and you can get to your destination and you can get to your destination
+in points instead and chase will let you redeem those points at 1.5 cents per point so a little
+bit more and so there's variation but just for ease of calculation we can assume a baseline
+of one cent per point so a 15,000 point united flight is 150 dollars worth of points and so
+once you know the points conversion you kind of just do the math you know if the cheapest flight
+booked using cash is three hundred dollars but costs fifteen thousand
+points which is a hundred and fifty dollars worth the points then that's pretty good value right
+you're getting two cents per point instead of that baseline one cent per point you're saving
+three hundred dollars by spending fifteen thousand points that's a good rate so book that with points
+don't book it with cash but oftentimes you know it's a little more comparable like if the cheapest
+flight is a hundred and fifty dollars and the points is fifteen thousand points it can kind of
+go either way and that's when things get more subjective because if you're buying a flight
+it's like how much do you value each thing are you more cash strapped right now or are you points
+rich right now and so that true value is going to vary from person to person and sites like nerd
+wallet and the points guy they'll try and give you a specific value like united miles are worth
+1.2 cents per point or southwest miles are worth 1.4 cents per point but you're really kind of
+splitting hairs at that point and the true value is going to vary from person to person
+to person like maybe you hate flying southwest so you'd rather pay more for jet blue or united or
+maybe you have miles already at united so even though it costs a little more through jet blue
+you want to use up your united miles first or maybe you have amex points which don't transfer
+to united but they do transfer to jet blue so you rule out united for that reason or maybe you have
+chase points that transfer to united but doesn't transfer to delta so you rule out delta a lot of
+these points are going to be a little bit more expensive so you're going to have to pay a little
+these kinds of considerations are where i think a lot of people stop and give up because it feels
+like there's a lot of different rules and options and permutations and they're not sure like what
+credit card to open in order to transfer where and which option is the best option and you start
+feeling decision fatigue from all of these choices and that's when you just pull out your wallet and
+you pay cash right and churners i think sometimes forget this struggle because we're so
+used to booking award travel and opening new credit cards that we forget we're in the one percent of
+the one percent of people that are travel hacking and optimizing their points and their credit cards
+we forget that this hobby is pretty outside the box and is not the normal path that most people
+take and so oftentimes speaking to people who are newer to award booking you kind of forget that and
+just like assume they know all these things and it's like no you gotta sometimes start from
+square one and if you're newer to this the good news is if it feels like there's like a mountain
+blocking your path like a mountain of knowledge that you don't know that seems insurmountable
+the good news is that actually it's just a little hill like it looks big right now because you're
+standing at the bottom of it but it's not it's a hill that anyone can climb a toddler could climb
+this hill it's the hill of booking domestic award travel it's really easy
+you can scale it with pretty minimal effort and energy and time just by following this workflow
+the actual mountain is the mountain behind this hill that's the mountain of international award
+travel that's the mountain that has base camps along the way and we'll get into that a little
+later of how to more easily navigate the real mountain let's call that mount everest but let's
+start with just the hill in front of us and we're going to start with the hill in front of us and
+now which is domestic award travel and climbing the domestic award travel hill might be all you
+need you know not everyone is trying to scale everest not everyone is trying to book first
+class award flights on the newest planes to the most exotic destinations for a lot of folks just
+saving money on their domestic award travel being able to fly across country visit family whenever
+they want without having to spend thousands of dollars on that that's already a pretty big deal
+and that may just be your goal when it comes to award travel and that's a good goal to have because
+domestic awards are very easy to master from a points optimization standpoint as well as from
+like a credit card opening perspective because domestically there's only a handful of big airline
+carriers and credit card companies so the big airlines are like united american delta southwest
+jet blue and maybe alaska then credit cards are the only ones that are going to be able to do that
+that you could possibly open there's only a few companies it's chase amex city and capital one
+then like the lower tier ones like bank of america u.s bank and wells fargo and that's it that's a
+pretty small finite list and chances are the routes that you care to fly domestically anyway
+only a few of those airlines and a few of those credit cards will apply so it's very much a
+manageable hill of knowledge and you don't even have to know all of the
+stuff i still use google all the time to google stuff when it comes to that because it's like i
+don't live near a delta hub for example so whenever i have to book delta i always end up googling like
+how to transfer miles to delta so google is your best friend here but the main thing i want to
+impart is just being clear about your travel goals like if you tally up all of your travel expenses
+how much are flights costing you each year and if you're not tracking your expenses to that
+goal then you're not going to be able to do that because you're not going to be able to do that
+granularity definitely check out episode 36 simplify which is an app that imports all of
+your data transactional data financial data automatically and sums it up into categories
+and you can see everything it's kind of like mint but a paid version and better i think another
+alternative that people are migrating to now that mint has shut down is monarch i haven't tried
+monarch personally but simplify is great but it helps you kind of just to see what you're spending
+money on and you can see what you're spending money on and you can see what you're spending money on
+and how much you're spending on flights and that can help you understand like what am i flying
+that's costing all this money like what routes do you fly the most often are you flying from san
+francisco to new york a few times a year do you want to be able to fly that route for free instead
+of however much you're paying for it and so from there it's pretty easy to then just follow the
+workflow to figure out okay what airlines fly that route and how much do award flights cost
+for that route for each of the
+airlines and you can just google you know how to transfer miles to that airline and open a credit
+card that lets you transfer to that airline or maybe even open a card that's tied directly with
+that airline like a united card or a southwest card it just depends on whoever has the best
+sign up bonus right now and you know you can listen to this podcast the monthly recap where
+i cover some of these top offers and the cards that i'm opening and the cards that you can open
+and in a matter of literally like
+three months you can easily with very minimal effort go from zero miles and points to having
+a hundred thousand or two hundred thousand or more it's a baby could do it level of effort
+to accumulate a few hundred thousand miles in a few months but it isn't instant and i think that's
+what trips a lot of people up as well is that they want the points now they're trying to book their
+flight now and they don't have the points now so they pay cash and then they forget
+until a few months later when they have another flight to book and it becomes a cash booking again
+and it's kind of this vicious loop and the way you break the loop is by scaling that little hill
+the hill of knowledge now and just figure out your travel pattern so that you can start banking the
+points you need and you only need a three month lead time because that's how long these credit
+card points usually take to post these sign up bonuses you usually have 90 days to meet the
+requirements of the sign up bonus and that's how you break the loop and that's how you break the
+bonus so in three months you can never have to worry about paying cash for flights ever again
+and you'll be so much happier once you've made it to the top of this hill versus just looking up at
+that hill all the time and hearing your friends talk about how awesome it is at the top of the
+hill you can just climb it just do it but once you're on the top of this hill that's when you
+can see the big ass mountain behind it right the mountain of international award travel bookings
+and you can see the big ass mountain behind it right the mountain of international award travel
+bookings and you've like had a taste you know the hill was pretty easy to climb it's pretty nice
+at the top of the hill but the real mountain that mountain looks steep like there's cliffs
+there's edges there's rocks falling off and sadly that is the state of booking international travel
+it's a lot of work but luckily the same sort of workflow applies where you can start with google
+flights and you find the non-stops for your international destination and see what airlines
+fly that route and figure out the award cost for each airline but that's around the point where
+you've like reached the first base camp and things now get a little harder because you're in a much
+bigger playing field with international awards there are not just a handful of airlines that
+you can count on one hand anymore there are all of the international airlines hundreds of airlines
+flying thousands of different routes and that's when things like knowledge and experience and
+research and planning and all of that kind of stuff comes together and you can see that it's
+all about the time spent doing it comes into play because things like airline alliances come into play
+and exponentially increase the amount of permutations that are possible with your
+award booking and so if you're not familiar with airline alliances it's basically just
+airlines internationally have teamed up to share benefits across their loyalty programs so for
+example you can accumulate miles with united that you can then use to book travel on your
+a and a the japanese airline because it's part of star alliance or your points at delta can be used
+with china airlines because they're part of sky team or your miles with american airlines can be
+used to book award travel on british airways and japan airlines because they're all part of one
+world and so those are the three major international airline alliances and it's a good thing those
+exist because you're able to use your miles across other partner airlines that aren't just the airline
+you've been flying with but these partner award bookings are what make things so complicated but
+also potentially super lucrative and they're the main focus of the whole travel hacking hobby like
+if you see people post on blogs or instagram or tiktok about these first class seats that they
+scored flying to the maldives or flying to europe and that's all supported by these partner award
+bookings and it's a way of getting these expensive
+international airlines to fly with you so if you're not familiar with airline alliances and
+national flights for as few points as possible partner rewards are how you can achieve that
+you know using the mountain analogy it's a different way of climbing the mountain like
+you thought hiking shoes were great for going up the little hill wait till you see the kind of
+equipment you can get for hiking a mountain you know ropes harnesses ice picks like it now has
+expanded exponentially so instead of simply transferring your chase points over to united
+to then book a flight on united
+flying on a united aircraft from let's say san francisco to tokyo which you could absolutely do
+you can now also use your united miles to fly that same route on ana on the pond airways because
+they're part of star alliance which means united will let you use united miles to book their star
+alliance partners and this could be appealing to you because airlines often price their partner
+awards differently often lower than their own awards now in the u.s.
+that's less relevant because in the u.s. most airlines have shifted to dynamic pricing
+instead of a fixed award chart it used to be a fixed award chart as of even you know like five
+years ago but pretty much everyone now has shifted to the dynamic award chart and award miles now
+will change based on demand and by change i mean mostly just increase they never really go down
+when demand is low they only ever seem to go up and become inflated when demand is
+higher and when demand is low they only ever seem to go up and become inflated when demand is
+higher because you know capitalism so thanks to dynamic award pricing you can often end up paying
+like 400 000 united miles for a one-way business class flight to japan flying on a united airplane
+and if you do the quick math that's like four thousand dollars worth of points for a one-way
+business class ticket to japan not a good deal at all but there are people out there booking it
+however there are other ways which is that international
+carriers are still for the most part using fixed award charts for their partners fixed as in it
+costs a flat number of miles to fly from let's say america to japan that doesn't change based
+on whatever their demand algorithm has calculated it out to be instead if you transferred your chase
+points not to united but to virgin atlantic which is another star alliance partner you could use
+those virgin miles to book a and a instead because a and a are not going to be able to book a and a
+is also still part of star alliance and virgin's partner booking award chart is extremely good
+so a partner booking with virgin means you use virgin miles that you transferred over to book
+a flight that isn't with virgin it's with one of their partners in this case a and a the same way
+you know with united you could use united miles to book a and a with virgin you can use virgin
+miles because they're all part of star alliance that chart only charges forty five thousand
+miles each way in business to fly with their partners so instead of you paying four hundred
+thousand miles to fly with united you could be paying a tenth of that only pay forty five thousand
+miles if you go through virgin instead it's the same chase points that you're transferring over
+you're just transferring it to a different airline or maybe you don't have chase points but you have
+amex points well amex can just transfer over to a and a directly and so you're just transferring
+you could potentially book that same flight with a and a directly and a and a because they're based
+in japan they have a better award chart just generally speaking because it's usually just
+american airlines that are trying to squeeze every last dollar for shareholders in japan
+they have a different kind of mentality about how corporations should work and it's actually
+a more fair pricing system for their award travel and so you could book with a and a directly
+that's another option it's a different cost and you can kind of see how the
+already just for one route are starting to escalate like i did a full episode on a and a
+bookings i did a follow-up episode a couple episodes ago on the updated rules in 2024 i mean
+you really need like a full hour two hour episode to cover each specific route because each of those
+episodes is backed by a lot of research like i spent probably 40 hours figuring out a and a
+award bookings the first time which i then converted into an episode
+and that latest episode another 10 20 hours to do the 2024 updates on a and a and j al first in
+business class award bookings so you can see where the time investment comes in and why domestic
+award bookings is like a little baby hill and international is a mountain thanks to all these
+partner award permutations if at this point in the episode you've been just completely scared
+off of
+international award flight bookings don't worry there is good news coming the first piece of good
+news is that booking international award flights follows the same kind of workflow as the domestic
+flights you know you still start with google flights but once you figure out what the airlines
+are that fly to where you want to go then it's more googling you know a lot of googling about
+like how to book business class to japan how to book business class on a and a how to transfer
+miles to virgin atlantic
+it's a lot of reading of blogs of flyer talk threads of reddit and you know back in the day
+you really needed to set aside a lot of time to research all of this but things have sort of
+changed like the amount of research that you need to do is no longer as intensive as that and you
+know in the past when i say in the past i mean just even a couple years ago there wasn't really
+any way to avoid doing all that groundwork all that research and all that research and all that
+research and all that studying you either just had to suck it up and pay whatever inflated price
+united wants to charge or you had to go deep and just like spend a week in a hole figuring all of
+this out and people myself included were down to do this because these international award bookings
+tend to be the more aspirational bookings you know they're longer flights so you want to be
+comfortable and they're generally more costly anyway but to fly business or first it's like
+$25,000 if you paid cash so the potential opportunity of only having to pay like a hundred
+thousand miles that's a huge value it's a thousand dollars worth of points versus paying like $25,000
+if you paid in cash like what is that like 25 cents per point so 25x your one cent per point
+baseline so yeah you were down to do it for big trips things like honeymoons like my honeymoon
+over a decade ago now i probably spent like $25,000 on a flight and i was like oh my god i'm
+going to spend 80 plus hours at least 30 40 hours of which were just on the phone with united like
+actual time with headset next to my ear 30 40 hours because that includes their hold times
+which at least back then was insane and i did it because i wanted to book an amazing trip for my
+wife and i for our honeymoon and i only had united miles from my job as a consultant where i was
+traveling around the u.s the company was paying for my flights and i didn't really even know about
+i was like most people who had miles earning it the hard way and i researched all these partner
+award rules the availability options spent so much time on flyer talk and this was before like travel
+blogs and instagram and there was no tiktok so all that stuff was a little harder to find than it is
+today but out of those 80 hours i was able to book like thai airways first class singapore business
+we flew to thailand singapore japan the maldives
+it was a massive trip and i used up all of the united miles that i had accumulated
+as well as like half my sanity to just book all of this but now there are tools that basically
+easy mode this mountain like they've built a gondola from the base to the top that you can
+just sit on and these have only really come into play like in the last year at least for me i've
+only been using them for a few months maybe they've been around for longer and i've had my
+probably but i've been amazed by how useful these tools have been they've shaved off so much time
+from the research aspect and they're finding new options for flight awards international flight
+awards that i didn't even think of to then go research so for the second half of this episode
+i'm just gonna go through this new favorite tool of mine points yeah and how it compares to some
+of the other tools out there and how to integrate them and how to integrate them into your flight awards
+and how to integrate it into the existing workflow and when you should use what tool for what purpose
+the thing that's really important to understand when it comes to using these tools
+are the different travel use cases that they apply towards so the two main use cases for travel i see
+when it comes to like international flight awards or just flight awards in general are that there's
+like two camps you know in one case it's like a flight award and in the other case it's like a
+you've got folks that are down to really fly anywhere their destinations are flexible
+their travel dates are flexible the main goal is just finding either the cheapest possible
+flight using points or the most premium flight that you can fly whereas the other camp are folks
+who have very specific destinations and dates in mind and their goal is just to either fly for free
+or fly for free but ideally in a more comfortable cabin like business or
+first and then they're going to be able to fly for free and they're going to be able to fly for
+the difference or the distinction between those two camps is sort of the concept of building a trip
+around your flight or building your flight around your trip and i'm mostly these days in the latter
+camp where my flight needs to fit with my trips travel plans like the dates that i have in mind
+and the places that i want to go because with most of us you either have jobs with set vacation
+times or you either have a job that you want to go to and you either have a job that you want to go to
+so you're traveling with family or you have pets where you need to find pet sitters for so you have
+to book those in advance and you can't just be changing those dates constantly which is our
+situation with our three dogs my dream one day is to just be a total nomad and we can just go
+anywhere where the flights are cheap or anywhere where there's first class flight availability for
+a good rate but the reality is we only take a few trips a year and so our goal is just to save money
+when it comes to domestic travel and for international the goal is just to maximize
+our comfort you know ideally we're flying in business or first on one of these like bucket
+list type flight opportunities but if that doesn't pan out the dates and the places we're going to
+are more important than the flight itself and that's not the case for everyone which is why i
+that distinction because it affects the kinds of workflow that you use to find and book your
+award travel so the
+workflow we've mostly discussed today is if you have a specific trip with specific dates and a
+specific destination in mind it's a different workflow if you are completely flexible and have
+no preference because then you wouldn't start with google flights maybe you start with seats
+dot aero which we'll cover in a little bit but for the folks that have a destination and dates
+in mind points yeah which great name by the way solves i think the biggest
+time
+suck for most people which is research there's a massive knowledge gap when it comes to booking
+award travel most of us don't know all the things you need to know in order to book the most optimal
+award flight points yeah knows everything because they're a search engine they know which airlines
+partner with which other airlines they know how much award flights cost whether you book directly
+or with an airline's partner they know which credit card points
+transfer to which airlines and which credit cards are running points transfer bonuses
+all of that information is presented in a pretty easy to digest google flights like interface it's
+like if google flights integrated award bookings into their search results and then gave you advice
+on how to transfer the points that you need it really is that nice and easy like you just enter
+your route the flight preferences you might have like how many passengers are flying how many
+passengers are flying how many passengers are flying how many passengers are flying how many
+passengers are flying what class of travel like economy or business or first you can even filter
+by what credit card points you have or filter out specific airlines i usually just leave the credit
+card points and the airlines things unfiltered so that i can see all the options and then you enter
+your dates and you can search a date range a four day date range or eight days if you pay premium so
+it doesn't have to be one specific date you can give it a range and the results load super fast
+like in 10 to 20 seconds and it's searching across almost every airline including all the
+partner permutations and it displays those results to you sorted by points cost from cheapest to more
+expensive and it tells you which airline you need to transfer your miles to and which credit cards
+can transfer to those airlines and it tells you if any of those credit cards are currently running
+any transfer bonuses and it factors that
+into the points cost that it displays to you pretty amazing and all of this is free it's
+completely free to use you only pay for premium if you want to search an eight day date range
+instead of just a four day date range so what would take hours before if you were searching
+this manually at each individual airline's website now you get all the results almost
+instantly and the best part is that it shows you
+results that you wouldn't have even thought to go search for because it knows every possible
+partner booking permutation even for domestic flights and that was the thing that really
+convinced me that points yeah is the way like this is something you should 100 be using and
+it's you know why i'm spending a good amount of this episode just talking about points yeah
+is with these domestic partner award bookings because that's something i've kind of neglected
+in my own regular manual workflow it just never seemed like it'd be worth the effort to do the
+like amount of research you do for the international award mountain but do that for
+domestic awards that never seemed that appealing to me because domestic awards generally are cheaper
+anyway so even if you figure it out and you max it out to the most optimal booking through partners
+you save like five thousand points or like ten thousand points you know whereas with international
+you're saving like a hundred thousand points and then you save like a hundred thousand points and
+points or 200,000 points. So the cost-benefit analysis there never really made sense for me
+to do the studying needed to be good at booking domestic partner awards. For example, most
+recently, I've been trying to book this flight from Denver to Dallas-Fort Worth. It's a positioning
+flight so that I can fly on Japan Airlines first in business. So I just had to knock out this
+domestic booking. So I figured business as usual. I looked on Google Flights and saw that only
+United and American really fly nonstop between Denver and Dallas-Fort Worth. Usually I try and
+fly Southwest because we have a companion pass, but Southwest doesn't fly to Dallas-Fort Worth,
+at least not on that route. So I thought, okay, cool, United and American it is then. And I'd
+prefer not to pay cash. So I'll book with points, but nothing transfers to American Airlines. I knew
+this.
+I built transfers to American Airlines and that partnership has ended recently as well. So the
+only really way to get American Airlines miles now is to open an American Airlines credit card. And I
+didn't really want to do that. So I ruled out that option and went with United. I'm like, United,
+pretty easy to transfer miles to. You can transfer miles over from Chase. I went on United's website
+to see how much the award flight would cost. Cost 15,000 miles. Pretty good. Cash rate was about 150.
+So pretty comparable, but still worth it for us. We're trying to save cash because we're points
+rich and hoarding cash for the whole fire thing. So my thought process then was just like, okay,
+I could either transfer my Chase points or I could open the United business credit card because
+currently I remember seeing on Doctor of Credit, there's an all-time high offer of 100,000 United
+miles when you spend $5,000 on a new United business card. And business was appealing because
+then it wouldn't affect my 524 status with credit cards, with Chase. Plus having some extra United
+miles around would be useful in general because United is great for things like positioning
+flights. And also they fly to a bunch of like random smaller airports that no one else really
+flies to. And with the card, you get a free check bag, which would be useful for our snowboards.
+So I thought, cool. All right, I'm going to open this United business card and added it to my list
+of like churning to-dos. And that was sort of the way I was going to do it. So I went to United
+and it was sort of my whole like process beginning to end. It took maybe like 30 minutes of research
+and it was sort of the result of like me combining this workflow with my background knowledge on
+United and credit cards. And I was pretty pleased with myself. You know, I had saved myself $150 or
+300, if you include my wife too, all for the cost of opening one United business card. And I thought
+it was a done and settled case until I started researching points here for this card. And I
+because previously I'd only used point.me. I hadn't really dived that deep into point.year before
+and I was exclusively using point.year for international award searches. But just kind of
+for kicks, I decided to plug in my Dallas-Fort Worth-Denver route to see what would turn up.
+And I'm sure you can guess what happened. It found better options. So a little pop quiz for
+the more experienced travel hackers, the more experienced travel hackers, the more experienced
+the Everest climbers listening to this episode, like what options do you think it returned that I
+didn't think of? What options did it find that were not just booking directly with United or with
+American Airlines? Okay, so the partial credit answer that I'm hoping everyone got is that it
+found cheaper alternatives by booking using international partners instead of booking direct.
+with the airlines. Because at the end of the day, United and American are still the only ones
+flying direct. It can't materialize new planes to fly that route. But it can save you points by
+routing your booking through different airlines. So it showed options where you transfer credit
+card points to an international airline that's part of a partnership with United, so part of
+Star Alliance, or part of a partnership with American.
+And because those international airlines have cheaper partner award charts, you can book
+domestic US travel with an airline that's not based in the US for less than you can book directly
+with the US airline itself. I know, what a crazy system. But for the more experienced folks,
+can you guess what airline it had me transfer to? If you guessed Etihad, you get a solid B+.
+So Etihad is the national airline, I think, of United Arab Emirates. And I've heard in passing
+before people transferring miles to Etihad so they can book American Airlines flights domestically
+within the US because they're all part of the One World Alliance. But I'd never looked into it much
+because I wasn't near an American Airlines hub. So I never did the research. But it makes sense
+because American Airlines doesn't really have any credit card transfer partners anymore.
+And so what you could do, though, as a workaround, was transfer miles to Etihad instead,
+because Etihad does transfer from Amex and Capital One and Citi at a one-to-one rate.
+That coupled with the fact that Etihad has a pretty good US partner award chart,
+where these flights apparently only cost 12,000 miles versus United's 15,000 miles,
+plus Capital One was running a 40% transfer promo.
+So you get 40% extra points when you transfer from Capital One to Etihad, which I had no idea
+about. But Poinsettia displays that in the search result, the end result being that the flight only
+costs 9,000 miles. So pretty amazing option, but it gets better because that was the B-plus grade
+answer. There's actually an even better option that it showed that I never would have thought
+to even Google for. And maybe here's where we really separate.
+from the hill climbers, right? Can you guess what the better option was for this Denver to
+Dallas-Fort Worth route on American Airlines? That's the hint I'll give. It's with American
+Airlines, but it's not booking through Etihad. And it's even cheaper than the Etihad partner
+booking, even with the Capital One transfer bonus. The answer is booking American Airlines
+via Iberia. Iberia is Spain's national airline.
+And that only costs 8,250 miles as the flat rate instead of 9,000 miles with Etihad and 15,000 miles
+with United. So basically half the price of the United award booking. And that was definitely not
+on my radar at all to look at Iberia's American Airlines award chart. If it was on your award
+chart and you'd answered it correctly, definitely A-plus to you. But I do wonder if maybe you know
+this because you've either flown or you've never flown. So I'm going to ask you a question.
+Have you flown the route before or you're an American Airlines diehard? So you know all the
+ins and outs of the American Airlines system. But that goes back to, you know, how many other
+routes like this with other programs are you not aware of that you haven't done the studying and
+the research and put in the hours to truly understand all of the various ins and outs
+and permutations that are possible? You can probably see now why points. Yeah, has become
+a critical.
+Part of my research workflow, instead of going to airlines one by one and looking up cost,
+I now just use points. Yeah, instead. And oftentimes it unearths options that were
+not even remotely on my mind. Previously, I'd tried using point.me to do this instead,
+and I was just not that impressed. Point.me, I think is their closest competitor.
+They function in the same way. They're meant to do the same thing.
+Point.me looks super modern, like very slick, modern UI. But, you know, as the saying goes,
+you can't polish a turd, but you can polish a turd. But then you just have a really shiny turd,
+which sadly is sort of what point.me is. I mean, I could just recap some of the issues here,
+which is that you can't search at all on point.me without making an account first. Points. Yeah,
+you can just search immediately. You can go to points. Yeah, dot com. I'll link to all of this
+in the show notes and just start.
+Right now, point.me got to make an account. Once you've made an account, you only get
+three free searches. Then if you want to do more than three searches, you either have to pay $5
+for 24 hours of searches or $12 for the full month. I would consider paying if it wasn't
+for the fact that it's also super slow. Like it takes a good two minutes for it to search
+all of the various airline programs, whereas points. Yeah, under 20 seconds every time.
+Coupled to the fact that point.me, you can't search a date range. You have to search each
+date one by one. So if you're flexible on whether you fly out on a Friday or Thursday or a Saturday,
+that would be three separate searches on point.me and you'd use up your three free searches and
+you'd have to pay. That'd just be one search on points. Yeah. Additionally, it misses a lot of
+options. Like even just on this Denver, Dallas, Fort Worth domestic route,
+doesn't show the ETR option at all. Points. Yeah, it does show it. It just feels like it's
+a lot more comprehensive on points. Yeah. Versus point.me. It really kind of just seems like
+point.me's main goal now is shilling their full service paid concierge program where you pay $200
+to have someone at point.me do the whole thing for you. Like they'll manage your booking for you,
+which in theory, like seems maybe,
+like palatable. Like I could consider paying 200 if it removed all of the stressors and they
+did all this stuff and saved me hours of research. But unfortunately, they're not delivering on that
+promise. There are multiple data points in our discord of folks who have used their concierge
+service and the results were subpar at best. Like you can do better just searching yourself.
+The people that they pay to do the searches for you were not particularly,
+very responsive, didn't do a great job searching different permutations. Like there's just no
+reason to pay for that service versus even just using point.me directly and spending the 20
+minutes instead of spending $200. That coupled with just this constant, like trying to get you
+to buy that service and then not letting you even search without an account and then giving you only
+three searches. I mean, everything feels a little, little slimy. Like, does anyone,
+does anyone know the history of point.me? Like how they started? Was it always like this?
+Cause I don't. So I am genuinely like asking, like, did they get bought out by a hedge fund
+or something? Like maybe they were good in the past, but then post buyout all the effort now
+just seems to be going towards marketing and upselling the premium concierge instead of just
+staying on top of actually improving the features and developing these features. Because it really
+shows like points. Yeah. Has completely leapfrogged. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah.
+It's completely free. Another tool that I did want to briefly touch on that's quite popular as well
+is seats.aero. So seats.aero is interesting because it serves a totally different purpose
+and it took me a while to understand that. And so initially I was disappointed with seats.aero
+because it wasn't doing the thing that I wanted it to do, which is that I wanted to do what points.yeah
+was doing, which has helped me.
+find award tickets for a specific date to specific places. That is not what seats.aero is designed
+for. And that's, I think what confuses a lot of people, myself included, because, you know,
+you Google like best award search tool or whatever, you get Reddit threads and people will recommend
+seats.aero alongside points.yeah. So you go into it thinking they serve the same purpose,
+but everyone has different travel use cases. And so it's important to understand the
+use case for seats.aero. The use case for seats.aero is for aspirational bookings. It's great
+for finding these booking unicorns on like first-class cabins on ANA or Lufthansa,
+where the purpose of your trip is the flight, not so much the destination or when you fly.
+So seats.aero really shines for that use case because first-class seats are notoriously hard
+to find. And so it's great for finding these booking unicorns on like first-class cabins on ANA or Lufthansa,
+you want to be more flexible. So seats.aero lets you search these really broad search
+criterias. Like you can just enter, I want to find flights from the United States as a whole
+to Europe as a whole. And you'll just find availability for, I think the next two months
+or 12 months if you pay for pro. So it's really like, you don't care where you fly out of,
+or even really where you fly to, you just know the rough continent so that you can get that
+first-class flight. They've got these pretty cool pre-built tools that will display first-class
+availability on just a handful of really aspirational airlines like ANA, Lufthansa,
+Qatar. And they'll let you see when and where you can fly out of to get on these flights.
+And you can set alerts to get notified when one of these airlines dumps a bunch of seats.
+They have a discord where you can set up alerts.
+And you know, talk about different like flight options. It's really a perfect tool for nomads
+or travel hackers or bloggers or, you know, people who have like a bucket list item to fly
+in like ANA's The Room or Qatar's Q Suites. And it's less useful for folks who are trying to
+plan a family vacation because quite often only one seat will pop up at a time and you need to
+grab that one seat. So you're not going to find three or four seats for you, your wife and your
+kids. Finally, another tool that serves a pretty different but important purpose is ExpertFlyer.
+And that's a tool that's been around for quite a while. Like I was using it back when I was doing
+mileage runs a decade ago. It looks like it was built in the 90s. Like the interface is very
+old school, but it's still relevant because it performs a function really, really well.
+The other tools don't. It's not a substitute for Point Sierra or Seats.Aero and vice versa.
+But it is a very important tool to have because what it does is it helps alert you when an award
+seat opens on a specific flight that you set the alerts for. So the use case there is, let's say,
+you know, you're going to Japan, you know, roughly what date you're going to go, like you're going
+to fly out on either a Thursday or a Friday. So there's only like three or four flights flying.
+And you maybe have one business seat booked, but you need to get a second business seat for your
+wife. And you have her in economy right now, but you want to bump her up to business. So you would
+use ExpertFlyer to set an alert for when a business class seat becomes available on that
+flight. And then you'll get notified when and if it opens up. So as far as I know, no other service
+has as good of an access to that data that ExpertFlyer does.
+I believe they pay for like specific licenses that give them access to instant top level data
+on like seat availability and fare classes and all that stuff. No one else I think does it quite as
+well. So most of us put up with their really old interface. And it's a useful tool, especially at
+the end of your workflow. So once you've figured out all of your options, but something about your
+booking is suboptimal, there's something you want to improve on, like let's say points. Yeah,
+I found you the cheapest award flights in business, but there's only one seat and you need
+two. Or if you have business booked, but you're like, I'd splurge more points to fly first, but
+first isn't currently available. You would use ExpertFlyer to set up alerts to tell you the
+instant one of those seats opens so that you can then go in and change your flight. It's great for
+final optimizations like that versus using it near the beginning of the process and using that
+as your service. And then you can go in and change your flight. And then you can go in and change
+your flight. And then you can go in and change your flight. And then you can go in and change your
+engine, which I think in theory is feasible. And I think what I had to used to do because
+these other tools weren't available back in the day, but that no longer is the case. You should
+be using points. Yeah. Or see sort error for that kind of a search. The other downside, other than
+it just being like a really old interface that looks like it's from 1995, is that it also costs
+$5 a month. And because you're setting up these alerts for flights that you're flying 9, 10,
+11, 12 months.
+In the future, you're most likely going to have to keep that subscription active so that you keep
+getting alerts. So you're potentially paying for like 9, 10 months worth of that $5 subscription
+up until your trip is done. And that's, I think, how most people use it is they have a trip in mind
+for the final optimizations. They have some seats that they want to monitor.
+And so they just pay for expert flyer and you just pay for it up until your trip actually departs.
+But at the end of the day, you know, if it's the difference between you flying
+a business class seat or a first class seat or your wife flying economy or business,
+paying, you know, $5 a month for, let's say, 12 months, $60, totally worth it, right?
+So between expert flyer, see sort error and points. Yeah. Those pretty much cover all of
+my bases for booking award flights. I think they're like three must haves in your tool belt
+and you use them depending on the specific situation that you're in and what you're trying to book.
+That said, there is still a case for
+doing some of these things manually and acquiring some knowledge over time for the routes that
+matter to you and the routes that you fly the most often, because none of these tools are perfect.
+They all miss different things. Even if you have all three of them, they each still miss
+important things. For example, even points. Yeah. They have a page on their website that
+explains some of the things they miss, like just kind of a forewarning just due to the way
+award systems and flights are structured. Like points. Yeah.
+Don't show Southwest options, for example, because no one can show Southwest award options
+because Southwest doesn't allow it. That's why Google flights also doesn't show Southwest award
+or cash options. You know, Southwest basically sues anyone who tries to show any of their search
+results outside of just being shown on Southwest.com. So you won't be able to find some
+routes like that. And points. Yeah. Also won't find like hacks, like adding a leg to the end of
+your itinerary to help reduce the amount of money that you're going to be spending. So that's why
+overall award price. That's definitely something you can do for some airlines. It won't help you
+maximize your stopovers and your open jaws. You know, it doesn't tell you that this airline lets
+you do five stopovers and this airline lets you do a stopover on a one way flight, but the other
+airline only lets you do it on a round trip flight. Stuff like that is stuff that you sort of have to
+just learn over time. And it also doesn't show like cash rates that well.
+It shows some cash rates next to the award rates. So you can do a comparison right then and there,
+but I only see it on like 50% of the results. So you still have to compare it to Google flights.
+If you want to figure out like the value that you're getting. So doing some bits manually is
+still, I think in your best interest, maybe there is some tool that does all of it now. I mean,
+there's so many tools out there and now a lot of tools I didn't cover, you know,
+only covered three of them here, but I will link to a Google sheet that duck fan,
+one-on-one kindly shared with us on the discord that compares all of the various tools out there
+right now. I think there's like 10, 20 columns of different tools and the features of each.
+And I think the price of each, if you have a favorite that isn't one of the ones I mentioned,
+definitely let me know, leave a comment and make sure you let me know why you like it better
+than one of these other three options or what gap it fills that the other three options does not
+fill. I'm always kind of looking to expand or replace some of the tools in my award travel
+tool belt. If there's something better out there for the job, but the big TLDR here is that these
+tools can save you a ton of time and will often get you 80% of the way to the finish line with
+only 20% of the work, which is ideal. And whether you want to dedicate another 80% effort just to
+optimize everything all the way up to the max, that's up to you. Like it might make sense for
+a big trip, like a honeymoon, but you may want to just let it go for domestic flights where,
+you know, optimizing 80% of the way with only spending like five, 10 minutes doing a pointy
+air search. That's probably enough, you know, and I definitely encourage you to read the post I made
+called the optimizer's curse over the holidays a couple months back. If you're someone who struggles
+with over optimization, like I do. All right, everyone, that's it for this episode. Hopefully
+you found it helpful. If you're brand new to award bookings, hopefully this inspires you to
+go out there and book your first one. If you're new to award bookings, hopefully this inspires you
+instead of paying with cash. If you're pretty experienced already, hopefully some of these
+tools are new to you and you can integrate that into your workflow. But as always, if you enjoyed
+this episode, please do share it with a friend that might find it helpful as well. Most people
+find this podcast just through word of mouth, so really appreciate it when you pass it on.
+But otherwise, I'll catch you all next time for the March monthly recap. Thanks again for tuning in.
+See ya.
+I'll catch you all next time. Bye.

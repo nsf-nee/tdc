@@ -1,0 +1,286 @@
+Hey guys, welcome to the very first episode, the pilot episode of The Daily Churn.
+Although technically this isn't actually the first episode, I recorded one a couple days
+before this and it ended up running almost two hours, which I think is a little bit too
+long.
+So I'm going to try and cut it down to 15-20 minutes, which I think probably means I will
+only be talking about one subject per episode, but the goal is to kind of make it like a
+bite-sized thing that you can listen to while driving and provide a bit of tips, tricks
+and maybe just general inspiration and motivation to keep on churning because as we know with
+this hobby, there's definitely a lot of ups and downs.
+Some days everything's posting correctly and your bank account bonuses are triggering and
+you're getting approved for credit cards and other days you're in Amex pop-up jail and
+referral bonuses aren't tracking and Swagbucks isn't responding.
+So for today, I think I'll just focus on one aspect of churning, which is bank accounts
+and not even bank account bonuses, but just actual bank accounts, like checking savings
+accounts that have a good interest where you can park your money and specifically the HM
+Bradley account, which has just been a huge game changer for my wife and I, my P2, in
+terms of giving us a super convenient place to check out our savings accounts.
+So I'm going to talk a little bit about that.
+So I think most of you are probably familiar with this account already, but whether you
+have it or not, I think there's a couple useful things that I've sort of found out along the
+way that will make the account a lot easier to both open, maintain, meet the requirements
+and maintain some level of liquidity in your account.
+And what I mean by that is HM Bradley is unique in the sense that it has two requirements
+that you don't see with other accounts.
+So a little bit of background on it is that it's a 3% interest rate account for $100,000,
+up to $100,000 in savings, which is far and large the best place to park money currently
+in terms of savings account compared to all the other options out there, which prior to
+HM Bradley, I'm in P1, P2 mode with my wife, we had eight or 10 accounts between various
+little credit unions.
+You know, like Evansville Teachers Credit Union, Heritage Bank, LMCU, Consumers Credit
+Union, all these guys.
+And, you know, they're offering 3%, which is great, but only up to $25,000.
+And they had weird little requirements that they each wanted.
+Like you wanted, they want you to log in X number of times a month, which you could then
+work around using Mint to auto log in.
+They want, some of them want like 20 debit card transactions a month, which then means
+you have to do.
+Amazon reloads and with four accounts on my end and four or five accounts on my wife's
+end, we're doing a couple hundred Amazon reloads a month, which then you start looking into
+like automated options that some people have posted on our churning.
+And it's a whole thing, right?
+And you're maintaining so many of these little accounts at these random credit unions that
+are also just generally difficult to use.
+Their websites, because they're so small, look like they're built in the nineties.
+And they each have their own little quirks.
+Most recently with Heritage Bank, we've stopped using it because we've switched completely
+over to HM Bradley.
+And they sent us a notice in the mail saying that our account is currently inactive and
+they're going to move it into a dormant status and charge us $10 a month for it to be in
+a dormant state.
+Or we could call in and cancel and close the account.
+So it's just like these.
+Little frustrating things that pile up when you start adding a lot of these accounts that
+add to the headache.
+And that's where HM Bradley really swooped in and kind of conquered the savings account
+side of things.
+They are kind of like a newish fintechy company.
+So the Web interface is really nice, really easy to use.
+But the thing that they did differently and, you know, apparently it's working because I
+think they just raised more venture capital funding.
+Is that.
+They've implemented a couple of requirements designed to have you deposit money, your payroll
+as much as your payroll as possible in there a month and keep it in there.
+So the two HM Bradley requirements work really well together in tandem to essentially highly
+disincentivize you to withdraw money out while incentivizing you to continuing depositing
+your paycheck in even after you've reached the $100,000.
+So you're getting that 3%.
+And so we'll go into the first of the requirements, which is just that they want you to deposit
+payroll into the accounts every month in order to maintain the 3% interest on any money you
+have in there.
+Now, if you are unemployed or self-employed, this can be challenging because they have
+their own system of whitelisting and blacklisting what kind of direct deposits they decide to
+constitute as a employer payroll.
+Now, the workaround, if you are unemployed or self-employed, is using Square and Gusto.
+Those are self-service payroll providers that you can just sign up on and pay $5 to $6 a
+month and set yourself up as a contractor and essentially deposit money into those accounts.
+Now, originally, on my first recording in this podcast, I went pretty deep into the
+differences between Square and Gusto.
+I may do a separate video on that.
+But in a nutshell, I would recommend you use Square.
+They don't do any tax reporting on your behalf, which is good in this case because you don't
+necessarily want the money you transfer into HM Bradley where you set yourself up as a
+contractor to then be reported to the IRS that you are paying yourself as a contractor,
+right?
+That's additional tax liability.
+So using Square is pretty easy.
+It's this really basic UI, $6 a month with Square, and you'll be able to essentially
+pay yourself.
+And Square payroll, as well as Gusto, are both classified automatically by HM Bradley
+as employer payroll.
+So that's a great option if you're self-employed or unemployed and you're looking to use this
+account.
+Now, even if you're employed, it's still useful because not all employers offer the
+ability for you to split your payroll.
+Like, if you have $100,000 in there, you don't necessarily want your $5,000, $10,000 paycheck
+each month to keep going entirely into HM Bradley.
+So if you're in one of those situations where you're not going to earn interest, you'd want
+maybe like $10 or $100 to go in just to trigger the requirement.
+But again, not all employers offer that.
+So if you're in one of those situations, then again, Square or Gusto is a great option.
+Now, the method I personally use, which isn't Gusto or Square, is more along the lines of
+figuring out what the HM Bradley whitelisting algorithm uses to decide whether or not your
+direct deposit is an employer direct deposit.
+Because you're not going to earn interest.
+You're not going to earn interest.
+You're not going to earn interest.
+You're not going to earn interest.
+You know, direct deposits are senses, you know, automated clearinghouse transfers, and
+there's no additional info provided.
+There's no tag or category that the sending bank gets to put on there that says, hey,
+this is an employer payroll, this is a social security benefit, etc.
+Like, the only thing that gets passed along is the sending bank's name, as well as a descriptor.
+The sending bank and the descriptor are the two.
+They're the two things that most banks are using to determine whether or not an employer
+payroll is an employer payroll, and each bank institutes that differently.
+So with HM Bradley, one thing that they're definitely looking for is the word payroll
+in the descriptor, and that's why Square and Gusto both are able to trigger the employer
+direct deposit part automatically.
+The discovery that I made recently was that an additional thing they're looking for is
+the word LLC.
+The way I discovered that was, you know, on the DOC comments, someone had mentioned that
+their Charles Schwab push had triggered the direct deposit requirement for the month,
+which initially I was thinking, oh, maybe it's something to do with brokerages are able
+to pass through effectively.
+So I didn't have a Charles Schwab account, but I did have a Chase Uinvest account.
+So I decided to transfer money from Chase Uinvest over to HM Bradley.
+And when you transfer from Chase Uinvest, they recently rebranded as Chase Brokerage,
+and they set up their own LLC.
+So what shows up when you make that transfer is JPMC LLC as the sending bank.
+Whereas if you just sent money from like your Chase Bank account, I believe that just shows
+up as Chase Bank, which wouldn't trigger it.
+Now, JPMC LLC did trigger the employer payroll requirements.
+And my feeling, too, is that potentially Charles Schwab, when you transfer from their brokerage,
+is maybe also something like Charles Schwab LLC.
+Untested, because I don't have a Charles Schwab account, but I can confirm that Chase Uinvest
+slash Chase Brokerage, if you transfer money, like you put some cash in there and you transfer
+the cash from that account into HM Bradley, that will trigger the requirements.
+And you save yourself the hassle of setting up Square, hassle of setting up Gusto, and,
+you know, the potential of having to pay five or six dollars.
+Now, there's reasons beyond just HM Bradley why Square and Gusto could be useful generally
+for your churning efforts, especially if you're doing bank accounts.
+But I will save that for another time and go into the second requirement that HM Bradley
+imposes.
+So the second requirement that HM Bradley has is definitely the most unique.
+I have not seen that with any other bank accounts.
+And I think it's probably the one that's contributing most.
+To how they're getting more funding, you know, because it really does result in more
+money being saved with them and then potentially paying less interest.
+And the requirement is that the amount of money you deposit on a given quarter, so however
+much you're pushing in, either manually or through your employer payroll, you can only
+withdraw up to 80 percent, as in they want you to keep 20 percent of that into your account.
+For most of us, I think using this account.
+Such a high cap on interest is we're using it to park money, right?
+And you're parking money for a variety of reasons.
+You know, either you just don't believe in the stock market or you want to save haven
+or you're saving for a down payment on your house.
+You're parking that money in.
+And what you're likely doing is you're putting in that full hundred thousand dollars right
+off the bat to start earning that three percent.
+And if you use some of the advice from earlier, you're only putting in 10 to 100 dollars a
+month from payroll, whether that's by splitting your employer payroll or you are using Square
+Augusto or you're using one of the brokerages that have or any bank really that has LLC
+in the name.
+So things are going well.
+You know, you're making your three percent interest and the quarter goes by.
+Now you need 50 grand for a down payment on an apartment.
+And the problem is that when you withdraw that 50 thousand dollars.
+In that first quarter where you deposited the hundred thousand dollars, you had the
+ability to take out up to 80 percent of that and still qualify for the three percent here
+for the next quarter.
+So that's fine.
+But if you had it in there for six months, when you now want to take out that 50 thousand
+dollars, you're going to lose the three percent here for the next quarter, because let's say
+you're depositing one hundred dollars each month from payroll.
+So in a quarter, you're depositing.
+Three hundred dollars, HM Bradley looks at how much you deposited in that quarter, three
+hundred dollars and says, you can take out 80 percent of that and we need you to keep at
+least 20 percent of that so you can take out 80 percent of three hundred dollars in that
+quarter. If you take out more like you take out fifty thousand dollars, they look at how
+much you deposited that quarter, three hundred dollars, and look at how much you took out
+that quarter, fifty thousand dollars.
+And now you're so far negative that.
+You know, you're just not going to qualify that quarter, right, unless you put a lot more
+money in. So the liquidity issue has been the thorn that's turned off a few of my friends on
+this account when I recommend it to them, because they are going to use that money in the
+next 12 or 24 months and they don't want to lose the three percent, because at that point,
+if you're going to lose three percent and you're going to get like zero percent on your
+hundred thousand dollars, you may as well just put it in the stock market, which is what
+they are doing.
+So.
+Workarounds to that.
+Now, this one was shared by someone on DOC commenting, and it's a great technique.
+It's not going to last forever, but it buys you a lot of time.
+And what I mean by that is on the quarter where you deposit one hundred thousand dollars,
+you will earn three percent as long as you don't take out more than 80 percent.
+But you want some kind of liquidity, right?
+You want some ability to access that money in the following quarter.
+So the workaround is that at the end of the quarter, the quarter where you deposited one
+hundred K, you withdraw 80 percent.
+So if you put in one hundred K January 1st before March 31st, you will want to take out
+$80,000.
+The reason you take that out is because you will still qualify for the three percent here.
+And what you can then do is that $80,000 on April 1st, the start of the new quarter, there's a
+$80,000 deposit right back in and now quarter of April through end of June, quarter two,
+HM Bradley will see, oh, you deposited $80,000 with us.
+You're able to take out 80 percent of $80,000 and still keep your three percent here for Q3.
+Now, if you're following that logic, then Q3, you'll put in $64,000 of which you can take out
+80 percent and so on.
+And so there is a end date for how long you can do this.
+And with each subsequent quarter, you are getting access to less and less of your money.
+And the reason this provides liquidity is that you take out the $80,000 in the first quarter.
+You don't have to put it all back in.
+Right.
+You now have access to that $80,000 to use on a down payment.
+However, by quarter two, you only have $64,000.
+And then by quarter three, 64 times, let's see here, 0.8.
+Did not do the math right there.
+There we go.
+64 times 0.8, you'll have $51,000.
+Then by Q4, times that by 0.8, you'll have $41,000.
+And so this will give you liquid access to your funds at a diminishing rate.
+Over the course of two, three years, you know, and it slowly gets less until it's
+pretty much negligible.
+But, you know, you are getting two, three years worth of 3% interest.
+And especially if you're in P1, P2 mode, this is where you can really start to maximize
+this and extend the shelf life of this method.
+Because what you can do here is have P1 open just the one account initially and put in
+$100,000.
+Then in two to three years, whenever the amount you can withdraw each quarter becomes too
+low for your comfort, you can then open an account for P2 and P2 can start that process
+again and you can decide what you want to do with P1's account.
+But with P2 now, you also, you've reset the clock, right, on these withdrawals each month.
+And when P2 runs out, you can actually create a.
+Joint account with HM Bradley, which is separate from P1 and P2's account.
+So you have up to three times to do this.
+And if each account gives you about two to three years, you're looking at eight to nine
+years worth of work in this method, which like quite honestly, like who knows what the
+interest rate landscape is going to look like even in the next two, three years, right?
+Feds are going to be changing rates.
+HM Bradley might change their structure.
+They may go out of business.
+You know, the option is there and it's, I think, nice to know that you could potentially
+carry this out long term and still maintain some amount of liquidity and then to automate
+some things you can use like Ally, for example, to just schedule, you calculate how much the
+withdrawals inputs and outputs are and just automate that on a quarterly basis.
+Although I would probably recommend against automating because you only need to do this
+once a quarter.
+And where automation might bite you in the ass is if you are in a quarter where, let's
+say, the 31st of that month ends on is a Sunday, right?
+And now you scheduled your money to come out like usually three or four days before the
+end of the quarter.
+But if it happens to be a weekend or a holiday, your three to four days, the withdrawal may
+not come out until the beginning of the following quarter, which will completely fuck it up.
+Because you need to have it's it's calculated quarter by quarter, right?
+So you have to be aware of like what what days are at the end of the quarter, whether
+there's holidays, weekends.
+And at that point, you may as well just set yourself a reminder to just check in like
+a week before the end of each quarter and look at the calendar and and see how you want
+to do it, which is which is what I currently have.
+All right.
+So those are the two methods for one, maintaining liquidity in your account.
+Such a large cash balance and two for finding a way to meet the employer payroll requirement
+when you don't have employer payroll or you don't have the ability to split employer payroll.
+All right, guys, that's it for the first episode of The Daily Churn.
+Hopefully you guys found that useful, but I would love to hear your feedback.
+Seriously, because I know when I talk about churning with my wife, her eyes definitely
+start to glaze over and I'm hoping that's not the case with you guys here.
+But if it is.
+Please let me know.
+Let me know things that I can do differently to keep it interesting.
+And, you know, honestly, if it's not that useful, I'm totally OK with not doing more
+episodes, too.
+You won't hurt my feelings.
+It would save, I think, all of us a lot of time in the long run.
+But if we do continue, I think episode two will probably be about Square and Gusto and
+some nuances between those two.
+And, you know, I think people had some concerns about like what forms are going to be submitted.
+Is there any tap?
+Tax implications, setting yourself up as a contractor, et cetera.
+And I've used both pretty heavily, one for my actual work and one for the purposes of churning.
+And then also some bank accounts where Square or Gusto will be useful for in terms of hitting
+those bonus requirements.
+So, yeah, stay tuned, hopefully, but leave some comments, please, and let me know what
+you thought.
+Thanks, guys.
+See ya.

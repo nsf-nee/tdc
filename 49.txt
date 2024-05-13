@@ -1,0 +1,563 @@
+Now, Fidelity has four funds that are zero fee, so not even like a low expense ratio,
+a zero expense ratio. And they're the four main funds that usually people put their money
+into anyway. Hey everyone, welcome to episode 49 of The Daily Churn. Today's episode is
+going to be about hub accounts, those foundational accounts that you have that sort of sit at
+the center between your various other accounts when it comes to tackling bank bonuses and
+brokerage bonuses. The key attribute that you're looking for with these hub accounts
+are that they do a few important things really, really well.
+For example, with your bank hub account, you want one that can easily move money around
+at sometimes high volumes and even high velocity without any issues like your account being
+frozen or being shut down. And since you do have a lot of money moving in and out of that
+account, oftentimes there's going to be a good chunk of money sitting in that account.
+So you also want one that pays a decent interest rate on your sitting cash.
+Similarly, when it comes to tackling brokerage bonuses, you want a hub account
+that can really easily move stocks to the new brokerage that you're trying to transfer to
+via ACATS. Ideally, it can also facilitate moving stocks between yourself and your partner,
+your P2, let's say your spouse, because sometimes the brokerage bonuses require
+really high balance. And so being able to consolidate funds between two people is how
+you can meet some of those higher brokerage bonus tiers. And since you'll be using these accounts a
+lot, you probably want one that doesn't have like a totally crappy,
+credit union style 1995 user interface, right, where everything is difficult to do.
+And you probably want it to be accessible via the web, you know, versus some of these brokerages
+that can be only accessed via app like Public and MooMoo and some others. But basically,
+you want it to be full featured and simple to use. And it does all of these things that you
+need it to do, which primarily is just moving a lot of funds in and out to meet the requirements
+for various bank and brokerage bonuses. So with that in mind, today,
+we're going to talk about how you can move a lot of funds in and out of your account.
+We're going to cover Ally and Fidelity. These are two companies that I use for my bank bonuses,
+which is Ally and Fidelity for all of my brokerage bonuses. And they really are just
+miles ahead of the competition. And we'll go through exactly what some of the key benefits
+they offer are and how to maximize like some of the little hacks that they enable in their app
+to help you really take advantage of some of these bonuses with the least amount of effort required.
+Just a quick disclaimer before we get into it, which is that I'm not in any way,
+being sponsored by Ally or Fidelity. There's not even like referral bonuses or anything
+associated to any of these two. So purely just that these are companies that I currently use
+to tackle bonuses. And they've honestly just been pretty great. So hopefully this deep dive
+helps some of you guys out when it comes to deciding, hey, what should I use as my main
+hub accounts? But yeah, sadly, no sponsors for this show for obvious reasons. But if you do want
+to support the show, I recently launched a deal alerts beta,
+where you get notified of some of the more private slash sensitive deals that are tough
+to share publicly on the podcast. And there's also a private discord of churners that are
+very active and can probably help you brainstorm your next churn. So definitely check that out.
+If you haven't, there's also a free newsletter and live churn tracker on the website too.
+So just head over to the daily churn podcast.com if any of that sounds interesting to you. But for
+now, let's get back into Ally and Fidelity.
+So starting with Ally, and since this is a churning podcast, we can just start with the
+signup promotion because it's kind of rare for Ally to offer any signup promotions. And so if
+you've gone this long without joining Ally and you've just procrastinated on it and you weren't
+sure whether or not you should join, now is a great time to join because for the first time
+since they've been around, they're offering a bonus on their new checking account program.
+So great timing on your part, because right now, if you deposit $1,500 into that checking account,
+you get a $200 bonus. And it's not super clear yet what exactly works. The recent data points
+make it sound like that Wise does work. So that's an option. I'm personally just going to do a Chase
+business ACH payment, which should work as well. And I covered that more in, I think, episode 28
+on employer direct deposits. But yeah, it seems to be a pretty easy bonus, but you might be
+wondering like, okay, if they're going to do that, then I'm going to do that. And if they're
+just launched this checking account bonus and you've been using Ally for a decade,
+how have you been doing it? Well, so Ally for the longest time has been a savings account only
+company. There's nothing really fundamentally that different between their checking and saving,
+except that with their savings account, if you do more than six transactions in a month,
+they charge you $10 for each of those transactions. However, when COVID hit,
+I think the Fed or one of these agencies passed the rule saying that like, hey, it's okay to not
+charge people for making too many withdrawals out of their savings account. And so in Ally's case,
+they charge you the $10 for each extra transaction, and then they refund you the $10. So my Ally
+statement each month usually looks like I have a hundred or $200 in Ally fees, which they charge,
+and then they promptly refund. And even though we're way past like peak COVID, this sort of rule
+never really went away. So Ally is still honoring these $10 refunds. So for me, I just use their
+savings account to do all of the transfers. The main benefit being that their savings account
+actually earns a really great interest rate. It's like 4.25% as of right now. They're really good
+about keeping pace with Fed rate increases. So that usually just adjusts when the Fed adjusts
+their rate. It's not like the peak top rate that you can get on an account, but for the flexibility
+and the feature set that Ally offers, I think 4.25 is a pretty reasonable rate. And so when it comes
+to Ally's features, the big one that's really why we stick around with Ally is that they have
+extremely high transfer limits. So receiving money into Ally, you're allowed to receive
+up to $500,000 per day and up to a million dollars every 30 days. So that's if another bank
+pushes money into Ally and Ally receives it, those are the limits. But most likely you're
+probably going to use it to transfer money out. So pushing money out of Ally. And when it comes
+out, they're not as high, but they're still really, really high. It's $150,000 per day that
+you can transfer out from within Ally and up to $600,000 every 30 days. That should be more than
+enough for you to tackle multiple concurrent bank bonuses at the same time and move money in and out.
+Additionally, outside of just having high transfer limits, they also support high volume,
+high velocity. So we've pushed and pulled in like any given month,
+sometimes upwards of $50,000 across various transactions to tackle various bank bonuses.
+We've had no issues. I've got a joint account with my P2 and often we're consolidating money
+into that joint account from a variety of different banks, then pushing to other banks
+like US Bank and Chase and hitting those like 15K or 25K bonuses. All of it has gone super smooth.
+On top of that, Ally has a really easy system built in for scheduling and automating transfers.
+It's not the sexiest interface. This isn't going to win any design awards, but it's simple and it
+actually works. I prefer an interface that works over one that looks nice, but is really limited
+in functionality. Case in point, Capital One. They've designed it to look sort of like an app,
+even though you're using their web interface. And I'd be fine with that because it does look
+more modern, but it's so limited compared to what you can do with Ally. Because in Ally,
+with your transfers, you can schedule transfers,
+set end dates, like have this transfer recur until a specific date. You can also say have
+this transfer happen 10 times and then stop. You can manage these transfers. You can edit them.
+You can cancel them. It's really quite full featured. And it makes tackling some bonuses
+really easy. For example, that Laurel Road bonus, where you get $300 for signing up and depositing
+money, but each month you'll get another $20 if you deposit $2,500 with them. And the thing with
+Laurel Road is you don't have to keep that $2,500. You don't have to keep that $2,500.
+So what we do, both myself and my P2, is that we just schedule $2,500 to leave Ally and go to
+Laurel Road. And then a couple of days later, transfer right back into Ally. And we've done
+that for almost the past year now. So every month we each get $20 and it's fully automated.
+Quick side note that Laurel Road bonus is, I think, still around. I think it got extended
+into 2024. So if you haven't done that yet, it's a great pairing with Ally and I'll link to it in
+the show notes.
+Some other good things with Ally, the transfers are really fast. So some banks that you connect
+with Ally, they'll offer same day ACH transfers. So I didn't even realize this was a thing until
+pretty recently, but more banks are offering this now, where if both banks support it,
+your ACH will arrive within one day, like basically same day, even though it's an ACH,
+not a wire transfer. Now, most banks are still on that like two to three day timeframe, but Ally,
+when possible, will try and
+send it with the next day ACH. And you'd think other banks would do that too, but like you can
+do that with Chase and even Wells Fargo. In the case of Wells Fargo, of course, being the shittiest
+bank in America, they want to charge you to use that same day service. Like they'll see that,
+oh, it's possible, but hey, we're going to ask you to pay an additional fee to use it. Whereas
+Ally just automatically does it for free. And on the topic of wire transfers, Ally's wire transfers
+are quite cheap. So they don't charge,
+a fee to receive the wire transfer. A lot of banks do charge a fee to receive,
+but when it comes to sending, they only charge $20 to send your wire. That's a lot lower than
+most banks. I think Chase is like 35 or 40. That's sort of the standard rate, but 20 is pretty good.
+And you can fill out the wire transfer form online and it's processed the same day. For us,
+that's actually come in really handy back when we were buying a house, like during home closing,
+we were trying to consolidate all of our funds into one account. Because if,
+you haven't bought a home before, you basically have to give your account information to like the
+escrow agent and they are going to pull your down payment out of this single account. And most of us
+aren't keeping like a hundred thousand or $200,000 in like some checking account somewhere. So you're
+going to be in a situation where you need to consolidate your funds. And that's when we
+learned the hard way that our other banks that we were using regularly, like Wells Fargo and Bank
+of America and some other credit unions that we were using. Anyways, we had it spread out all over
+the place. And we were able to get a lot of money out of it. And we were able to get a lot of money
+out of it. And that's when we realized that they're really crappy, especially when it comes
+to moving money. You know, you're hit with these, like you have a $2,000 transfer limit because we
+don't want you to move any money anywhere. So we were really like scrambling to pull
+all of this money together. And that's when we discovered that Ally has such amazing transfer
+limits. So we just linked all of these accounts into Ally and from Ally, we pulled the money
+from all of the various accounts because that bypasses their ridiculous,
+ridiculous transfer out limits. So from then on, we've basically been like Ally evangelists. You
+know, at this point, I think we've probably told upwards of, I don't know, like a hundred people
+to join Ally and Hey, Ally, if you're listening and you do want to sponsor this show, I mean,
+people are going to churn that $200 bonus, but you're also going to have a lot of people just
+using your account as a hub account where, you know, tens of thousands of dollars are just going
+to be parked there to do other bonuses. So, you know, not a, not a terrible proposition. Hit me up.
+My email inbox is open, but in all seriousness, there are a couple of quirks with Ally that are
+a little annoying. I mean, the main one is that their linking of external accounts is not as nice
+as places that use like played to map your external accounts with Ally. It's the old
+school trial deposits and you know, it's fine. It just takes a few days. There are a few instances
+where Ally does let you enter login credentials at the other bank
+into Ally.
+And it links instantly, but it's only a handful of banks and it's not through played. So my guess
+is they're using some other system on the backend that a subset of banks are supporting. So that's
+the main thing. I mean, the other thing is the UI is a little dated, but again, like all of the
+functionality is there and it's a lot of functionality. So I can't really complain
+too much about it not looking like the next snazziest app or something, you know, but yeah,
+otherwise that's it for Ally, you know, TLDR,
+join Ally. It's great for churners and also sponsored this show.
+And yeah, let's now move on to Fidelity.
+Moving right on to Fidelity, starting with just a couple of promotions that if you're new to
+Fidelity are definitely worth doing. So the main one is the Fidelity 100 promo code that's been
+around for a little while. And I'll link to that in the show notes as well. But basically that
+gives you a little bit of a sense of what's going on. So if you're new to Fidelity, you can
+a hundred dollars for depositing $50. And that applies to all of their brokerage account types,
+including just the regular brokerage accounts, their cash management accounts,
+their traditional and their Roth IRAs, all of that good stuff. Just keep in mind though,
+that it is only once per user, not per account type. So even if you go in and open all of these
+different account types and apply the promo code, you're only going to get that a hundred dollars
+once. Then separate from that, there's also the Fidelity Bloom,
+promotion where you basically end up getting $135 for depositing $50. And that 135 is composed of a
+few different things. And I'll link to that offer as well in the show notes. But this one is nice
+because you can do it in addition to the Fidelity 100. It's specific to opening a Fidelity Bloom
+account, which is sort of their like app-based checking and savings type account. And it's a
+account for anything, especially not for daily use. It doesn't have some very basic things like
+there's no ATM fee reimbursements, which is pretty crazy considering, you know, there's not really any
+Fidelity ATMs around. So you're going to have to pay a fee each time. So really just do it for the
+bonus. If you did want to use Fidelity as sort of your like hub account for regular banking outside
+of the brokerage stuff, they actually do offer a couple like interesting checking account type
+features. For example, if you want to use Fidelity as sort of your like hub account for regular
+If you open the Fidelity cash management accounts, you actually do get a debit card that has
+unlimited ATM fee reimbursements. So that's one option. And I guess just a quick segue,
+because if you're not familiar with cash management accounts versus like brokerage
+accounts, Fidelity offers a lot of different account types and it can be a little confusing.
+In a nutshell, the cash management accounts are essentially a brokerages version of a checking
+account because brokerages can't legally call them checkings and savings.
+Like you have to be a bank to name your account a checking and savings account. Like Robinhood,
+if you recall, got in trouble for that where they're like, hey, we've launched checkings
+and savings. And then FDIC and SIPC were both like, no, you didn't. We didn't approve any of
+this. And that's a backtrack and actually not launch that account. So that's the main thing
+to keep in mind is that only banks can create checking and savings products and brokerages
+are not banks. So being a bank requires this whole separate, extremely expensive and time
+consuming, like regulatory approval to become an official bank. And most brokerages don't want to
+go through that hassle of setting up this separate banking arm that costs them a ton of money to set
+up. So instead, they still want to offer these like checking savings type products. And so cash
+management accounts are essentially the workaround for them to offer checking like services to their
+customers. The sort of way it ends up working with these CMAs, cash management accounts, is that
+each night, they're going to have a check and save account. And so they're going to have a
+the funds get swept into like 10 plus different partner banks that they use. So the deposits end up
+at all these various different banks and it's FDIC insured because that's where your money is really
+residing. And while it's in transit or while it's sitting at your brokerage in the cash management
+account, because it's with the brokerage, it's covered by SIPC insurance, which is the stock
+version of FDIC insurance. So essentially, in a nutshell, CMAs really are just actually
+brokerage accounts on the back end with less functionality. Like in a cash management account,
+you can actually buy stocks, but you can't do more complex things like margin and buying options and
+stuff. However, brokerage accounts now, especially at like Fidelity, have really adopted a lot of
+these CMA features anyway into their regular non-CMA brokerage accounts. So if you open the
+Fidelity brokerage account, which is what that's called, you do actually end up getting access to
+a bunch of like checking account type features. So if you open the Fidelity brokerage account,
+for example, every brokerage account at Fidelity, you can do direct deposit and bill pay,
+and you can even have a debit card issued for any of your brokerage accounts.
+So why even bother opening a CMA? Well, the main differences with the CMA is that they do
+reimburse your ATM fees. Whereas if you got a debit card for your Fidelity brokerage account,
+it doesn't reimburse ATM fees unless you're part of a select group. I think your account
+needs to be coded.
+As like a trader VIP or private client group or wealth management with Fidelity in order to have
+ATM fees reimbursed. So probably not most of us. But if the ATM fee thing isn't a huge issue,
+then there's really no reason to open a CMA anymore. I think even someone on Discord,
+I think it was Couch, he mentioned that CMAs are a checks hit, like they'll show up on your
+checks report, which is not great if you're doing a bunch of bank bonuses, you want to minimize
+your checks hits. So that's maybe another reason,
+not to go the CMA route. Additionally, with CMAs, the interest rate is actually quite low. So the
+money gets swept right into all these partner banks. And the rate the Fidelity ends up offering
+you on that cash is only 2.72%. So I mean, it's not terrible. I mean, I think Charles Schwab,
+their checking account only gives you like 0.45%. So it's better than that. But still,
+you know, 2.72, not as good as Ally. So you may as well be parking your cash in Ally instead.
+Or if you honestly,
+just kept your cash in your brokerage account, the way Fidelity works is that they sweep up your
+cash in your brokerage account into a government money market fund, which earns 5%. So actually,
+it's better just to park cash in your brokerage account. And that's a great thing because it can
+be useful sometimes to use your Fidelity brokerage account as sort of like a banking hub account for
+the purposes of meeting bonuses. Because sometimes the receiving bank will classify your Fidelity
+direct deposit as like a real direct deposit when it comes to meeting those direct deposit
+requirements in order to qualify for the bonus. That isn't like a unique thing to Fidelity. You
+often see data points like on Doctor of Credit where someone's like, I use my Charles Schwab or
+I use my Fidelity to satisfy this direct deposit requirement. And it's something about these
+brokerage accounts that trigger differently sometimes at banks. So that's one useful reason
+for having cash in your brokerage. And the nice part with Fidelity is,
+they actually have really high limits similar to Ally. So Fidelity lets you withdraw up to $100,000
+per day, and up to $250,000 can be deposited in that account per day. On top of that, Fidelity
+has this pretty unique pricing feature, which is that they're all about keeping things zero fees.
+And they even apply this to wire transfers. So in the case of Fidelity, you can transfer via wire
+up to $100,000 per day without having to pay a fee. So Fidelity has this pretty unique pricing feature,
+without any fees, there's no cost to send or receive a wire with Fidelity. That's even better
+than Ally and way beyond what most banks and brokerages will offer. So some really cool
+cash features with Fidelity, but getting back to using Fidelity as a brokerage hub, it's even
+better. The main reason we use Fidelity and why it's our hub brokerage is that it is so fast and
+so easy to open up new accounts. Once you have your first account set up with Fidelity,
+all future accounts are extremely fast. They pre-populate basically everything. So once you
+have an account, and let's say you want to open now a Roth IRA or a second brokerage account,
+it literally takes two button clicks. You click the open account button, and then the page loads
+with everything pre-populated. And then you say, okay, open new account. And you have a new account.
+It's literally under 10 seconds, which is insane. And I'm not exaggerating when I say that in under
+a minute, you could open...
+Five new Fidelity brokerage accounts. Don't ask me how I know. And that's great because having
+multiple accounts at Fidelity is the key to pursuing this brokerage bonus merry-go-round.
+Because the way brokerage bonuses work is that most of them require you to deposit X amount of
+funds, $100,000 or $200,000, even $10,000. And you can choose to deposit that in cash,
+but that's usually a bad play because with cash, you're losing out on, let's say,
+5% interest that you can be earning.
+Elsewhere, let's say in your Ally account. So instead, the more lucrative play is to transfer
+your stocks over in order to meet that deposit requirement. That way, your stocks stay invested
+in the market and you're still getting market gains and you get your bonus on top just for
+moving your stocks around. But the process of moving stocks, I think, intimidates a lot of
+people. For a long time, I had a lot of resistance towards doing it because it requires an ACATS
+transfer, which is sort of just the stock transfer. And I think that's a good way to do it.
+Of an ACH transfer. And it sounds like a lot of work. And oftentimes with some companies,
+it can be a lot of work. Like some companies will make you fill out a paper form to do an
+ACATS transfer. It's a whole thing, right? But Fidelity really makes this all super duper simple
+because with Fidelity, doing an ACATS transfer is probably the fastest process that I've done
+with any other brokerage. Everything is submitted online and most things are pre-filled. If you've
+ever done like a paper transfer, you're going to have to do a paper transfer. And you're going to
+have to do a paper ACATS form. It's so confusing because they'll ask you for things like, what is
+the other bank's DTC number, which you have to go look up? What is the other bank's address? And
+you're like, doesn't this bank have like 2000 locations? How do I know which address to put in?
+And it's this long thing of like super redundant information that you have to find yourself and
+enter. Not the case with Fidelity because they've gone in and basically pre-filled on the backend
+all of this stuff. And they've done it for basically every other brokerage in existence,
+including even these little app brokerages like Public. So you can in Fidelity, just select Public
+and then just literally type in your public account number. And that's it. That's all you
+have to do to initiate your ACATS transfer. It's basically as easy, if not easier than setting up
+like a regular ACH direct deposit. That's how smooth they've made it. And it's roughly usually
+like a week turnaround for them to pull funds via ACATS into Fidelity. And if the other firm
+charges a fee for doing a partial or an Fidelity transfer, they're going to be able to do that.
+So if you've got a full ACATS transfer out of their firm, Fidelity will reimburse that fee as long
+as you're moving over $25,000. So from a pulling perspective, pulling into Fidelity, it's really
+smooth as butter. Then for moving stocks out of Fidelity, it is really about as smooth as you can
+get it when you consider the fact that really it's going to be up to the receiving brokerage
+on how complex that process is. Because the thing with ACATS that you should keep in mind is that
+there are always pulls. So with ACH, you know, direct deposits, those can be pushes or pulls.
+With ACATS, the way it works is that brokerages only ever pull ACATS. They only ever pull funds
+into their own brokerage. So no brokerage has a setup where they push ACATS out. I'm not sure
+why that is. Maybe the industry is just less regulated and that ACATS is such a manual process
+because even though you're submitting this nice form on Fidelity,
+it's literally just a person doing this manually by hand. It's not an automated process when they
+do ACATS between brokerages. And so no brokerage has a ACATS push process. So you can't go to
+Fidelity and say, hey, I want to ACATS my stocks out of Fidelity to another brokerage. They're
+going to tell you, contact the other brokerage and the other brokerage will initiate the pull.
+So that's sort of the weird thing of like how brokerages handle ACATS. So in the case of Fidelity,
+when you want to ACATS money out of Fidelity, it's sort of out of Fidelity's control in that sense,
+because you have to rely on the receiving brokerage. You have to initiate it from them.
+And so that process is going to vary a lot based on who you're trying to transfer it to, right?
+But on Fidelity's end, they do try and make that as smooth as possible, which is that they
+don't have any fees, which is the big thing, because they don't have any fees for doing a
+partial ACATS out, a full ACATS out. They don't charge you for closing.
+Their account, most brokerages will charge you money, whether you do a partial, full
+or an account closure. Fidelity doesn't charge anything. And on top of that, Fidelity,
+because they make it so easy to open multiple accounts, they've made it really easy to open
+these sort of burner accounts that you can use for the sole purpose of transferring stocks around.
+So what we usually do is let's say there's another brokerage that is offering a bonus
+for depositing a hundred thousand dollars in assets.
+And so we want to move a hundred thousand dollars over from Fidelity.
+The way we do it in Fidelity is we just open up a new account, a new brokerage account in Fidelity
+and move a hundred thousand of stocks from our other Fidelity account into this new account.
+And this whole thing takes, you know, literally like under a minute.
+And so now we have essentially a burner account at Fidelity.
+Then we go to the brokerage that we're trying to move the funds over to,
+and we input all of the burner information and do a full
+ACATS transfer.
+Because full ACATS transfers are going to be the simplest kind with a partial,
+you have to like list what stocks you want to move all this stuff with the full.
+It's just like, Hey, we're going to move this entire account and you can close that account when you're done.
+So we initiate that on the receiving brokerage end and Fidelity essentially transfers that whole account over.
+And that account is now closed on the Fidelity end and all the money is now moved to the other brokerage.
+And that's great because with this kind of a movement using a burner account,
+nothing fundamentally changes for your main things over at Fidelity.
+You still have your main Fidelity account.
+Maybe you have a few different accounts at Fidelity.
+You don't lose login access.
+You have all your old statements and when you need to do another brokerage bonus,
+you can just whip up another burner account to do that kind of a transfer.
+Like your main things are unaffected by you doing these ACATS.
+It's literally just like you're moving one bucket of stocks over to another brokerage.
+And that's unique because that's not how it works at a lot of brokerages.
+Sometimes with some brokerages that don't let you open multiple accounts,
+when you do a full ACATS transfer,
+they shut down your entire account.
+Like you lose access,
+like your login doesn't even work anymore.
+So you've just lost basically everything,
+which is not a great use case for like a hub account.
+So all of those things combined at Fidelity just make it a lot less stressful to tackle brokerage bonuses.
+And most of the friction I think with brokerage bonuses is this whole ACATS thing.
+And,
+being,
+unsure what happens to your account.
+And this just eliminates a lot of that when you do it through Fidelity.
+Additionally,
+if you have a P2,
+Fidelity has this really,
+really great feature.
+That's pretty unique to them.
+I think Charles Schwab allows you to do it too,
+but what you can do with Fidelity is that you can move stocks between yourself and another person instantly without having to fill out any forms.
+And that's really great when it comes to tackling brokerage bonuses,
+because sometimes the requirements are like,
+you need to deposit $250,000 in stocks and you individually may not have that much,
+but between you and P2,
+you do.
+So moving those stocks can be done by simply opening up a joint account for yourself and P2.
+Now,
+once you have that joint account,
+you can transfer from your individual accounts stocks into the joint account instantly.
+Then once it's in the joint account,
+you can then transfer from that joint account into P2's individual account instantly.
+So that essentially just allows you to,
+So that essentially just allows you to,
+to flow stocks between two people,
+which is a game changer when it comes to tackling some of the larger brokerage bonuses.
+We recently did this for the public bonus back when they're offering $2,000 for a brokerage bonus.
+We just did it for the Wells Fargo $2,500 brokerage bonus because that one required $250,000 in assets.
+So we did mine first,
+then move assets over to P2,
+then did P2's.
+So it really comes in handy with these larger tier requirements.
+And it's just another,
+another reason why Fidelity functions as such a good foundational hub accounts for churning brokerage bonuses.
+Finally,
+the thing I like a lot about Fidelity is that you can actually use Fidelity as your main investment account.
+It's not just for the purposes of moving stocks around because with Fidelity,
+they're actually extremely competitive.
+Like their whole thing is zero fees,
+zero fees on everything.
+And they've really gone above and beyond when it comes to meeting that manager.
+Mandate because they're at a point now where it's more cost competitive to move your index funds over to Fidelity than it is to keep them at Vanguard.
+Like Vanguard for the longest time were like their main sell was that they're really,
+really cheap when it comes to investing in their index funds.
+But now Fidelity has four funds that are zero fee.
+So not even like a low expense ratio,
+a zero expense ratio.
+And they're the four main funds that usually people put their money into.
+Anyway,
+so they're like the Fidelity zero funds.
+The ones we use are F Z R O X F Z rocks,
+which is the total us fund.
+It invests in basically all of the stocks in the U S and that mirrors the Vanguard version V T S A X.
+The difference being that Vanguard charges 0.04% whereas Fidelity charges 0%.
+Then there's that total international fund,
+which invests in all of the international stocks.
+F Z I L X.
+I'll be listing these in the show notes.
+You don't have to like memorize them,
+but that one basically mirrors the Vanguard one,
+which is V T I A X.
+And those Vanguard ones are actually pretty popular.
+Like V T S A X and V T I A X are the ones that most boggle heads have you invest in.
+But the international one V T I A X with Vanguard charges a 0.11% expense ratio,
+which is pretty high.
+That's like a 10th of a percent.
+Whereas with Fidelity,
+it's 0%.
+It's completely zero expense ratio.
+Fund.
+And so just by having your investments in a combination of the total U S and the total international,
+you basically have full world coverage when it comes to diversifying your stock portfolio,
+which is what we do.
+We keep roughly 65% in F Z rocks,
+the total U S and 35% in F Z I L X,
+which is the total international.
+And that's roughly,
+you know,
+if you follow boggle heads and all this stuff,
+that's roughly the ratio you want to keep it at to represent the global world stock.
+There's also a couple other funds at Fidelity that are zero expense ratio.
+I think it's the extended market fund,
+which does like small mid cap us stocks.
+And then there's the large cap stock fund,
+which is basically the S and P 500.
+So those are options too.
+But between those four funds,
+that's like what the majority of people invest their longterm portfolios in and Fidelity charges 0% on them,
+which is,
+you know,
+pretty crazy.
+If you have a HSA,
+usually your company will just like,
+pay for your HSA.
+But if you leave your company and you have an orphan HSA,
+that HSA charges you money.
+So what you can also do is move your HSA to Fidelity because Fidelity basically supports every account under the sun and sticking with their no fee policy Fidelity HSA is don't have any fees,
+which is also crazy because I think we were paying like at least like $10 a month before on our company HSA that we were no longer a part of the company for.
+So even though we originally joined Fidelity,
+because,
+they had that Fidelity a hundred promo and we're like,
+cool,
+we can use this as like a hub account to move stuff around.
+Fidelity has just become our primary investment account for all things.
+And coming from Vanguard,
+it's honestly been just a breath of fresh air using Fidelity because everything at Vanguard is super slow.
+Like you got to talk to someone to do anything complex and their interface.
+I mean,
+they've made progress on the interface at Vanguard,
+like the consumer side,
+at least,
+but if your company uses Vanguard,
+they still on the back end have this super outdated,
+confusing business UI because it's like literally three separate UIs cobbled together that they bounce you around.
+So you never really know where you are because they haven't finished migrating everything over to the new UI.
+So like it literally feels like you're time traveling sometimes between 1995 web and 2020 web when you have to like go log into your investor account that your company runs on Vanguard.
+I mean,
+even the personal,
+Vanguard investor dashboard,
+it's fine.
+It looks more modern now,
+but it's not really designed for anything other than buying and holding a Vanguard fund for 30 years,
+which like that's okay.
+That's really their main market is that you just buy this retirement fund and you don't touch it.
+But if you want to do any amount of like trading and you know,
+we're not active traders,
+but once in a while I'll want to buy a stock or sell a stock and doing it on Vanguard consistently takes like multiple times longer than it does on Fidelity.
+Finally,
+if you're ever stuck on doing like a stock related thing.
+And what I mean by that is like,
+you know,
+something happened and now you need to correct it.
+You know,
+like things that have happened to us in the past are like,
+oops,
+we've over-contributed to our Roth IRA.
+I wish I'd actually contributed to the traditional IRA instead.
+How can I make it so that I,
+that money moves from the Roth into the traditional without tax consequences and just like fix the mistake.
+Or one year we had over-contributed to it.
+HSA.
+Because my wife had quit her job and was no longer getting a high deductible health plan,
+which means you're not qualified for the HSA.
+But the HSA contribution was done at the beginning of the year,
+assuming she was going to work for 12 months and she didn't.
+So we had to fix that.
+That's a pretty complex scenario.
+And usually you're just stuck Googling like random forums on how to do this.
+The difference with Fidelity is that they have an absolutely amazing subreddit.
+Like it's really damn good.
+It's like,
+essentially what a company run subreddit should look like.
+This is the model subreddit of how companies should interact and help users who are stuck with Fidelity related questions.
+Because I didn't even have to post these two questions I had.
+Someone had already asked on the Fidelity subreddit and an official Fidelity employee had responded with this long response,
+detailing exactly how to handle it,
+not just from the tax side,
+but also on the Fidelity side,
+like links to the exact pages.
+You need to go to on Fidelity to fill out the form,
+to correct the HSA over contribution or to move money from a traditional IRA into a Roth IRA.
+Basically every weird fringe scenario that you can think of that you might possibly ever run into when it comes to stocks and retirement accounts and HSAs.
+Someone at Fidelity has actually answered it in an official capacity and giving you both tax advice,
+which I feel like they're not really even supposed to do,
+but they give you like tax advice on how to fix your tax.
+And then give you advice on how to do the whole thing in the Fidelity app.
+Like there's just no other resource like this.
+If you're at Vanguard,
+you'd have to maybe call in and hope someone knows what you're talking about after like a two hour hold.
+But Fidelity,
+all of this is public.
+All of this is on their subreddit.
+Seriously,
+if you're like,
+why is he so excited about this?
+Just go to the Fidelity or Fidelity subreddit and look at the questions that have the official response tag.
+And you can see just the level of,
+detail that their employees are answering questions with.
+And so I feel good that any type of scenario that I could ever possibly run into in the future with Fidelity,
+they're going to have someone who can tell me exactly how to do it.
+And they're so responsive to feedback and they're actually implementing all of these features that people are requesting.
+It's really night and day.
+Like if you've Googled and ended up on like the Verizon or AT&T forum where people are asking for support and keep in mind,
+those are the official AT&T and Verizon forums.
+Where they have employees there,
+but you just see employees responding with random comments that don't make sense.
+They're stumbling over themselves,
+contradicting each other.
+And most times they're just like,
+please contact us over a private message so that we can look into your account.
+That's the opposite of how Fidelity is running their subreddit.
+And it's really just a beautiful thing to witness.
+All right,
+folks,
+that's all I had on my list for wife.
+I think Fidelity and ally are both amazing hub accounts.
+If you have things of your own,
+definitely,
+leave a comment.
+Or if you hate Fidelity and ally,
+like they've done something bad to you.
+Let me know too.
+I'm curious to see what some of the negative data points are here because I've only so far had positive experiences,
+but I am only just one person.
+Keep in mind too,
+that,
+you know,
+hashtag not an investment advisor.
+So definitely do your own research too,
+as well before joining these companies.
+But otherwise,
+you know,
+hopefully it was helpful to you,
+especially if you're like looking for a new place to park cash that can be easily used.
+But,
+yeah,
+if you've enjoyed watching this episode,
+definitely consider leaving a review on Apple or Spotify,
+because most people find this show either through word of mouth or when the glorious algorithm suggests the show to them.
+And I think ratings and reviews can help with that.
+So definitely appreciate your help in spreading the show to others.
+Thanks again for tuning in.
+I'll catch you on next time for the September recap.
+See you.
+Thank you.

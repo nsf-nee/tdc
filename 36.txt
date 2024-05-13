@@ -1,0 +1,307 @@
+and for us i think we are close to if not over a hundred different accounts being synced inside
+simplify i mean at this point i think we must be in the top one percent of simplify power users
+just based on how many accounts we have but i think most churners will just naturally end up
+being in that top one percent over time
+welcome to episode 36 of the daily churn today's episode is going to be a little bit different
+it's going to be more of a focus on the personal finance side of churning which i think is a pretty
+relevant topic for most of us given how many accounts we open every week and every month
+and so keeping tabs on all of these
+things moving around all of the time almost feels like a full-time job sometimes but there
+are tools that make it a lot easier and simplify is one of those really great tools that i'm happy
+to have discovered as a churner but i mean in general i think simplify is good for anyone who's
+looking to have a better understanding of where their money is and what it's doing but particularly
+for churning it's come in really handy because it really has helped us with a lot of these things
+that are crucial when it comes to churning like keeping
+track of your minimum spends and making sure your cards are paid on time and then just allocating
+funds between different cash and investment buckets so that you can meet new bonuses
+simplify has been really helpful for us and then just in practical terms how we actually go about
+using it like what do we do when we open a new card or a new bank or a new brokerage like how do
+we go about keeping all of that stuff organized inside simplify so yeah hopefully this is a pretty
+useful episode especially if you're using
+google sheets or excel or one of the competitor apps like mint to track your money and your
+accounts and how things move i think simplify could be a great companion or even replacement
+for some of those tools and if you're not tracking anything right now i think simplify is a great
+place to start so we'll cover all of those things shortly but before we get into it just a quick
+reminder that all the things that we cover today in the podcast will be in the show notes which
+you can find on the daily churn podcast.com and if you're subscribed to the daily churn podcast
+newsletter you should have received that in your inbox already it's totally free to join and you'll
+also get access to the live churn tracker on the website which shows all of the things that i'm
+currently churning as i'm churning them along with data points and notes as well as comments from
+other churners who have questions or data points to share about some of the accounts that i'm
+currently churning so definitely check that out when you get a chance but for now let's get back
+into simplify
+so the way simplify works
+is you create your account with simplify and then you add your accounts from other institutions like
+banks and credit cards and brokerages and once you add those accounts in you can name them however
+you want and they'll show up in various groups like your cash group or your investment group or
+your credit cards group and you'll be able to see the tally across all of your accounts broken down
+by these groups but also just as one big final number which is essentially your net worth so
+that's pretty useful to see just from a personal finance point of view and then you can also see
+all the transactions that occur across the account as well and then when you get fancy you can also
+like spending goals or run monthly reports to see, hey, I spent $5,000 last month. What did I spend
+it on? And then for next month, I want to set a goal that I don't spend more than $1,000 at
+restaurants, for example. So it really is a very full featured app and it can go as deep as you
+want it to go. So if you want to go and set spending goals and monthly reports, you can,
+or you can just use it as like a summary dashboard to monitor and track your money.
+So I'm sure to a lot of you who have used things like Mint, this sounds very similar. And Mint is,
+I think, one of their closest competitors or at least the closest comparison. But
+Simplify is just a lot better than Mint. We used to use Mint for many years and we switched
+to Simplify when it came out, I think, two or three years ago. And so the main differences
+is that Mint is free. So there are a lot of ads on Mint and Mint often felt like it was
+a little buggy at times.
+But also it had less customization options because ultimately Mint is free because their
+goal is to sell you on credit cards, right? They want you to sign up for new credit cards or
+new financial products, and that's how they make their money. So while the UI is quite nice to look
+at, their incentive to make it as full featured as Simplify is pretty low. Where Simplify, there
+are no ads because it's a paid product. It costs $3 a month to use. So $36 a year, which I really
+think is a fantastic value for the amount of use we get out of it. It has a pretty nice
+Mint-like interface and UI, and there's native apps on the iPhone and Android. And so it
+really is just a better Mint. And for $3, I think it is very much worth the price.
+The other popular app that comes up a lot when people talk about Mint or Simplify or
+just managing your finances or tracking your accounts and stuff is YNAB, short for You
+Need a Budget. We tried You Need a Budget briefly. It was an interesting experience because the UI
+is a bit outdated. It's kind of old school and not as nice as Mint and Simplify. But the main
+issue we had with it was that it was kind of just too hardcore for us from a budgeting standpoint
+and also kind of expensive. So price-wise, it's $15 a month, or you can pay them $100 for a year.
+So that's three to five times more expensive than Simplify, depending on how you end up paying,
+You Need a Budget. But outside of the pricing thing, the main drawback for us was that it
+uses a zero-based budgeting technique, which essentially what that means is that every
+dollar is accounted for. Their tagline for You Need a Budget is give every dollar a job.
+And what they mean by that is that you essentially create envelopes of cash that you allocate
+throughout the month. So very much, it's just a mirror of how some people budget physically
+in real life.
+Beginning of the month, you say, I have $5,000 and you'll put it into separate envelopes. And
+each envelope is labeled utilities or gas or restaurant or fun, and you spend down those
+envelopes. And if one of your envelopes runs out during the month, well, you just stop doing the
+thing that's labeled on the envelope. So it's an interesting way to approach budgeting because
+if you're someone who's really struggling with random spending, or if money really is super
+tight, like you know you're only getting that $5,000,
+in a month, and it needs to pay for everything in your life, then the You Need a Budget approach
+is maybe the rehab that you need to fix your budgeting issues. But it's kind of tough to
+use it as an app if you're a churner because as a churner, money sometimes just goes towards
+random things like annual fees for a credit card, or sometimes you need to prepay for
+a year of internet or trash just to hit a minimum spend that you're working on. And
+money, sometimes you move to hit different things. So you need to have a budget approach.
+And if you're a churner, you need to have a budget approach. So you need to have a budget approach.
+So you need to have a budget approach. And if you're a churner, you need to have a budget
+approach. So you need to have a budget approach. And if you're a churner, you need to have
+a budget approach. And if you're a churner, you need to have a budget approach. And so
+with all of these weird money movements happening, we couldn't quite figure out how to make it
+all work within this envelope budgeting system that was super strict because we need liquid
+pools of funds that we move around to get signup bonuses. So from a churner perspective,
+I think You Need a Budget is kind of overkill and can be pretty hard to use if you're using
+a lot of your accounts for churning. And I know the You Need a Budget fans are pretty
+hardcore about how much money you need to spend. But you need to have a budget approach.
+how much they love you need a budget. And I tend to agree, you know, if budgeting is your main
+issue, I think you need a budget could be that solution for you. But in the context of churning
+for us, Simplify just worked a lot better because it's a lot more flexible. And then for actual
+budgeting, my P2 just keeps her own budget in Google Sheets. You know, we actually pull data
+from Simplify to help populate the Google Sheet each month to help us track like how we're doing
+and adjust for the next month if we need to. And for us, we have enough of a buffer where being
+over budget sometimes is OK as long as we adjust for it in the future. Finally, the other competitor
+worth mentioning, I think, is personal capital. And I've heard a lot of blogs promote personal
+capital. And I wonder if it's because they give like a kickback or an affiliate thing if people
+sign up using their personal capital link. But both P2 and I tried personal capital briefly when
+Rakuten was offering, I think it was $50 or $100.
+Just for signing up and linking one of your accounts. It seemed fine when we were using it,
+but it's more focused on investments because the way personal capital makes money is from their
+wealth advisory practice that charges fees, as well as I think their robo advisor also charges
+some fees. And so their goal is to get you to use personal capital so that they could then sell you
+on their wealth advisory and their robo advisors and those kind of services. So just I think general
+rule of thumb is just be...
+wary of any free services like Mint and personal capital because their app is free because it's a
+lead generator for their other paid services. In the case of Mint, it's credit cards and financial
+products. And in the case of personal capital, it's wealth advisory. And so their main goal
+isn't to make a full featured app that really helps you view and visualize and manage and track
+your money movement, which is what Simplify does. So really, I think that transitions well into the
+next topic, which is...
+why we love Simplify and the things that it's helped us with when it comes to churning.
+One of the really nice things about having all of your accounts linked and being able to view
+all of the transactions in one go is that it becomes really easy to see when an annual fee
+gets charged. Because I have a credit card tracking sheet that I use to tell me when I
+opened the card and when to cancel the card. And I think I shared that credit card tracking sheet
+in, let's see, episode 15, if you want to just use that as your template. And that's useful
+for managing your money movement. And I think it's really easy to use that as your template.
+that side of the credit card churning process. But being able to see all the transactions in one
+place at any time is how you actually see the exact dates that the annual fee gets charged.
+Because they don't usually actually charge the annual fee on the exact date that you open the
+card. Sometimes they wait till your statement closes or they wait for the beginning of a month.
+It really varies by the credit card issuer. So being able to see the actual date then gives you
+the exact dates that you need to cancel the card by.
+So most times you just add 30 days to when the fee is actually charged. And this is particularly
+useful for accounts that you don't use often, which is probably most of the credit cards that
+you open, which is you open them, hit the spend within three months, and then it goes into the
+sock drawer until you need to cancel or ask for a retention offer. And so if you're not monitoring
+those accounts, or you're not keeping close track on your spreadsheet, this is a good failsafe where
+you know when these fees hit so that you can cancel them.
+And this has happened to me quite a few times where I've just totally forgotten about a card
+until I see the fee. And usually it's my P2 that sees it first in Simplify. And she'll ask me like,
+hey, do you need to cancel the card to get the fee refunded? And at least a few times,
+I've just completely forgotten about that card for some reason. And we would have paid the fee
+if it hadn't shown up on Simplify. So having it around is a really nice backup option.
+And then on top of that, it just is really easy then to see how much spend you've been putting
+on the credit cards, which is particularly helpful when you're doing multiple spends across
+multiple cards and maybe across multiple players at the same time. Because for us, both P2 and I,
+we share one Simplify account. So all of our accounts are on there and we're able to track
+all of the things in one go. Probably not the best idea if you're not married or if you have
+like a secret gambling or porn habit that you don't want the other person to see. But in our
+case, our finances are very well integrated.
+Especially because I do a lot of churning things for her. And so yeah, being able to see all of
+the transactions and the totals across credit cards in one place, super helpful. Then on top
+of that, having everything in one place, not just our credit cards, but also our bank accounts,
+it becomes really easy to just see if you have enough funds to cover all of your credit card
+payments. Because for me, I hate keeping cash in accounts that earn 0%, which sadly is most
+of our foundational accounts.
+Our cards are paid from our main Chase personal or our Chase business account,
+which doesn't earn interest. I tend to keep the bare minimum in that account where there's just
+enough money to cover the upcoming payments to the cards. Because with all my credit cards,
+I also tend to update all of the bill due dates to be on the same day each month, usually just
+the end of the month, like the 28th. And so mid-month each month, I'll make sure I've
+transferred enough money from my various high interest accounts into that Chase account to
+then cover all of the card payments. And so that's a really good way to cover all of the
+payments that are coming due at the end of the month. So of course, an alternate solution to that
+could just be that you have your cards being paid out from your main account and your main account
+actually earns high interest. But just with the constant changing landscape of which accounts have
+the best interest, I don't want to go in and update 20 different credit cards to a different
+bank account every month. It's easier just to have one central account. And Chase is our preferred
+one because A, we're opening a lot of business cards through Chase. And so those...
+Just naturally get tied to your Chase business checking account. But B, Chase, I think out of all
+of the big banks has the nicest interface and the best funds transfer limits and just general ease
+of use. And so that's why Chase is our preferred account. But outside of banks and credit cards,
+we also add all of our brokerages into Simplify so that we can see all of those balances in one
+place. And Simplify supports like 401ks, Roth and traditional IRAs, HSAs, taxable
+brokerages, all of those things we've added in. And it's just nice, honestly, to be able to keep
+an eye on our investments and how the market is affecting them, which is very necessary for us
+because we are doing the FIRE, the financial independence retire early thing. It also saves
+us a lot of time each month when we rebalance our investments because we follow a thing called
+GlidePath, which I think was popularized by BigEarn from earlyretirementnow.com,
+where you rebalance your stock, bond, gold,
+cash ratio each month based on how the market is performing. And yeah, maybe if folks are
+interested in the future, I can do a FIRE GlidePath episode to kind of explain it in more detail.
+But I went into it a little bit in the interview I did for Risk of Ruin. I think that was episode...
+Let's see here. Episode 20, the bonus episode, where I kind of delved a little more into the
+FIRE process. But yeah, it just makes that a lot easier not having to log into 10 different
+brokerage accounts each month.
+To tally and adjust things when I can just look on Simplify and see the tally across all of them
+really easily. So having all of those features in one place makes it just a lot easier for us
+to manage our finances, particularly because we are churning on top of doing the FIRE thing.
+And so in terms of just like practical usage, the way we generally go about it is every time
+that I open a new credit card, which is quite often, at least once or twice a month,
+I will go in and add that new credit card.
+You keep that credit card for at least a year. And so the effort to add in a credit card is
+justified by the fact you're going to be able to see it now for the whole year.
+And this then helps you eyeball things like your minimum spend progress without having to really
+even look at a spreadsheet or log into your random US bank or city account that you use
+basically once or twice a year. And so by checking Simplify, I'll know when any of these annual fees
+hit and I know then it's time to call in and cancel.
+And right now, I'm in the middle of the middle of the middle of the middle of the middle of the middle.
+I have probably 30 or 40, maybe closer to 50 because I have both P1 and P2's credit card
+accounts tracked inside Simplify. And the nice thing with Simplify is that when you do close
+one of those accounts, you can then mark it as closed. So you know which ones are closed and
+which ones are currently open. Then we also added in our main bank accounts, so our Chase personal
+accounts, our Chase business accounts, and then our Ally account, which is another one of our
+foundational accounts that we use to do a lot of the money movement.
+Because Ally, like Chase, is also very flexible and has really good transfer limits and is pretty
+easy to use to schedule automated transfers in and out of other accounts. So all of that good stuff
+makes it one of our main accounts. And so we make sure that those are in Simplify as well.
+But when it comes to all of the miscellaneous accounts that we're churning in any given month,
+I tend to not add them into Simplify just because oftentimes if they're like a small credit union,
+they don't have the integration to
+automatically close them. So I tend to not add them into Simplify just because oftentimes if they're
+add into Simplify, so you'd have to add it in manually. It's just a lot easier for me to add
+one single miscellaneous account that acts as a bucket that is the tally of all of these other
+little miscellaneous accounts. So I'll be like Juno, $10,000, Current, $6,000, Chime, $2,000.
+And the total of that becomes what I put into Simplify in the miscellaneous bucket. Of course,
+the alternate method to this is that you could actually add each new bank account into Simplify,
+as you open them. The issue though, is that because you can't link all of those accounts,
+because sometimes they're just an app bank that doesn't have this linking capability,
+sometimes you're going to have to add those account balances in manually. And then you
+have to update those balances manually when you get a new bonus or if you move the money out.
+And so it does end up being a bit more work, but it could be more accurate if you're good
+at keeping it up to date. So if you're not someone that's good at keeping all of these
+manual accounts up to date,
+in Simplify, then it's just going to get more and more inaccurate as the months go by.
+So I tend to just prefer a quick and dirty tally inside Google Sheets to populate this
+miscellaneous bucket account that is the total of everything. So that Simplify still has an
+accurate picture on a month to month basis of how much money we have. And I just know that
+miscellaneous means it's spread out across various accounts because I'm churning bank bonuses.
+On the flip side of that though, we do make sure we add all of our brokerages,
+because with brokerages, those rarely change. Even if you're doing brokerage bonuses,
+often they'll make you hold the money there for six months to a year. And so it's longer term
+than your bank accounts. And the nice thing with brokerages is that because there's less of them,
+most of them are supported by Simplify when it comes to linking. And even Public is on there,
+and they're an app bank. And then for the ones that aren't supported by Simplify,
+adding brokerages manually is actually pretty easy because you're able to add what stocks you have
+in this brokerage.
+So as the stock moves up and down, Simplify updates that balance automatically because
+it tracks the current stock prices. So it's not like you have to go in and manually adjust your
+brokerage account balance when the price of your stocks change. So it really is worth the effort
+to add in the brokerages. And it's nice to have all of your various accounts now tallied up under
+investments in one place. Then from a more practical standpoint with Simplify, they let
+you change and label the names of your accounts. So if you're adding a brokerage account, you're
+so that you can use your own sort of labeling system. So for us, we rename all the accounts
+to person-typeofaccount-bankname-accountname, and then sometimes dash the last four digits.
+So in practice, what that looks like is it would be P1 because I have both P1 and P2 accounts in
+Simplify. So P1-personal because we have personal and business accounts in Simplify-chase because
+chase is the bank-inc.com.
+Cash, which is the name of the card that we opened, dash 1, 2, 3, 4, which is the last four
+digits. And so when you organize it that way in the Simplified list, it becomes really easy to see
+which accounts are P1 and P2s, which ones are personal versus business. It's going to then also
+be sorted alphabetically by the bank, Amex, and then Bank of America, and then Chase.
+And so you have all of this stuff in a list that's really easy to see. And I remember struggling with
+some of the other services we used where I think back then,
+wouldn't let you change the names of these accounts. And so it just became really hard to use and manage
+when you have a lot of accounts. And for us, I think we are close to if not over 100 different
+accounts being synced inside Simplify. I mean, at this point, I think we must be in the top
+1% of Simplify power users just based on how many accounts we have. But I think most churners will
+just naturally end up being in that top 1% over time as you open and close.
+Finally, just some quirks with Simplify because it isn't all sunshine and roses. I'm not actually
+being paid by Simplify. This isn't a sponsored ad or a sponsored episode. There are definitely
+some issues that I wish would get better. And I think the main issue with Simplify is that if you
+use two-factor on your accounts, which I think most of us do, and you really should if you're
+not, sometimes two-factor presents some syncing issues. It has trouble syncing up with your
+Simplify because Simplify doesn't use Played. I wish they would just use Played because Played is,
+I think, a better service. What they use on the backend is Quicken Connect because Simplify is
+developed by Quicken, who sells, I think, accounting software. And so that's why they
+have a linking backend already created because they're using it in the Quicken software. And
+now they're just using it for Simplify too. But yeah, they use Quicken Connect and it sometimes
+struggles with two-factor in the sense that most times when I log into Simplify, there's
+a lot of syncing issues. And so I think it's a good idea to use Quicken Connect.
+A few accounts that I have to do the SMS verification for. I also wish they would
+support more of the smaller credit unions so that you could add everything and not have to manually
+add some of them or use this miscellaneous account thing. But that's not really, I think,
+a Simplify thing. That's more just these smaller credit unions probably don't work on Played
+either. They're just not supporting that kind of a linkage. Then another annoying thing is
+totally just like a churner problem, which is that I have way too many
+closed accounts in Simplify. And there's no way right now to hide those closed accounts.
+Like they'll mark them as closed. But in my list of accounts that I see every time I open Simplify,
+probably over 50% of those accounts that I'm seeing are closed and they're labeled closed.
+But I wish I could just hide them from my view. And it is in their feature requests. So a lot
+of people have actually requested this and they said they're working on it. So hopefully we'll
+see some kind of an update there in the future. I guess the other annoying thing is that I wish
+they would make updates faster. But at least with Simplify, you do get to request features like
+they have a community forum. And because it is a paid app that's on a subscription,
+they're actually incentivized to improve things where these free apps or some of the apps that
+have you pay one price up front, they're just less incentivized to keep updating and improving
+the app. And Simplify has gotten better over the two, three years that I've been using it.
+So I think the TLDR on Simplify is that while it could be better, it's still currently way
+better than Simplify. So I think the TLDR on Simplify is that while it could be better,
+than the rest, particularly if you're going to use it to help keep track of your money while
+you're churning. But you know, as with any tool, it's only as good as its wielder, right? You have
+to stay on top of adding and closing accounts. And the UI is pretty intuitive, but there is
+definitely a bit of a learning curve when you first use it. But once you get the hang of it,
+it does become sort of second nature to manage things in there. And, you know, we probably check
+Simplify, like we're not obsessive about it, but we do check it at least once or twice a day just
+to make sure all the transactions that we see are legit and just to see the health of our financial
+state, I guess, which has been a little depressing lately with the market. But overall, yeah, it's one
+of these apps that we recommend to all of our friends. And so hopefully some of you guys will
+find it as useful as we do. And definitely let me know in the comments if you have other apps like
+this that you're using that also integrates and works well with the whole churning thing.
+But otherwise, I think that's it for this episode. I know it was a little different
+than the usual pure churning topic. So let me know what you thought about it. And if you'd like
+to hear more of this personal finance fire churning type content in the future. And as always, if you
+enjoyed this episode and you know someone else who might find it useful, please do pass it along.
+Most people find this podcast from friends. I don't really do much or any marketing for this
+show. So really appreciate you guys for spreading the word. All right, I'll catch you all next time
+for the November recap.
+Thanks for tuning in. See ya.

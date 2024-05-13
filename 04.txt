@@ -1,0 +1,408 @@
+Hey guys, welcome to another episode of The Daily Churn.
+This is episode four and today we'll be talking about Swagbucks.
+So Swagbucks is kind of an interesting topic because I'm definitely by no means an expert.
+I've been using it for about nine months now and man, there's just so much happening inside
+Swagbucks and it's such a weird platform, like you're really willing it to be a useful
+service because there's deals on there that are pretty great and DOC posts about them
+all the time and so you really want it to work for you and in some ways it does, but
+in other ways it's such a miss and it's one of those things where I have a hard time recommending
+it to anyone who isn't super dedicated to this hobby and even for this podcast, I wasn't
+sure if I really wanted to go into it, but it's just been, it's been such an interesting
+experience.
+I guess I'm just going to share my beginner's take on the things I've learned about it so
+far and if you've been using Swagbucks since, I just Googled this, they've been around since
+2008, you know, and you have like decades worth of experience on Swagbucks and you have
+additional insight on how some of these things, like their customer service and their offers
+are working, definitely share with me and others in the comments because I'd love to
+hear exactly what is going on behind the scenes at Swagbucks.
+And so if you've never logged into Swagbucks or created an account, it's kind of overwhelming.
+You make one and then you're transported back into some era of the internet where, I don't
+even know if it's like, the interface is not super modern, right?
+But it's not like, it doesn't look like a 1990s website either, but they've just crammed
+so much crap in there.
+It feels like an ad marketing department's head had like a nightmare and then it is now
+realized on a webpage at Swagbucks.com.
+When you log in, there are 10, if not more, completely unrelated things you can do on
+Swagbucks to earn Swagbucks.
+There are surveys you can take ranging in time and you'll get X amount of Swagbucks.
+You can watch video ads, literally just watch ads and you'll get some tiny amount of Swagbucks.
+And we're talking like five or six Swagbucks, which translates to five or six cents for,
+for three to five minutes of your time.
+There's mobile games that you can download and play and you get Swagbucks for reaching
+certain levels in those games.
+You can upload receipts and you'll get Swagbucks.
+There's direct offers from companies and that's what I'm primarily using Swagbucks for, you
+know, like getting 5,000 Swagbucks for signing up for Home Chef or something.
+And then there's the traditional cashback portal, which if you're familiar with Rakuten,
+it's just, you know, you click through and you'll get 2%, 3% cashback at one of the stores
+you click through.
+I would say that for the most part, you don't have to worry about any of the other stuff
+except for the direct offers from companies.
+And again, if, if someone's been using Swagbucks longer than I, and has found a lucrative way,
+why these other things are actually good to do, please definitely chime in.
+But the amounts of Swagbucks they're offering, the max I'm seeing is around.
+A hundred Swagbucks, which is like a dollar for doing like a hour long survey.
+So it's really not worth your time.
+I think the only activity worth doing on Swagbucks is the direct offers.
+Those are the offers that other companies are essentially paying Swagbucks to have Swagbucks
+then pay you to do a certain activity, like sign up for a new bank account or sign up
+for a new meal delivery service.
+But before we get too deep into that, I wanted to give a bit of a.
+Okay.
+Okay.
+Preview for what to expect out of Swagbucks so that you can decide if this is even something
+that you'd want to try and figure out with Swagbucks right now.
+My use case for it is myself and my wife, my P2.
+We accumulate just enough Swagbucks that we have enough of a balance that each month
+we can redeem essentially, I believe it's 2100 Swagbucks for $25 worth of Amazon gift
+cards.
+And so.
+And so.
+And so.
+And so that ends up being $50 every month that we get in essentially free Amazon credits.
+And for us, the reason why we do it this way is that it seems to be the most reward, least
+amount of effort way of doing Swagbucks.
+I think there are probably way higher volume users of Swagbucks out there that are doing
+much more than that.
+And I'd love to hear some of their tips and experiences, but given the issues I've run
+into so far with Swagbucks.
+This seems to be the one, the method that has the least amount of headaches for essentially
+just a free $50 each month on Amazon.
+So then the question really is a personal one, which is, is this even worth it to you?
+If you're in P1, P2 mode, it's what is that $600 a year?
+If you're in P1 mode, that's only $300 a year.
+So is it worth tackling Swagbucks for the upside of $300 a year on Amazon?
+And yeah, I honestly don't know.
+Even I am conflicted about it.
+I am conflicted about it sometimes as well.
+I think a big part of why I do Swagbucks is that it's a deal.
+It shows up a lot on DOC and it's hard for me to resist essentially free money.
+But I feel conflicted about it all the time because $300 is like a bank account somewhere
+you can open, right?
+So is all this effort being expended into Swagbucks actually worth the payoff?
+And I don't know, but I'll cover some of my experiences and you can hopefully decide for
+yourself.
+You can make an educated choice.
+All right, so diving into Swagbucks offers.
+The whole thing is kind of a shame because there's so much potential, I think, with Swagbucks,
+but it's just implemented so poorly that it turns people off from the sign up all the
+way through to redemption.
+And so we talked a little bit about how the site is difficult to navigate, et cetera.
+But once you get past that, the first challenge you're going to have when you're redeeming
+an offer is the fact that a good amount of these offers are going to be paid off.
+So you're going to have to make an effort.
+You're going to have to make an effort.
+You're going to have to make an effort.
+You're going to have to make an effort.
+And so the way that we do that is really by looking at these kind of offers as to why
+are these kind of offers not tracking properly?
+Obviously there's the common mistakes that sometimes people make of not having disabled
+their ad block or they opened it on one page and went to another, et cetera.
+Those kind of newbie mistakes, right?
+But myself and I would say the majority of people in the DOC comments complaining about
+offers not tracking, it's not because they had ad block on or they're using the right
+the wrong browser tab, we're following the exact steps prescribed. We're clicking through,
+it's the same browser page, there's no ad block, and yet these offers still don't track. And so
+what is the deal? So the way it works with a regular cashback portal is they essentially
+add a tracking cookie when you click through from Swagbucks or Rakuten into another website,
+like Home Depot. And that tracking cookie tracks the fact that you're on Home Depot and that you've
+made a purchase at Home Depot. And so cashback is a fairly straightforward thing to track and
+get credited for. Where it gets complicated with Swagbucks is they're not just tracking that kind
+of a cashback, they're adding a tracking ID for sure, but they're actually also looking for the
+completion of specific events. So for example, with GoodRx, which is one both my wife and I
+have done and both have not successfully tracked, is they have a tracking cookie to see that you
+went to GoodRx.
+To sign up. And when you follow that step, what shows up in Swagbucks is a line item in your
+activity that you visited GoodRx. And there's a little orange icon that says that the credit
+is pending. Now to actually have that credit move from pending into complete, which means the Swagbucks
+goes into your account, requires GoodRx to send data over to Swagbucks to say that you have
+filled a prescription and that you are subscribed. So that kind of info isn't something that can be
+tracked via your tracking cookie. When you fill out a prescription, you're doing that at your
+local Safeway and only GoodRx knows that that's happened. And so GoodRx literally has to send
+data over to Swagbucks. And that's, I think, where some merchants, some of these partner companies
+are not doing a good job. And that's where you're seeing these issues between offers to track and
+don't track. My guess, just having developed websites before, is that I'd imagine Swagbucks
+hopefully has like an API and the companies essentially integrate with that API and
+automatically when a prescription gets filled on GoodRx, it triggers data to automatically send to
+Swagbucks through their API that says, hey, so-and-so filled out a prescription. If it's not
+that advanced, which I mean, honestly, most companies are using APIs at this point, but would
+Swagbucks be able to do that? I don't know. I don't know. I don't know. I don't know. I don't know.
+Swagbucks, who knows? There's usually, I'd imagine, a backup method or a more manual way
+of doing this. Some kind of a merchant portal where you as a merchant, in this case, GoodRx,
+can go in and upload the data manually about which customers have completed an offer,
+just as a CSV file or something, right? And that's how Swagbucks determines that
+an offer is being completed. I think where the cracks in that process are,
+right, are twofold. One is that potentially if it is an API, not every company has a competent
+dev team that is going to be able to use that API properly. And so if that API is not being
+triggered correctly, but the partner company thinks it is working and they really have no
+incentive to really spend the effort and energy to debug what's happening, right?
+Some marketing guy, GoodRx, was like, hey, Swagbucks is a thing. It's going to help us
+get new signups. They're like, good. GoodRx is a thing. Swagbucks is a thing. GoodRx is a thing.
+And then they have probably their worst developer, right? Or in some cases,
+the guy in marketing has to figure this out himself to then use that API and integrate it
+so that it sends data over. And if it's not working, nobody at GoodRx gives a crap. They
+don't care. They got the signup. Swagbucks isn't breathing down their neck because Swagbucks
+doesn't care. It means less Swagbucks being given out. So in the end, there's just no one who
+actually, if there was an issue, would take responsibility for that. And assuming it's not
+an API, it's not a good thing. So in the end, there's just no one who actually, if there was
+and someone's manually uploading that, I think you can see where the gaps in that process might
+be where someone just uploads it incorrectly. It's the wrong format or just forgets to do it
+completely. And when that happens, your Swagbucks are going to show impending forever because no
+one from GoodRx is sending the data over to Swagbucks. So the responsibility is really on
+Swagbucks to work with these companies to make sure they're uploading their data correctly and
+these offers are posting. But Swagbucks isn't doing that for whatever reason.
+And probably in the same way that they approach their business, which is all about essentially
+squeezing money out of people and companies in the form of Swagbucks, they're probably not staffing a
+lot of people on their technical side or their business account management side or their customer
+service side. And so whether it's due to a lack of time or a lack of concern, they just don't have
+people verifying. They have someone in sales onboarding these new companies with these new
+offers, but they don't have any.
+They don't have a follow through to ensure that these offers are then posting correctly.
+I am looking back over my Swagbucks account and it looks like I've done about 10 or 11 of these offers
+over the last nine months, so roughly maybe an offer a month. And two out of three of them have
+tracked correctly. So for me, it looks to be about a 66% rate of these offers actually tracking.
+And when they track, everything is great. But when they don't track, that's when you have to deal
+with probably the worst part of Swagbucks, which is their customer service.
+What I've noticed, because both my wife and I have an account there, is that the very first ticket you
+submit at Swagbucks, you will get a response extremely quickly and your issue, whatever it is,
+will be resolved. It's like someone in their marketing or retention department basically said,
+hey, anytime anyone submits their first ticket, bend over backwards to make sure that issue is
+resolved, whether they were right.
+We were right. Who was wrong? None of it matters. Just give them the Swagbucks, answer the question
+quickly and make sure that that first ticket, they have a great experience.
+The problem, of course, is with any subsequent tickets. And so my second ticket that I've attempted
+to submit is for GoodRx, which stayed as pending. It never credited. And I sent in the screenshot along
+with the dates where my prescription was filled, the fact that I was still subscribed. And 14 days
+later, I finally got a response. And that's when I finally got a response. And that's when I finally got a
+response back, which was just a canned response that looks like it's straight from just an FAQ help
+article. And I won't read the whole thing because it's seven paragraphs long and it essentially
+details all the ways you could have made a mistake while doing not just their direct offers, but their
+surveys, their polls, their videos. It is completely just a canned FAQ item response. But here's the
+first part of it, which is thank you for writing in about your
+crediting issue. We sincerely apologize for the inconvenience you have experienced with this
+activity. Please understand that when the activity does not track, the credit applied to your account
+is done so as a courtesy. We do not receive any compensation from our partners when credit is
+applied through submitted tickets, and we are unable to retroactively receive credit, even if
+proof of activity completion is provided. Be aware that even though we have honored the credits in
+the past, we will be unable to provide manual credits through submitted tickets every time
+you submit. We will review each and every time you submit a credit, and we will review each and every
+time and determine based on the investigation. Before submitting a ticket in the future, please
+make sure that your activity is eligible for credit and make sure that all crediting delays
+have been met. The next part goes into the specifics of there are different features like
+shopping, offers, surveys, and things you can do to ensure that those track correctly. But nowhere
+in any of that response is there any kind of an action that you can take to resolve it. You know,
+it's just like, hey, make sure you did all these things for the future. So,
+if you're going to do all of those things, that's why I'm reaching out to you because my offer
+hasn't credited. And they keep it intentionally vague about like, your offer may not be credited
+every time you submit a ticket. Okay, great. So, is this one of the times you're going to credit me?
+And it's like, based on the outcome of the investigation. Okay, cool. So, are you guys
+going to then investigate this ticket? So, the idea of this, I think, is just to provide a wall
+of text that's just confusing enough while providing a little bit of information that you can
+hopefully you don't follow up. So, then, of course, I replied back and gave even more
+documentation and details about why I'm eligible to receive this offer. And please escalate and
+do an investigation. That was a month ago. No response. 19 days ago, I sent another ticket
+being like, hey, any updates on this investigation? Again, no response.
+Then this is where things get interesting. So, a week ago, I submitted a new ticket for the issue
+and just said, hey, I didn't get a response on the first ticket, but please escalate this issue
+and investigate it. And here's all the documentation and here's all the stuff and the dates where I met
+the offer requirements, all that good stuff. And within, let's see how many minutes, within 26
+minutes, I received the exact same response that I got on the first ticket, the boilerplate,
+seven paragraph long of being like, hey, thank you for writing.
+About your crediting issue. We apologize, blah, blah, blah. Please understand when activity does
+not track, it's done so as a courtesy, blah, blah, blah. So, exact same ticket, which made me wonder
+if maybe the fact that I'd referenced the first ticket's ID in my second ticket and it automatically
+hyperlinked that ID to the first ticket. So, I wondered if their customer service software,
+I think they're using Zendesk, is providing some kind of like automated workflow where if you
+reference the first ticket, you're not going to get a response. So, I wondered if that's
+the first ticket, they'll just automatically respond back with the response they gave on your
+first ticket. So, I figured, okay, let me just try submitting another ticket and this time not
+referencing the first ticket ID. Unfortunately, exact same thing happened. About 30 minutes later,
+I got the exact same canned response back. And finally, I thought maybe it was because I was
+submitting to a specific department. It was the shopping promotions department and maybe they
+were just shortstopping. So, I was like, okay, I'm going to do this. I'm going to do this. I'm going
+sending automated responses to every ticket. So, let me try a different department. And so,
+I selected some other random departments and submitted my issue. And in the ticket, I said,
+are there humans reviewing these tickets or only automated canned responses? I'm requesting a human
+investigation into this crediting issue. And of course, about 20 minutes later, I got the exact
+same automated canned response. So, there's only two possible scenarios in which this is happening,
+which is one.
+I was really unlucky that night and all of the tickets were going to one single person
+and that single person was fed up with me submitting tickets and just sending a canned
+response back, which would imply that they have literally only one person on their customer
+support team, which wouldn't be surprising, but I'm thinking that's not the case.
+Then the second, probably more likely option is that they've flagged my account after my
+first ticket.
+But once you submit one ticket with Swagbucks, your account now is in a state where any subsequent
+tickets receive this automated response.
+I'm looking forward to kind of testing that theory out a little bit because on my wife's
+account, the GoodRx credit is also not posted.
+So I think we're about a week away from her account having that credit due and I imagine
+it's not going to post automatically.
+So I'm kind of excited to submit a ticket on her account and see.
+If we end up getting the exact same thing, because there's a couple of fringe possibilities
+too, where maybe it's a GoodRx thing.
+They're fed up of getting GoodRx tickets.
+If you look on DOC, the majority of people have not had their GoodRx posted and no one's
+responded to their tickets.
+I feel like the people who have had their credits posted correctly and they mentioned
+it on DOC being like, hey, they've credited me.
+It could have been their first ticket at Swagbucks because as we know, their first ticket goes
+through totally smoothly.
+So to say the least.
+The thing has just been extremely frustrating, you know, spending, I don't know how much
+time thinking about it and then also submitting four separate tickets for this issue and then
+tracking when GoodRx is supposed to post.
+And you got to remember when you do these offers to, of course, take screenshots of
+everything because they may ask for that.
+Like Sunbasket, I think they wanted pictures of your first box's shipping label as proof
+that it arrived.
+So you got to make sure you read that.
+Read the fine print, save copies of everything and still it's a roll the dice kind of a thing
+as to whether or not you're going to actually get the credit even though you have all of
+the proof.
+Because if they just don't respond to your tickets, there's really not much else you
+can do.
+I think the natural tendency, especially with folks like us who churn credit cards as well,
+is that, hey, let's go to like CPFB, which is the consumer CFPB.
+The consumer finance.
+Protection Bureau.
+And they're usually pretty good with contacting banks to get your bonus posted.
+So there's like a temptation to do that.
+And I've seen comments where people are like, yeah, I submitted a CFPB complaint and then
+months later I finally got my Swagbucks.
+I would just not recommend doing that at all unless you're ready for Swagbucks to close
+down your account.
+Because hand in hand with that, there's also a lot of reports of Swagbucks randomly shutting
+down people's accounts.
+And they are...
+They are very allergic to things that cost them money and cost them potentially reputation.
+And so even if you win your CFPB complaint, you're at their mercy and it's at their whim
+whether or not they decide to shut down your account.
+I'm generally pretty cautious with how I even use Swagbucks because they're so trigger happy
+with shutting down accounts.
+Because I have my account, but my wife has hers, and during signup, I had an issue being
+able to...
+create an account for her on my computer.
+And then I remember reading some comments about how they don't want to see any kind
+of gaming, but they don't want to see that you have multiple accounts at Swagbucks and
+you're taking advantage of them that way.
+And so what we actually now do so that there's no conflicting IP addresses or cookies being
+shared that might trigger them to think that me and my wife are the same person and we're
+just trying to do an offer twice.
+I only visit my Swagbucks...
+on my computer and I only visit my wife's Swagbucks on my wife's computer because I'm
+so worried about them actually just shutting down our accounts because of what they perceive
+or may perceive as gaming.
+So with all of that in mind, I guess you may just be wondering why even use Swagbucks?
+What's the point?
+You know, what are we getting out of it that justifies this amount of work?
+And for me, what I realized is that it's a mentality thing.
+It's not how you approach Swagbucks.
+You can't go at it like you would tackle bank bonuses or credit card bonuses, you know,
+where you're trying to like maximize as many of them as possible and you're trying to do
+as many of them as you can at a time.
+I think because Swagbucks is inherently such a frustrating platform, the way to go about
+it is kind of a more Zen approach, I think, which is just accept that a good third of
+the offers you do on Swagbucks is not going to track.
+So keep that in mind when you pick an offer.
+And DOC is sort of your Bible when it comes to figuring out which offers to tackle.
+You know, he posts a lot of them, even the ones that don't track.
+And so it's really important to read the comments.
+And if it looks like most of the people in the comments are having issues with Swagbucks
+not tracking, very good chance your Swagbucks aren't going to track.
+So if you're a new Swagbucker and you have a first ticket in you, then it doesn't really
+matter, right?
+Because you know that first ticket, they're going to resolve it.
+So hey, go for it.
+But if you've done more than one ticket with Swagbucks, then you probably don't want to
+tackle that offer because you're probably not going to get the Swagbucks.
+That was a mistake I made with GoodRx, but at the time I didn't know.
+But hey, now you know.
+So have that kind of an approach where you review the comments religiously to make sure
+whether or not it's going to post.
+And if most people are saying it posts well, like one that was amazing was actually eToro.
+eToro was a crypto trading app.
+And that offer, the comments people were saying, oh yeah, after you deposit $200, the Swagbucks
+will post within like an hour or two.
+I was sort of skeptical, but I tried it and same here, mine posted within an hour or two.
+So the takeaway here is really just to read the comments and don't be tempted by simply
+the high amount of Swagbucks being offered.
+My wife's one when she signed up for GoodRx was $200 of Swagbucks.
+So we thought we'd take a chance.
+We'll take a chance because, hey, it's $200 of Swagbucks, right?
+That's a high amount of reward for the potential effort.
+But looking back, given the fact that the majority of the comments were like, hey, it's
+not posting, we shouldn't have done it.
+But you live and you learn.
+If you approach it with this kind of more laissez-faire attitude where if it posts,
+it posts.
+If it doesn't, it doesn't.
+At most, I'll submit one ticket just to see what happens.
+Then you'll probably end up doing maybe just one, maybe two offers a month and assuming
+half of those offers actually post.
+You're looking at 5,000 to 10,000 Swagbucks a month, like $50 to $100.
+It's not a ton.
+But one thing that's nice on Swagbucks is they have a monthly redemption offer.
+Usually when you redeem your Swagbucks, 1,000 Swagbucks is $10.
+And so $25 would be 2,500 Swagbucks.
+Once a month, you're able to redeem 2,100 Swagbucks.
+So usually $21.
+Yeah.
+For a $25 gift card.
+And so what I do is each month that refreshes and I redeem 2,100 Swagbucks for a $25 Visa
+gift card.
+And then it takes another five or six days for the Visa gift card to be sent over to
+your account.
+And then once you have that, for me, I just reload my Amazon account with $25 and my wife
+does the same.
+And so we end up with essentially $50 of Amazon credit each month.
+Keep in mind.
+It's a lot of time redeeming one of these gift cards.
+For me, Swagbucks actually sent me a paper code in the mail for me to verify I am who
+I am.
+They were just super strict about any kind of gaming, which makes sense because their
+whole platform really is about gaming for Swagbucks.
+So they attract a certain crowd.
+And so their verification protocols are similar to that.
+For my wife's account, she didn't have to do it via paper.
+I think she was able to verify just by email.
+So I don't know if that's a thing they changed or if I just got extremely unlucky.
+But I just keep in mind that they do have some more stringent checks.
+But yeah, if you just kind of taper back your goals with Swagbucks and set it around that
+$25 a month level, then it becomes a pretty chill process to get enough Swagbucks into
+your account that you're able to redeem for $25 every month.
+Right now, I've got 32,000 Swagbucks.
+Which if I just went to my account and looked at the Swagbucks, I'd be able to redeem for
+$25 a month.
+But if I just went in and redeemed it all, it would be $320 in a Visa gift card.
+But the nice part is I'm not going to do that.
+I'm just going to do the monthly thing.
+And so when that 32,000 Swagbucks starts going lower, I'll probably just do another offer
+and just kind of bump up that balance.
+There's probably some wisdom too in just not having a massive balance at Swagbucks.
+And so if there were a week or a month where a ton of great offers were being posted on
+DOC and everyone was saying that the crediting tracking was going super smoothly, then I'd
+probably take those offers on.
+And if my balance got over, let's say, $500, I'd probably redeem $200, $300 of that just
+to kind of bring that balance down.
+Because again, Swagbucks is just so unpredictable in the sense that I don't know if they're
+going to shut down my account at some point in the future.
+I don't expect it because I'm not doing anything weird.
+I'm not filing CPFB complaints against them, even though they totally are.
+I don't know if they're going to shut down my account at some point in the future.
+I don't expect it because I'm not doing anything weird. I'm not filing CPFB complaints against them, even though they totally are.
+I don't expect it because I'm not doing anything weird. I'm not filing CPFB complaints against them, even though they totally are.
+I don't expect it because I'm not doing anything weird. I'm not filing CPFB complaints against them, even though they totally are.
+I don't expect it because I'm not doing anything weird. I'm not filing CPFB complaints against them, even though they totally are.
+I don't expect it because I'm not doing anything weird. I'm not filing CPFB complaints against them, even though they totally are.
+I don't expect it because I'm not doing anything weird. I'm not filing CPFB complaints against them, even though they totally are.
+I don't expect it because I'm not doing anything weird. I'm not filing CPFB complaints against them, even though they totally are.
+I'm hoping my account's safe, but again, I wouldn't trust it to hold a ton of money that
+I wouldn't be comfortable losing. So yeah, that's it for Swagbucks. I think my goal here wasn't to
+convince you to use it, as you can tell, nor to totally dissuade you from using it. I and my wife
+both use it. You just have to, I think, have the right expectations going in. And obviously,
+I think everyone has different ways of using it. And I would be very interested in hearing how
+other people do it and how they make it work for them. But I think maybe in the future when
+I've used it more and maybe other people have input on how they use it, there could be an
+update to this episode. But for now, hopefully it's something that could be useful for you
+if you're also a newbie at Swagbucks. And yeah, I will talk to you guys next time.

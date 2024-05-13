@@ -1,0 +1,614 @@
+Hey guys, welcome to episode 14 of The Daily Churn.
+Today we are going to be doing a recap of October.
+Last month had a little bit of everything, so we'll start with credit cards and dive
+into a pretty big bonus that I received and a couple of the cards that I'm currently working
+on.
+Then bank accounts, really good month last month for bank accounts.
+A lot of those bonuses came through, so that was a big chunk of the final tally.
+We'll also cover brokerages, a couple of those bonuses posted last month with a brokerage
+that's really easy to get the bonus for, so definitely like that one.
+A couple more random things.
+I did an episode a few weeks ago on churning cell phone plans, and a new one actually popped
+up in the last couple of weeks that my wife jumped on, potentially even a little better
+than the visible offer I discussed before.
+So we'll dive into that and give you guys a run through of how to go about churning
+it.
+Okay.
+And then I thought I'd finish with something a little bit different this time, which is
+a short little recap slash review of the Ventana Big Sur, which was where I was staying last
+week on vacation.
+It's actually part of the reason why this podcast is about a week delayed was I got
+back and I started feeling a little bit sick.
+Like I had a bit of a sore throat and like feeling a little warm and my wife was as well.
+And man, for sure, we thought we had gotten COVID while traveling and got tested.
+It turns out we're both negative.
+So I guess it's just cold and flu season right now.
+So that was a lucky break, but we were traveling on vacation at the Big Sur.
+I'd used my Hyatt points.
+It's definitely a location that's really tailored towards people like us, like award travelers,
+hackers, and churners.
+So I figured it might be interesting to give a quick little summary of the stay, some things
+that were really good and things that weren't so good.
+And, you know, if you guys are thinking about it, maybe this might influence your decision
+one way or the other.
+But for now, let's circle back to the beginning and dive into credit cards.
+So good month for credit cards in the sense that my 150,000 Amex points finally posted
+for spending $15,000 on the Amex business platinum.
+I guess it actually ended up being more like 170,000 Amex points once you factor in the
+$15,000 of spend.
+So pretty big bonus posting.
+I don't really do a lot of MS.
+So for me, getting to the bonus was a bitch.
+Challenging given that my wife and I are also doing the lean fire thing where we're
+not trying to spend a ton of money.
+So someone had asked, like, how do you meet $15,000 of spend while doing lean fire?
+One of the things we did near the end was just to prepay for a bunch of things.
+So like gas, electric, garbage.
+And by prepay, I don't mean just like prepay for the next month, but prepay for almost
+the entire year.
+We put $1,000 towards our garbage, $1,000 towards our.
+Electric bill, stuff like that.
+But yeah, in case you didn't know, you can just load money into most of your utility
+accounts.
+For example, if your bills $50, you can just overpay and put in $500 and it would just
+stay as a credit that slowly gets used up over the months.
+So we did that with like our internet as well.
+So that was another one and all together ended up hitting the 15 case.
+That was nice.
+Got the bonus.
+I also dabbled a bit in buying groups, specifically BFMR.
+Buy for me.
+Retail.
+And I was thinking about doing an episode, a full episode on these groups in the future
+once I've tried more of them.
+But the quick nutshell summary of BFMR is it's pretty challenging to use in the sense
+that many retailers have blacklisted the addresses that you have them shipped to.
+So for example, Walmart, Target, Best Buy, et cetera.
+The second you place an order and you put in one of BFMR's like five or seven addresses,
+your order will be automatically canceled because they just have a blacklist of addresses
+that are known resellers.
+And so that becomes really challenging to actually buy anything to ship to them,
+which really sucks because BFMR is the biggest buying group out there.
+And you can tell they have a lot of money either behind them or they've just made so
+much money that they can afford to just have an amazing website.
+Like it's a really slick website.
+It looks better than most bank websites I've ever used.
+It looks way better.
+And works way better than Swagbucks.
+I mean, it's really nice and they've made it really easy to upload your receipts.
+They made it really quick to pay out.
+As soon as they get your tracking number, you'll get paid out.
+It's just generally just a really nice experience minus the part where almost every big retailer
+cancels the orders.
+So I was only able to get a few orders through because I purchased a deal that wasn't from
+one of the big retailers.
+Facebook makes this VR headset called Oculus.
+And that had just come out and BFMR was paying for it.
+And I was able to place like orders for eight of those headsets and send them over.
+And because Facebook has the Oculus store and the Oculus store is not really optimized
+to prevent resellers, I was able to get those orders through.
+Whereas big box retailers have literally entire teams dedicated towards shutting down resellers.
+And so those went through and I tried a week later and the addresses didn't work anymore.
+So.
+They did eventually shut it down when they probably realized like, oh, weird, there's
+like 3000 Oculus units being shipped to this one house in New Hampshire.
+But before then, it worked.
+I wasn't able to get any order working at any other retailer that BFMR suggests, you know, Dell,
+Best Buy, Target, Walmart, all of those auto canceled all my orders.
+Now, there's a couple of ways around this.
+I mean, the obvious one is to go for a smaller buying group.
+You don't have to pick the biggest one out there.
+It's because it's so big.
+Big that it has all these issues with getting things actually shipped with a smaller buying
+group that's less well known, you are more likely to be able to fly under the radar.
+But at the same time, it's a smaller group.
+So you really have to do your research to be sure that it's been around for a while.
+Their payouts are reliable, no weird issues like that.
+And so that just requires time and research.
+And it's just something that I haven't had the time for yet, but it's it's on my list of
+things.
+And, you know, if anyone has any recommendations for ones that they.
+Really like same with gift card reselling groups, definitely hit me up either on Reddit
+or on the website, the DailyChurnPodcast.com.
+There's a comment section and yeah, let me know.
+I'd be I'd be curious and maybe there could be an episode for it in the future.
+Another workaround that I've been sort of thinking about for buying groups, which I
+swear this is the last thing I'll say about buying groups before we get back into the
+recap, but potentially a way around these address checks is modifying the shipping address
+to be so different that it no longer validates correctly in the USPS address formatter, because
+I'd imagine they use that USPS address verifier to format your address and then match it against
+the list of blacklisted ones.
+But if you modify the address badly enough that it no longer checks, then it should ship.
+But then the second problem becomes you can't modify it so much that it doesn't end up in
+the destination.
+So it's sort of a balancing act.
+And I think once you can figure out the right balance of butchering the address just right
+where it no longer verifies correctly so it doesn't get caught in their address filter.
+Like, for example, my friend sent a package to what was supposed to be Snowflower Lane
+and she had wrote Snowblower Road.
+And I checked this in the address formatter.
+If you write Snowblower Road, it no longer verifies as Snowflower Lane.
+And so you'd think that would mean the package didn't arrive, but it did.
+It actually did arrive.
+So they may be just looking at zip code and then giving it out to mailmen who are familiar
+with the area to try and decipher what you put in.
+So there's got to be a way of modifying an address in such a way that a mailman who knows
+their regular route is able to figure out where it's supposed to go.
+Yeah, I don't know.
+Just a nation theory.
+I'd love some confirmation from someone if anyone knows.
+If this kind of a thing would work.
+I didn't really want to risk it with like a $1,000 Dell laptop to see if it would actually
+end up arriving, but I might try it if they have like a deal where it's a $35 thing they
+want.
+Usually they don't want things of such low dollar value, so it might be a bit challenging
+and I may just have to risk it.
+But yeah, something that's been on my mind.
+Hit me up, let me know, validate, debunk the theory.
+OK, so getting back to credit cards, the cards I'm working on now are the Southwest ones.
+In order to get Companion Pass.
+So I did an episode on Southwest Companion Pass about a month or so ago.
+Yep, I think it was episode 10.
+And right now is the prime time to get the Southwest Companion Pass via opening two credit
+cards.
+So I opened for my P2 the Southwest Performance Business Card, which is 80,000 points for
+spending $5,000.
+And so we're at about $4,500 on spend for that card now.
+And so we're going to leave it and wait.
+Until January, January 1st to finish that spend so that all of those points post in
+January.
+Then in a couple of weeks, I'll be opening the Southwest Premier Business Card for my
+P2, which is 60,000 points for spending $3,000 over three months.
+And same thing with that is just getting it to $2,500 spend this year and doing the final
+$500 of spend on January 1st or sometime shortly after.
+So that all of the bonuses, the $6,500.
+Plus the $80,000 from the other card will all post at the beginning of January, which
+would qualify her for Companion Pass for all of 2022 and all of 2023, which is a really
+good deal.
+Because then on top of that, you've got about 140, maybe 150,000 Southwest points, which
+is worth almost like $3,000 in flights that you can use now for booking award travel.
+The other nice part too, is that these cards are Chase cards and Chase doesn't claw back
+the bonus.
+If you have a refund later, whereas Amex, you had $5,000 of spend, you hit that, and
+then you have a $1,000 refund in theory.
+And what they say is they will claw back the bonus in practice.
+They may not, but it's always kind of risky.
+And with Chase though, they've explicitly stated they don't claw back the bonus.
+It's just based on how much you spend.
+You can get refunds later after your bonus posts and it doesn't affect your bonus.
+So that's nice because it's holiday season right now.
+And the nice part about holiday season is a lot of the retailers have really flexible
+return policies.
+For example, Amazon, and I think Best Buy too, and I'm sure many other retailers, but
+Amazon at least allows returns from now all the way up until the end of January of 2022.
+So you can essentially buy stuff now, test it out for three months, then at the end of
+January, decide whether or not you want to keep it or return it.
+And if you do decide to return it, it doesn't end up hurting your bonus.
+And in fact,
+it's helped you meet the bonus even though you're later returning it, which wouldn't
+happen if it was an Amex card, but yeah, just something to think about.
+And you can probably extrapolate how far you could potentially take this.
+And I would probably recommend just not taking it too far because while Chase is pretty
+flexible with this bonus return policy, you probably don't want to get to a point where
+you draw too much attention.
+All right.
+So moving on next is bank accounts and yeah, bank accounts, great month for bank
+accounts.
+I think in the last recap or the one before that, I was like kind of bummed that I didn't
+have a lot of bank bonuses posting.
+So I made a resolution that I was going to do future me proud and sign up for a bunch
+of bank accounts and yep, future me or now me is really happy that past me did all that
+because whole bunch of bank bonuses posted last month.
+First, there was KeyBank, $200 for depositing $500.
+I did that for both myself and my P2.
+Opened that on...
+Let's see, September 15th and it posted on October 4th.
+So about three weeks, pretty fast turnaround.
+I just sent the money via Chase, $500 and quick and easy made $400 there between myself
+and my P2.
+Then there was PNC for $300 for depositing $5,000.
+So I did that again for myself and my P2.
+Sent $5,000 in from Chase on September 13th and the bonus posted on October 29th.
+So about six weeks.
+For $600, $300 for myself and $300 for my P2.
+Then I also did Discover and Discover is an interesting one because it's only a $200 bonus
+for depositing $25,000.
+But the thing with Discover is it posts really fast.
+Like literally the next day after you put in $25,000, the $200 will post and you'll
+be able to withdraw that immediately.
+So you don't have to leave the money in there for any real length of time.
+And so...
+I opened those accounts for myself and my P2 on October 14th and by October 20th, because
+it takes a little bit of time for you to do the trial deposits so that you can link your
+account.
+But by October 20th, I'd already sent in $25,000 from my Ally account and yep, $200 posted
+on the 20th and I withdrew it right back into Ally.
+So that was a quick and easy $400, $200 for myself and $200 for my P2 for essentially
+five days of money movement.
+So definitely...
+recommend that one if you have $25,000 liquid that you can move quickly in and out.
+So end total for bank accounts looks like $400 for KeyBank, $600 for PNC, another $400
+for Discover for $1,400 total.
+Pretty good month for bank bonuses.
+Might be my best month yet, actually.
+Yeah, very happy with that.
+Okay.
+So next we have brokerages.
+A couple of those bonuses posted from Nadex, which is a brokerage I covered in the September
+recap, I think, but basically it's a $200 bonus for joining using Referralink and then
+depositing $1,000 and making five trades.
+The weird thing with Nadex is that it's like this kind of exotic brokerage trading platform
+where you're doing things like binary options.
+And so those five trades are a little bit complicated to make if you're new to binary
+options, which we were, but luckily there's quite a few posts on DOC related to how you
+can make those for a cost of about $20.
+So yeah, I think that's a good one.
+I think that's a good one.
+I think that's a good one.
+I think that's a good one.
+I think that's a good one.
+I think that's a good one.
+I think that's a good one.
+I think that's a good one.
+I think that's a good one.
+So it ends up being $200 minus the cost of those five trades.
+So $20.
+And so the bonus ends up being about $180.
+Those posted for myself and my P2 last month after about three, four weeks after making
+the trade.
+I think someone mentioned in the comments, they'd contacted Nadex to see when bonuses
+post.
+And they replied saying that they try to post on the fifth business day of the month following
+your completion of the requirements.
+In this case, the five trades.
+And yep, right on the five or sixth day mark, those bonuses posted.
+I also got $100 extra for referring my wife because you get $100 for referring someone.
+And I'd posted on DOC my experience making those binary trades as well as my referral
+link and someone used my referral link from DOC, which is great.
+So I made another $100 that way.
+So it ended up being $280 for me and $280 for P2.
+So that was it for brokerages.
+It was the 280 times two, which ends up being 560.
+Just from Nadex, which I'm pretty happy about.
+Definitely, if you have a P2, I would recommend doing it.
+The requirements are way easier than Charles Schwab and interactive brokers.
+And it posts really quickly, which is nice.
+So next we have cell phones.
+So literally about a week or so after I posted the last episode on churning SIM cards, a deal
+popped up on Slick Deals for trading in an iPhone or a Samsung phone to Best Buy via
+T-Mobile.
+And the promotion basically is that...
+They're offering $200 additional on top of their normal trade-in values.
+So an iPhone X from four years ago, which my wife happens to still have, usually gets
+$190, but now they're offering $390.
+An iPhone SE, the second generation that usually gets $160 to trade in, is now getting $360.
+And that's a really good deal because I literally sold an iPhone SE second generation about
+a month or two back.
+On Swappa for $260.
+And I thought that was a great deal.
+But now Best Buy through T-Mobile is giving you $360 and you don't have to deal with any
+of the shipping and posting and stuff related to Swappa or eBay.
+And then considering the fact that a lot of deals through Cricket and Mint are often giving
+you that iPhone SE for either $0 or $99, which is how much we got those iPhone SEs for, it's
+kind of a no-brainer to then just get that.
+And I think that's a really good deal.
+And during the trade-in, they don't care if the phone is locked, what carrier it's on.
+They just take the phone and it gets fed through Apple, who then unlocks it, etc.
+So it makes no difference to them.
+They just kind of assess for basic damage.
+But even then, they're pretty lenient.
+So the iPhone X that my wife traded in, we weren't able to sell it on Swappa because
+one of the things with Swappa is that you can't list phones that have any glass cracks.
+So her front screen was fine, but the camera piece, there was a little bit of a problem.
+There was a little crack in the lens of the camera.
+And so it was still totally functional and you can't see the crack when taking photos,
+but you can't list that on Swappa.
+Whereas you can list it on eBay and stuff, but eBay has more fees.
+You're dealing with, most of the time, crappier buyers.
+And so Swappa wasn't an option for an iPhone X, but for the trade-in deal at Best Buy,
+they took it in, no questions asked, and gave her an instant $390 credit.
+So if you have an iPhone laying around or can acquire one pretty cheaply,
+through some other deals, this is a pretty good offer and it's still around.
+And I'll just quickly walk through the details of how to do it.
+The full thread on Slick Deals is many pages long and has a good amount of information there,
+but I'll give the quick TLDR on this.
+So the nice part about this promotion is you can do 90% of it online.
+So you order the phone online, you do the trade-in,
+you tell them what phone you're going to bring in, all that stuff online,
+and you get the discount instantly online.
+So you never actually pay...
+the full price for the phone, which is nice.
+However, you do have to go into the store to actually complete the trade-in.
+It's not entirely online.
+And the other quirk with this offer is that you have to pick a store where the iPhone you're trying to get.
+And I forgot if I mentioned this earlier, but this is only for iPhone 13s.
+So you can only trade in for an iPhone 13.
+But the model that you're trying to get has to be in stock at the store that you're going to.
+So in our case, I was trying to get my wife the iPhone mini, and the particular model and size was
+only available in the store.
+So I'm going to keep in mind that store availability does dictate whether or not you can complete this offer.
+But yeah, otherwise, super simple.
+Submit it all online, pay for it online, go in store, give them your iPhone.
+All is good.
+The additional thing to note, though, is that this is through T-Mobile.
+Now, if you have T-Mobile already and you can add a line,
+it's actually quite cheap depending on what plan you have.
+Anywhere from as low as, I think, $10 to $30 to add a line.
+However, if you don't have...
+If you don't have T-Mobile, which we don't, you do have to sign up for new T-Mobile service.
+The issue there is new T-Mobile service is $65 for their cheapest plan.
+And in theory, you're supposed to keep it for 40 days because 40 days is how long before T-Mobile will unlock your phone.
+But of course, this is a churning podcast.
+And of course, there's some workarounds to that.
+So to get around the 40 day unlock period, what you can do is reach out to T-Mobile.
+On Twitter, they have a T-Mobile help Twitter that's run by their team called T-Force.
+And T-Force is like their team that can actually get stuff done.
+It's like the Hyatt concierge on Twitter.
+Their Twitter teams generally for businesses seem to be empowered with more power because I guess Twitter is more public.
+And the same is true for T-Force.
+So what you can do is just DM T-Force.
+And I don't really even use Twitter.
+So I just made a new account for my wife and basically just mentioned that, hey, I have pretty bad T-Mobile.
+I have a T-Mobile service in my area and I like the phone to be unlocked so I can try some other carriers.
+And within, I think, even just like an hour or two, they'd responded that my phone had been unlocked.
+And per reading Slick Deals threads, you can do this within like a few days of activating your phone on T-Mobile.
+You want to wait at least a day so that it shows up in their system that they can then unlock for you.
+But as soon as it's in their system, T-Force can unlock regardless of that 40 day time frame.
+Then I also asked them if they would be able to discount or.
+Prorate to my first month of service, because legitimately, I have terrible T-Mobile service in our area.
+And they responded back and prorated the first month's bill by half.
+So we ended up only paying, I think, thirty five dollars for the first month instead of sixty five, which ends up being like 70 after you factor in taxes and fees.
+I think if maybe I had instead of asking for a discount or proration, just sort of ask for a full refund.
+They might have even done that, but I guess I didn't want to push my luck too far with that.
+And I was pretty happy with.
+Getting the first month for half the price, then if you have an Amex card or some other card that gives bill credits, that thirty five dollars is potentially even lower.
+For example, my wife has a Marriott business card, which is giving fifteen dollars of wireless credits each month.
+So that knocks that thirty five dollars down to twenty dollars.
+So essentially we ended up getting a brand new iPhone 13 mini for three hundred and ninety dollars off via trade in minus the twenty dollars that we paid for.
+The first month of T-Mobile service.
+So three hundred and seventy dollars total off of the cost of a brand new iPhone.
+Obviously, your mileage may vary depending on what phone you trade in.
+But in our case, it was a great deal for a phone that we had trouble selling on Swappa and probably would have only gotten maybe two hundred bucks for on eBay, given that it had that crack.
+However, I don't think I'm going to include that in the final tally just because it's not really money that we made.
+It's money that we saved.
+Eventually, I think we'll make money on it when we sell the phone.
+We'll make money on the iPhone for a profit, but I'll count that when that happens.
+But I did want to mention it anyway, because it is a really good deal if you're in the market for an iPhone, I guess, for the folks who are thinking about fire or lean fire, they may be wondering, why are you even buying iPhones, brand new iPhones in the first place?
+That's like not very lean fire of you.
+And and yeah, I totally get the sentiment.
+I think for us, it's sort of a cost benefit analysis of like we really enjoy taking photos and those new iPhones are amazing.
+Like I have a friend who's hobbyist.
+His hobby is photography, and he has an SLR camera that he doesn't even bring on vacations anymore because his iPhone 13 Pro takes just as good photos.
+So that's the benefit side of things for us.
+And on the cost side, it really is sort of a break even, if not minor profit scenario where a year from now we can sell these iPhone 13s for more than what we ended up paying for them.
+And this is just based on the prices of iPhone 11s and 12s on Swappa, which don't really lose that much value over the course of a year.
+Alternatively, we can trade it in again next year for an iPhone 14, and depending on the offers that are around at that time, it's basically almost a no cost to turn in a 13 for 14 or potentially even make some money if there are some good offers going at, let's say, Costco or Best Buy again.
+So, yeah, you can really kind of churn this indefinitely where you can make it so that you always have the latest iPhone without it really costing you anything.
+And when you decide to jump off that churning ship, you can make some money by just selling it.
+So it's great.
+It's kind of a no brainer for us.
+I'm surprised more people don't do it.
+And on the topic of cell phones, the visible offer that I discussed during the last episode is no longer around in the same form.
+They're not giving you that free HomePod mini anymore.
+You still get the $200 MasterCard, but not the HomePod mini.
+So if you were looking to jump on that deal, honestly, I would recommend waiting till Black Friday because I think what happened last year was they were giving AirPods Pros or Bose noise cancelling headphones.
+And one of those disappeared.
+And then came back again during Black Friday when they wanted to bump up sales and give a really nice offer.
+So kind of worth seeing what Black Friday holds.
+It's a really good time right now for all kinds of cell phone deals.
+So, yeah, next few weeks, keep an eye out on slick deals.
+Shout out to Kev as well for using my visible referral link, which brought my visible monthly cost down from $25 down to $5.
+And then I sort of messed up by paying for visible using my Amex Business Platinum, which has that $10.
+And then I ended up paying for my wireless credit now, which is a good thing.
+However, I didn't realize that you have to literally go into the benefits tab and activate the wireless credit offer the same way you activate some of the other things with Amex.
+And so I ended up paying the $5.
+But, you know, in the future, I think that would all come off automatically.
+But something to keep in mind, you know, with these Amex wireless credits, unlike some other credit cards, they're not happening automatically.
+They're sometimes like embedded as just an offer, like an Amex offer.
+But they're considered a benefit that you have to then go in and actually click the enroll button for.
+So newbie mistake, but live and learn.
+So final tally for cell phones, I'm going to count the $20 from the visible referral from Kev since I would have had to pay that otherwise.
+But I'm not going to count the trade in since that is still a phone that I have in my possession and I haven't sold.
+So ends up being $20 total for cell phones.
+All right. So adding everything up for the final final tally, we've got $150,000.
+And Amex points, which I don't really know how to value those because I mostly use those on on travel.
+I don't really cash them out for their redemption rate, but it's probably worth like $2,000 ish if you count it that way via just like a Charles Schwab cash back.
+And for travel, I mean, man, I value that easily over like four or 5000 because our redemption cent per point is somewhere usually in the three to five, six, seven range.
+If we're using it.
+For first class flights.
+So anyways, I'm just going to count that as nothing.
+I kind of want to keep these tallies as just like a real cash coming into our accounts type of a thing.
+And I'm keeping these Amex points as Amex points.
+But just note that there's 150,000 of those that posted, which is great.
+Then there was $1,400 from the various bank accounts for myself and my P2.
+So KeyBank, PNC and Discover.
+So really good month for bank bonuses.
+We've also got $560 for brokerage.
+Which is specifically from just Nadex for myself and my P2, which was primarily sign up bonuses, but also a couple referrals through DOC and me referring my wife.
+Then $20 from the visible referral.
+So add all that together and it is $1,980.
+So almost $2,000.
+Pretty good month.
+My target usually is like $1,000.
+So yeah, any month where I hit $1,000 or in this case double it is.
+A great month for me.
+Now, if you're interested in award travel, pointy type talk, I'm going to end this episode with a quick recap of my stay at the Ventana Big Sur.
+But if you're not into Hyatt's or Ventana or points and stuff like that, feel free to just skip it and I'll catch you guys at the next episode.
+But for those that are still here, yeah, Ventana was, was very interesting.
+It is definitely a churner points hacker hotel.
+The majority of the people there are globalists.
+And are there on points.
+One night we were in the Japanese baths with myself, my wife and two of our friends and another couple came in.
+And of course, the conversation turned into how we're paying for the stay.
+And oh, of course, you're a globalist.
+Oh, right.
+You're also using 30,000 points.
+Oh, you couldn't get it for 30,000 points instead of you're paying 48,000 points for a suite.
+Well, here's the strategy for actually getting it, which is you should try and look 14 days out because that's when people cancel.
+That's their cancellation window, etc.
+Yeah.
+Etc, etc, etc.
+So that was like an hour long points discussion.
+And that was just one instance at dinner.
+One table across from us got obnoxiously drunk and were really loud and were just yelling about chase redemption rates, like travel portal versus booking directly through Hyatt.
+And of course, how they got the stay for 30,000 points, which is way more value than the travel portal.
+But they were like yelling this.
+And there was so many eye rolls from all the other globalists sitting at tables.
+Like next to them, because, you know, it's like we're all here on points, but you kind of keep it low key, you know, you don't need to be yelling it at the waitstaff, right?
+But yeah, that conversation was everywhere, but that's really neither a pro or a con.
+I mean, just depends on how much you want to engage in that kind of stuff.
+So I'll go through some pros, though.
+The pros is definitely that the food is completely unlimited.
+And man, I mean, we ate so much food and they switched from a paid model to an all included.
+But the food that they're serving is still very much presented and cooked as if you were in a nice restaurant.
+And so the four of us were ordering appetizers to split between the table, then entrees, sometimes a couple extra entrees because we wanted to try different things.
+Then dessert, like a full on three course meal that for four people easily would have cost, I'd imagine, three, four hundred, five hundred dollars at like a decent restaurant.
+All free, all covered every night just from paying 30,000 points for the room.
+On top of that, you can have food delivered to your room at any point during the day.
+You can have breakfast, lunch or dinner sent to your room.
+And there's even a special late night snack menu that's, I believe, 24 seven.
+So I think one of the nights at 2 a.m., we were well, my wife and I were still up because the room below us was just bumping techno.
+I think our guess is that they were literally there just for one night just to party and leave.
+And that seemed to be a pretty common scenario.
+Actually, the couple that we met at the Japanese bar.
+It's basically a big hot tub.
+They were only there for the one night, too.
+They just do that once a month because they live close by and they just want to get away from their kids for a night.
+So pretty common scenario of people just coming in for a single night.
+But anyways, we were up late.
+We probably could have called the hotel and just been like, hey, can you tell those guys to turn it down?
+But at the same time, we were like, you know, if they do it again the next night, we'll say something.
+We've definitely in our youth been those people that have just played our music way too loud into the night at a hotel.
+Luckily.
+They checked out the next day, so we let them have their fun.
+But at 2 a.m., we were still awake and we ended up ordering like a charcuterie board, a ham and Swiss sandwich, cookies, all of this delivered to the room and it was all free.
+And the nice part with the rooms, and I think most of the rooms have this, is that they have a wood burning fireplace and they give you these bundles of wood that are perfectly wrapped in this canvas cloth that you just light one end and the whole thing just goes up in flames.
+So you have essentially.
+Unlimited amounts of that wood.
+You can just ask for more if you run out really easy to light, which often isn't the case for wood burning fires, but really nice ambiance.
+So that's one of the pros for the room.
+And I'll get into some of the cons in a little bit.
+But real quick, back on the topic of food, because that really was the highlight of this whole stay was just having such great food.
+You'll get bored of the variety if you're there for more than like three or four days.
+But we were there for, I think, exactly three days.
+Our friends were there for four days.
+We pretty much.
+Exhausted the whole menu.
+But they recently added Smokehouse, which is a separate restaurant that's actually on the highway.
+So people on the highway sometimes actually just stop by and pay for the food.
+So everything at the Smokehouse, which they make barbecue primarily, is all covered, like everything, all the drinks, the chips, the beef jerky, the desserts, the barbecue, all covered.
+And the best part is they actually had really good brisket.
+The other barbecue meats were like, OK, but if you do end up going to the Ventana Big Sur.
+Man, that brisket is probably some of the best brisket I've had outside of Texas.
+So that was definitely a surprise.
+But this also, I think, perfectly segues into some of the cons of the Ventana Big Sur, which is that considering they're on an all-inclusive model, the pricing is really, really confusing.
+So using the Smokehouse as an example, everything at the Smokehouse, because it is on the highway, has prices listed.
+There's prices on the drinks.
+There's, you know, Topo Chico is for $7.
+And San Pellegrino is for $5.
+Bags of chips for $5.
+Your barbecue plate is listed on their menu as $30, etc.
+So everything has prices on it.
+And their staff aren't really like proactive in telling you that everything is free.
+And so when you see these prices, you're initially a little confused as to whether or not you're going to pay, especially given that also when you get the receipt, you give them your room number.
+That's great.
+But there's also like a tip line.
+There's also the price you paid.
+You don't really know what to put in there.
+Because while they do explicitly state that all food and drinks that are non-alcoholic, as well as gratuities are included, that's sort of not actually true.
+At their main restaurant, they have a drinks menu and they have non-alcoholic cocktails that have prices listed on them.
+And just looking on Flyertalk, it's sort of mixed as to whether or not you end up getting charged for those.
+And so one night I decided just to try it out.
+And lo and behold, I was charged despite many data points on Flyertalk saying that, you know,
+you can get one of these non-alcoholic spritzers for free.
+So that issue is further compounded at the smokehouse where everything has prices.
+And so you're not really sure if you're going to be charged or not, or if the gratuity you put on the line is going to be an additional gratuity.
+Because that's the additional confusing thing is that even during dinners, after every dinner, every meal, really breakfast, lunch, dinner, they'll give you a bill that says zero dollars on it with a receipt and a gratuity line.
+And so even though gratuity is all the time, you're not going to get a gratuity line.
+And so even though gratuity is all the time, you're not going to get a gratuity line.
+If you put anything on that gratuity line, it's considered an additional gratuity that you do then have to pay for.
+So I personally kind of hate that ambiguity.
+You don't get that at some of the other places.
+For example, Miraval, which is also all inclusive, they make it super clear that you're not supposed to even carry cash around with you.
+You don't pay for anything.
+No bills are given to you.
+However, at the Alia Ventana Big Sur, they're giving you a zero dollar bill each time.
+I kind of dislike this sort of guilt trip tendency.
+Tipping when in theory it shouldn't be necessary.
+I prefer it just to be cut and dry.
+Either you want me to tip and I'll tip for everything or I don't need to tip and I don't have to put the mental energy into trying to decide if now I should tip because at the smokehouse, everything has prices, but everything is already included.
+So do I then add a tip on top of that?
+And then does that tip get taken away?
+Like you don't really want to be processing this kind of stuff on vacation.
+And I think that is one of the biggest concerns.
+But by day two, day three, I had managed to shed.
+All of this, I guess, American guilt about tipping because I'm I'm originally British and in Europe, tipping is way less common than America.
+So this kind of like American guilt tipping thing has definitely been something I picked up just by being here.
+And I get it when servers aren't paid a fair wage.
+But in this case with Ventana, the the guilt trip seemed extra obvious.
+And so, yeah, if you can just kind of let that go, enjoy the food, just go in with the mentality of like, I'm either just going to give a
+lot of additional tips to everyone or I'm not going to give it to anyone, then you can kind of remove yourself from that additional like decision every time you get a bill handed to you that sometimes says zero dollars, sometimes says two hundred dollars.
+What do you do?
+So, yeah, a lot of it has to do with expectations and the other cons that I have for it are expectations related as well, because the thing is, if you go in with the mentality that you paid thirty thousand points, everything is amazing.
+Everything's a great deal.
+This place is great.
+If you look at it from the mentality of like they're charging.
+Eighteen hundred dollars to three, four thousand dollars a night for one room.
+And then you have the expectation that this is a five star Park Hyatt level resort.
+You're going to be sorely disappointed because everything from the service to the rooms, while they are nice and it was all free on points, they're definitely not five star Park Hyatt level in Asia quality.
+The staff often seem as confused about basic requests as you are.
+Like one day we went for a happy hour to get a charcuterie board.
+And they didn't really know what we were talking about, even though someone else working there told us about it.
+A smoke alarm that went off in our friend's room took about 30, 40 minutes to get turned off because they didn't have the right ladder to get on there.
+Then actually the night where we met the couple at the Japanese baths, the smoke detector went off around the area of the Japanese baths.
+And I used to have issues with smoke detectors going off.
+But the same guy that tried to fix the other one eventually came and wasn't able to find the smoke detector.
+That was going off and, you know, we were having a good time conversation wise, but the smoke detector was going off for the entire like hour that we were chatting with this couple.
+And it was only when we were starting to get dressed that they finally located the smoke detector and was able to turn it off.
+But if I was there to relax in the Japanese baths and I paid $4,000 for my room, I would not be happy with a smoke detector going off and then no one being able to figure out where that detector was located.
+The room too had some issues.
+So.
+So while it did have a fireplace, which is great, the AC unit they use, they put wood around it so it looks nice, but it's the same kind of unit that you see at like Hyatt places where it's a standalone unit and it's really, really loud.
+We both had to wear earplugs during the night in order to just not hear the AC running.
+So when you add all that together with the confusing pricing at times and no one really knowing what's going on, there's this general feeling of disarray at the resort, which again.
+You know, with the right expectations really isn't an issue because you're only paying 30,000 points.
+So for us, not a big deal.
+But if you read the complaints on Flyer Talk, the complaints people have are usually from people who go in there expecting five star service, which the Ventana Big Sur definitely does not provide.
+But if you're going there on points, this is arguably the best deal for awards right now in America, if not the world in terms of value.
+And so, yeah, no complaints.
+We had a we had a great time, but changes are in the works.
+I think I just read yesterday or the day before that Hyatt, who bought the Ventana Big Sur for, I think, like one hundred and forty eight million dollars.
+So each room they ended up paying like two point five million dollars per room, which set a new record.
+Hyatt just flipped it just now, sold it to another real estate investment trust and for one hundred and fifty million dollars.
+So they didn't really make money.
+I think they probably lost a bit of money on the deal due to transaction fees and stuff.
+But.
+Yeah.
+The theory on why they did that flip was that the group they sold it to has now a long term contract with Hyatt, whereas before maybe their Hyatt contract was at risk and they really wanted to keep this resort.
+That seems to be the most plausible theory, because another rumor is that Hyatt is planning on upping the points cost of this hotel from thirty thousand to Miraval costs, which is sixty five thousand points a night for two people.
+It would really actually make a lot of sense for Hyatt to rebrand this.
+As a miracle.
+So I can definitely see some truth to that rumor.
+And so the thirty thousand points thing is probably not going to last.
+It's already pretty hard to book awards days.
+So if you want to try and get something, the same tip I gave to the Japanese bath people is either just book far enough in advance and be flexible with your dates or look at their current cancellation policy.
+Right now, it's 14 days in advance.
+A lot of people cancel right on the dot at that 14 day mark.
+That's how our friends actually were able to join us in the end.
+But yeah, overall, a really good stay would recommend it if you're able to get the award booking and do it soon, because this is most likely going away in its current form in the near future.
+All right, guys, that's it for this recap episode.
+Sorry, I got kind of long.
+I sort of tacked on that Ventana recap at the end.
+If you like or don't like that kind of a discussion, let me know in the comments and I can either do more or less of these in the future.
+If you have any questions or tips or suggestions for future episodes, you can leave them in the comments.
+Thank you.
+You can always hit me up on Reddit at The Daily Churn or directly on my podcast website.
+There's a comment section for each episode as well as on the contact form.
+I usually check that pretty frequently.
+Otherwise, you can find links for everything I talked about on The Daily Churn podcast dot com.
+If you want to support the podcast, I also have my referral links on there.
+Really appreciate it when you guys use it and I'll make sure I give you a shout out when you do.
+But yeah, that's it, guys.
+Thanks for tuning into this episode.
+Catch you guys next time.
+See ya.

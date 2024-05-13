@@ -1,0 +1,247 @@
+Hey guys, welcome to episode six of The Daily Churn.
+Today we're going to go pretty in-depth into interactive brokers, specifically how the
+bonus compares with some of the other brokerages out there, and then just the logistics of
+how to get your account set up and some of the quirks and nuances to keep in mind as
+you meet those bonus requirements.
+Because I think of all the brokerage bonuses out there, this really is the best one available.
+And I don't think that gets highlighted enough.
+If you go over to DOC and you look at the best brokerage bonuses, there's a list of
+around, I think, 15 or so brokerages.
+And this isn't the first one on there.
+And you don't necessarily know which one of those to pick if you don't often do these.
+But this one is just so far above and beyond what any of the other brokerages are offering.
+It's just, I think it's a no-brainer.
+And quite likely you might already have an interactive brokerage account, which is unfortunate
+if you didn't sign up using the bonus.
+Which part of the reason I wanted to discuss this one today was, I think I mentioned it
+in the previous podcast, but my friend literally signed up for interactive brokers because
+they have really good margin rates.
+And I'm just Googling this right now for the margin rates.
+And it looks like theirs are 1.5% for $25,000 of borrow.
+And I don't trade on margins, which is why this is kind of new to me.
+I basically keep my stocks in index.
+But I think the main reason people discover interactive brokers is because of those low
+rates.
+And that's how they get people in the door.
+And it's funny because I remember reading a while ago, this Mr. Money mustache article.
+And if you don't know him, he's a guy that was one of the early bloggers talking about
+FIRE, financial independence, retire early and stuff.
+And he actually recommended interactive brokers because he just used the margin, the ability
+to borrow from them at a low rate to buy a house.
+So you don't even need to be trading stocks with it, I guess.
+I didn't realize you could just take margin and then withdraw it and spend it on other
+stuff.
+But yeah, apparently it was a better deal and less of a hassle than getting a real mortgage.
+So my friend signed up for the low margin rates and he didn't even sign up using the
+referral offer.
+So he lost out on $1,000.
+I lost out on potentially $200 for referring him.
+And I think that's just, it's, I mean, for a churner, that's a travesty.
+And I think.
+It just highlights that interactive brokers doesn't really get discussed a lot.
+It gets sort of lost in the fray of brokerages and bonuses.
+And so hopefully this will remedy that a little bit.
+So from a churning perspective, the bonus they're offering really is that good.
+I know I'm kind of hyping it up a lot, but it really is amazing compared to other brokerages.
+And I think sometimes when you browse through a list of bonuses, like on DOC, you get distracted
+by other ones.
+Where these brokerages are offering $5,000 with SoFi or $3,500 with E-Trade.
+But it's really the terms of how you get that bonus that differentiates interactive brokers.
+All the brokerages tier their payouts.
+With interactive brokers, you get $1,000 of interactive broker stock for $100,000 of money
+deposited.
+And I'll go into what they consider money deposited in a second.
+But the.
+$1,000 is also prorated.
+So if you only put in $50,000, you'll get $500 of stock.
+$10,000, you get $100 of stock.
+But for example, SoFi, for depositing $100,000 with SoFi, you'll get a $250 bonus.
+If you deposit less than $100,000, let's say you deposit $99,000, you only get $125 bonus.
+So it's between an eighth and a quarter of what interactive brokers is offering.
+Similarly, E-Trade is.
+Slightly better, but not by much.
+$100,000 will get you a $500 bonus.
+$99,000 will only get you a $200 bonus.
+A couple of those.
+I think the SoFi one is not even a referral thing.
+You just sign up and get the bonus, which means there's no potential for the other side of the equation to earn money.
+With E-Trade, the referrer gets, I think, a $50 Amazon gift card.
+And Charles Schwab is like that as well, where there's a $500 bonus for depositing $100,000.
+So again, half as good as $100,000.
+So again, half as good as $100,000.
+So again, half as good as $100,000.
+But you can only get that offer if you're being referred, and the person referring you doesn't get anything.
+So now you literally just have to have a friend, an actual friend, who has a Charles Schwab account and wants to send you a referral link.
+And the list goes on.
+I won't go through a comparison of every single one of these, but it really is, by a long shot, better than every other bonus.
+So then the next question is how to go about moving money into interactive brokers.
+And meeting that bonus, and what are some of those requirements?
+And I think brokerage bonuses generally aren't that popular.
+I think most of us do other types of bonuses.
+And maybe part of the reason is it's not super transparent how you go about getting money in there,
+how much of a hassle it is to move money that you may have sitting on another brokerage into another one.
+What are the fees associated with that?
+Is it going to be worth your time versus just getting a bank account bonus?
+You know the process.
+It's super easy.
+You sign up online and it's done.
+This does require a little bit more legwork, but I think from my perspective, it's definitely worth it.
+And hopefully some of these things that I'll go through will make that process a little bit easier.
+Okay, so the first step is getting money into interactive brokers.
+Now, they don't care if you just put cash in there or if you transfer stocks from somewhere else.
+The reason I wouldn't recommend just putting cash in there and leaving it as cash is that $1,000 on $100,000.
+It's still just 1%.
+You may be better off just opening HM Bradley checking account and getting a 3% that way.
+So this really only makes sense if you plan on either buying stock anyway with that money or if you already hold stocks elsewhere at another brokerage.
+So assuming you're looking to move stocks from another brokerage into interactive brokers, there's actually a standardized process for this, which is called an ACATS.
+I think it's automated customer account transfer service.
+So similar to like how you have ACHs for transferring money via direct deposit, you have ACATS for transferring stocks.
+Unfortunately, how ACATS transfers are initiated is not that standardized across different brokerages.
+Every brokerage has sort of their own way of doing it.
+But essentially, there's two main types of transfers.
+One is a full account transfer, where your accounts at the sending brokerage is completely closed.
+And everything is closed.
+Everything moves over to your new brokerage.
+And there is a partial transfer where you still keep the accounts at the original brokerage and some amount of your shares are moved over to the new brokerage.
+There's pros and cons to each way.
+Usually the full account closure costs more.
+The fees they charge is actually higher.
+Sometimes the partial account transfer, not only are the fees lower, but some brokerages actually don't charge a fee for the partial account transfer.
+That's not to say that partial transfers are always better.
+Because some brokerages, if you move your account entirely over to them, they'll reimburse you for the fee that you paid to the originating brokerage.
+I don't believe interactive brokers does that though.
+And so for interactive brokers, the partial transfer does generally tend to work out better because you are potentially paying a lower fee or no fee at the brokerage you're transferring from.
+In our case, our stocks that we transferred over were in my wife's old employer's...
+Stock plan that was on Morgan Stanley and Morgan Stanley doesn't charge a fee, at least for the employer stock plans for the partial transfer.
+So it was a free transaction.
+That said, Morgan Stanley was super antiquated in how to go about initiating this partial ACATS transfer.
+There was a PDF form that we had to download online and fill out the PDF form with a bunch of information about the interactive brokerage accounts and then send the PDF form back either via Facebook or Twitter.
+And then send the PDF form back either via Facebook or Twitter.
+And then send the PDF form back either via Facebook or Twitter.
+Luckily, when we called them, it turns out there was a third option that wasn't described anywhere on their site, which is if our transfer was under $100,000, we were able to just verbally tell them the info on the PDF form and they'd be able to do it over the phone.
+So of course, we transferred like $98,000 to try and keep it under.
+And so I think the majority of the time and the effort that you might spend on this is potentially just figuring...
+And so I think the majority of the time and the effort that you might spend on this is potentially just figuring out with your other brokerage how that ACATS transfer works.
+Because we'll cover everything with interactive brokers so that there'll be no questions left in terms of how to go about setting it up on the interactive broker side.
+But since every brokerage is different, some are going to be a lot easier.
+Some are going to make you potentially do a PDF form and mail it in via fax.
+But once you get past that hurdle, the rest is pretty smooth sailing with interactive brokers meeting the requirements for the bonus.
+It's actually super easy.
+So as soon as the money or stocks you transfer over deposits into your account, within a couple of days, you will see the award of IBKR shares.
+And those shares, you cannot sell or really do anything with them for one year after the date that they are awarded into your account.
+If you try and withdraw money or stocks during that one year timeframe, they'll just reduce how many shares was awarded to you.
+So if you'd move stocks over, you can sell those stocks, but you can't then withdraw that money out of your account.
+And then another common question I've had from friends is, what happens if I transferred stocks over and the stocks go down in value?
+Do I then lose IBKR shares?
+No, it's based entirely on what they were worth at the time they entered interactive brokers.
+So even if your $100,000 was completely wiped out, you still have $100,000 of deposit.
+And you'll still be eligible for that whole $1,000 of IBKR stock.
+And then with the referral program, which gives you $200 if you refer somebody, the additional requirement is that the person you refer has to maintain a $10,000 balance in their account for at least one year.
+So to recap that process, the way we did it was my wife joined using a referral from one of our friends, and she did a partial transfer from Morgan Stanley into IBKR.
+Interactive brokers awarded her the $1,000 shares within a couple of days.
+And then she referred me, and I joined using her referral link, which will in a year give her $200.
+And then on my end, did a partial transfer from her Morgan Stanley into my interactive brokers.
+And I also received $1,000 bonus within a couple of days as well.
+And yeah, it was all very smooth.
+Aside from a few tickets I had to log to confirm a few things.
+But that's what we'll get.
+And hopefully you don't need to log those tickets.
+On the interactive broker side of things, there's really three main pieces of information you need in order to perform that ACATS transaction.
+I wish they would have made this info a little clearer on their website.
+But the first thing to note is that the account number that you need for your interactive brokers account when you tell your other institution that that's where you're sending money to is the number that starts with a U, the letter U on your interactive brokers dashboard.
+And I don't think they.
+Super clearly call out that that is an account number, but that is your account number.
+And I was just a bit thrown off because I've never seen account numbers with letters in them coming from like a banking side of things doing bank bonuses.
+Everything was always numerical versus being alphanumerical.
+The second piece of information that might trip you up is to do an ACATS transfer.
+You need a DTC number and the DTC number is essentially like a routing number.
+You see with banks, but is that for brokerages and interactive brokers for whatever reason in their FAQs or anywhere on their site, they don't call this a DTC number.
+They call this a clearing participant number, which is confusing because everywhere else and every other brokerage calls it a DTC number.
+But in any case, it's 0 5 3 4.
+You can actually see that number in the FAQ and they'll reference it as the clearing participant number.
+And in case you are worried, I did confirm.
+That that is the DTC number by submitting another interactive brokers support ticket for that.
+And they did reply back and say that was correct.
+The third thing to keep in mind is that interactive brokers wants you to notify them that a incoming transfer is happening.
+So instead of just submitting your ACATS transfer and then the money showing up inside interactive brokers, you actually want to go into interactive brokers and initiate a transfer there.
+And there's a little online form.
+You fill out where those stocks are coming from and how many stocks are coming over.
+And so that shell of a transfer gets created on my wife's account.
+We accidentally ended up creating the shell because we were hoping there was some way to just initiate the transfer entirely from interactive brokers without even having to contact Morgan Stanley.
+Similar to how you can just pull money from a bank account from another bank without having to tell the other bank that that was happening.
+That's not the case with stocks.
+Apparently, but the side effect of trying to do that was we inadvertently created the shell of a transfer and that was great.
+That worked out well, the money came over and everything went smoothly with my account.
+I didn't create this shell and the money still came over smoothly.
+But what ended up happening a couple of days later after the deposit had arrived at interactive brokers was I got an email from IB saying that, hey, we saw this transfer come in.
+You didn't notify us about it.
+Please confirm.
+That you really were the one who initiated this.
+And if we don't hear back from you, we may end up reversing the transaction, which wouldn't have been good.
+And so I just replied back being like, hey, that was me.
+And they replied back again saying that that's okay.
+You know, it's fine.
+You're we've confirmed the money's yours, but next time initiate the transfer on our end first so that we know to expect the money.
+So that's kind of a weird thing, I guess, but that's something they want to see.
+And so you can avoid some of that email back and forth and any risk by just initiating that transfer, starting with interactive brokers and then completing the rest of the steps with your other brokerage.
+So those are the main things.
+There were a couple other little quirks, too, that I'll just briefly touch on.
+One is that I wanted to make sure that the referral offer was attached.
+And so I sent a message on the support ticket and just said, hey, can you confirm my referral offer bonus?
+For a thousand dollars of interactive brokers shares is properly associated with my account.
+And they replied back within, I think, 12 hours and confirmed that was the case.
+And I did that on both my wife and my accounts.
+And the reason I did that was because I'd actually called into interactive brokers early on because I wanted to confirm that this partial ACATS transfer was eligible.
+The reason for that was because on DOC, there's a couple of comments where somebody had submitted a support ticket.
+And they were asking if a partial transfer of stocks would qualify for the referral bonus.
+And they had received a confirmation back saying, no, it didn't qualify, despite other people having received the bonus for that kind of a transfer.
+But I wanted to be super sure instead of kind of gambling on such a big transfer.
+And so I confirmed with a phone agent that partial transfers really would work.
+And then he also recommended, hey, just also submit a support ticket when you're ready to do this.
+And just confirm your referral offer is properly attached.
+There shouldn't be any issues, but it doesn't hurt to just submit a ticket and have it in writing.
+I think you're probably safe to skip that step.
+Everything on my end went through very smoothly.
+And even the referral link will show you a page where it shows the name of the person who referred you.
+And it seems like it tracks pretty much without fail.
+Like this isn't a swag box brokerage, you know, this is interactive brokers.
+But if you want the peace of mind, it doesn't hurt.
+It's so easy to submit.
+And the responses are so prompt.
+The other weird little thing that slowed down my application a bit was all these brokerages will ask what your occupation is and what your source of income is.
+And I listed myself as retired and I haven't had an issue listing that at other brokerages.
+But with IB, I got an email back pending review of my application where I guess the agent reviewing was just like super confused why I said I was retired and I wasn't, you know, 55.
+And he asked things like, where do you plan on getting your income and money from and stuff like that.
+And just for context, my wife and I have been pretty obsessed with the whole fire thing for the last few years.
+And we finally sort of made it happen at the beginning of this year.
+We're still working full time, which I guess means that we are not officially like real fire, but we at least quit our real jobs.
+And now we're both doing things, working on things that we both love.
+We both enjoy, which coincidentally is how I have time to do this podcast.
+But yeah, I won't get too deep into it.
+I could blabber on about fire for ages as well.
+But if anyone wants to hear about that, let me know and I can do an episode on that as well.
+But essentially, this didn't really compute with the agent reviewing my application.
+So in the end, he sort of just kind of subtly suggested that I say that I'm actually just a trader, like a day trader.
+And so I just replied back being like, hey, I'm a day trader.
+Yep.
+And my application went through fine.
+So just something to keep in mind if you have a weird nonstandard job or occupation or situation that you may just want to make it easy on yourself.
+And just say you're a day trader in their little dropdown that, you know, you get to pick from.
+But yeah, aside from some of those little quirks, which now hopefully you won't run into, everything went really smoothly and everything posted extremely quickly.
+I think even outside of brokerage bonuses, this is one of the quickest.
+Bonus postings I've ever had.
+And so definitely something worth considering.
+It's something I recommend to my friends when they ask what brokerage to open.
+And if you have stocks just sitting at another brokerage account and you don't really care where they sit, then no reason not to have them sit at interactive brokers and just get that extra thousand dollars of IB stock.
+And who knows, that might be worth more in the future.
+I mean, if you're holding stocks, you probably to some extent believe in the stock market.
+And so I think.
+That thousand dollars of IBK are in the long term could be worth more than that thousand dollars.
+But at minimum, it's a extra one percent return on the market.
+All right, guys, that's it for this episode on interactive brokers.
+I know that brokerage bonuses usually aren't the most popular kind of churn or at least not top of mind for most people.
+But I think maybe like a lot of that has to do with just the perceived difficulty and hassle of doing these kinds of transfers for what often is.
+It's sort of a subpar bonus, but I think in the case of IB, it's the bonus is definitely worth it, especially if you're in P1, P2 mode and you can sort of refer each other.
+And hopefully maybe this episode helped increase your comfort level a little bit around these kinds of transfers and brokerages.
+But yeah, thanks for listening, guys.
+I will catch you guys next week.

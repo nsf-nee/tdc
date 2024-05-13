@@ -1,0 +1,146 @@
+Hey guys, welcome to episode 15 of The Daily Churn. Today we're going to do something a little
+bit different. There's been a few requests over the last couple months for a guide to how I go
+about tracking and organizing all these offers that I tackle. So I'm going to walk you guys
+through my tracking spreadsheet for credit cards as well as share it with you guys. Especially if
+you're new to churning, this can be a pretty nice starting template for you to use and if you're
+more experienced and you've been churning for a while, I'm sure you have your own tracking system
+but maybe this can help improve that or tame the beast that is a spreadsheet that tends to grow
+over a decade. And so we'll start with just the credit card spreadsheet that I've been using for
+the last 10 years that I've sort of refined and changed and it's been working pretty well and
+in the future if there's interest I could share the bank one or the lean fire one. Those are
+definitely more unwieldy.
+I've been doing them for less time and the newbie mistake I think with a lot of these spreadsheets
+is to go overboard with the ton of columns that you're trying to put in a lot of data in and the
+more things you require of yourself to fill out, the less likely you're going to fill it out. And
+so those are a work in progress that I'm going to cull but I'm pretty happy with the credit card
+one. So we'll start with that and out of the things you can track, I would say credit cards
+are probably the most important one. If you're going to track anything, it should definitely
+be your credit cards because you got to monitor when you open the card so that you know when you
+need to meet your spend bonus by and then when you need a cancel or downgrade the card by. And
+mistakes here are particularly costly. I'm sure we've all experienced missing a bonus or missing
+a credit card payment, which is really the worst thing you can do. So with good management while
+churning a lot of cards, you can keep all of that in check and still maintain a great credit score.
+For example, my wife and I are now in the
+700s and that's purely as a result of churning. Prior to doing all of this credit card stuff,
+I used to be in the six, maybe low 700s. So it's been really good for us, but it can only happen
+if you have a good system to sort of manage all of this. If you want to follow along, you can find
+the Google Sheet that I've been using on the dailychurnpodcast.com. You can just open that
+and make a copy for yourself. I left a couple years worth of data in that sheet to kind of
+give you a sense of
+the
+how to use it. So hopefully that's helpful too. And no worries if you're driving or not at a
+computer, I'll be going through everything on kind of a high level and you can always circle back to
+the spreadsheet later. Before I dive in, I just want to preface this by saying that the spreadsheets
+aren't like a mind-blowing work of Google Sheet art. They're very basic and anyone can go and
+make them. So you can definitely just go make your own. These just happen to be the columns
+and the things that I've been putting in over the years that have,
+worked well for me and have kept me going back to use this spreadsheet because that is the single
+most important thing with these spreadsheets is that you go back and check them consistently
+a couple of times a month. I do it on the first of the month and the 15th of the month.
+So it needs to be fast and it needs to be simple to the point where you can fill it out very quickly
+and it doesn't feel like a chore. So this one served me well over the last decade and yeah,
+let's dive in. So three fairly unexciting but useful columns on the Google Sheet.
+On the left that I would recommend definitely having in your spreadsheet is just who the card
+was open for, the type of card, business or personal, and what bank it was, Chase, Amex,
+Citi, etc. That way you can really quickly filter and scan through your list if you ever need to
+find or count the number of cards you have. Then the rest of the columns, I would say they're all
+pretty important. There's really no fluff in the spreadsheet, but the two columns that I check the
+most are the status columns.
+And the due date columns. Now the statuses that I use are again pretty simple. It's cancel,
+downgrade, or keep. And the due date tells you when you need to cancel or downgrade the card by.
+I always set the cancel or downgrade date to the first or 15th of the month so that I only need to
+check the spreadsheet twice a month. But you can really use any date as long as it's within that
+30-day window after your annual fee hits. So that if you need to cancel or downgrade,
+you don't need to cancel the card before the annual fee hits. Sometimes I do have to bump this
+date back once the date rolls around because the annual fee, depending on the card issuer,
+doesn't always get issued on exactly a year from when you open the card. Sometimes they wait a few
+weeks, they wait till the next cycle, or they wait till the beginning of the next month. So just keep
+an eye out for that as you're using the sheet. Most importantly though, you probably want to
+make sure that you don't cancel the card before the annual fee hits because depending again on
+the card issuer, sometimes that makes you a little bit more likely to cancel the card. So if you're
+liable to have the bonus clawed back because they want you to have the card open for a full year.
+But as long as you're checking back on the 1st and the 15th or just at least I'd say twice a month
+to look at your spreadsheet, then you should be good to go. And I use Google Keep to set a
+automated reminder on the 1st and 15th of the month for me to go and look at the spreadsheet.
+You can use Apple Reminders or anything else really, but one issue with Apple Reminders is
+it's only on Apple. And I've definitely been using Apple Reminders for a long time. So if you're
+over the last 10 years had a change of phones where I moved from Apple to a Pixel and that
+really messed up my reminder game and I almost missed a few things on my tracking sheets. So
+Google Keep you can use across both Android and iPhones. So something to keep in mind.
+But yeah, that due date is the column that I check and it can either mean cancel or downgrade
+depending on what's in the status column. And I generally tend to downgrade my cards to
+no fee. So I'm going to go ahead and do that. So I'm going to go ahead and do that. So I'm going to
+if it's a personal card, because that helps keep your average age of accounts high on your credit
+report, which is something that helps boost your credit score. So if there's no need to cancel it,
+like you're not going to pay an annual fee, if there's a way you can downgrade it to one of these
+no fee cards, that's definitely the preferred approach. But when downgrading is not an option
+and it's not a card that I want to keep and pay the annual fee for, then I will just cancel it.
+And for business cards, you can cancel those anytime because those,
+don't go on your personal credit report anyway. So they're not really boosting your credit score.
+So you would only keep those if they're free and you're seeing some benefit out of them.
+So for example, on my spreadsheet, you'll see that I've got a couple
+Chase Inc. caches open and those are no annual fees. They're business cards. I was thinking
+about canceling them, but I figured I'd just keep them because you do get 5% at office supply stores,
+which sometimes comes in handy for doing gift cards. Moving on to some of the other columns,
+there's a open date column, which is pretty self-explanatory. It's useful for calculating
+when the due date needs to be and for calculating when you need to meet the spend by. Plus, if you
+ever need to quickly figure out if you're under Chase's 524 rule or when you will be under 524,
+that column is great for that kind of filtering. And just a side note, if you ever want to verify
+your 524 status, I use Credit Karma, which is totally free. And it will show you, I think your
+Equifax and TransUnion.
+And you can just go in and count the open dates. Kind of tedious, but at least that way you'll know
+for sure what Chase and other banks are looking at. Then there's a couple of newer columns that
+I added over the last few years due to some mistakes that I'd made, which is the auto pay
+column and the bonus column. You can probably guess what mistake led to the auto pay column,
+which is that when you're opening like 10, 20 new cards in a year and you forget to set
+up auto pay, I distinctly remember a conversation with my wife where she was like, I got a late
+payment reminder from like Bank of America. Did you not set up auto pay for this? And of course,
+I hadn't. Luckily, all credit cards give you this 30-day grace period between when they send that
+late payment notice email to you and when they actually report that late payment to the credit
+bureau. So thankfully, it didn't hurt her credit score, but that would have been devastating if it
+did. So super...
+Super important that you check your auto pays. And this column kind of just forces you to make
+sure that you have auto pay set up. Similar kind of reasoning for the bonus column, which is when
+you're churning a lot of credit cards, you sort of start to lose track of what's posted and what's
+pending and what spend on what card you've still got to meet. So this just kind of keeps you
+accountable. And every time you look at the sheet, you know what's out there, what isn't,
+and whether you need a follow up. Finally, there's a column called notes,
+put in everything that doesn't fit into the other columns. So sometimes I'll put in the
+amount I need to spend or a due date or retention offer that I was given. Just really anything that
+doesn't fit well in any other spot. You could totally separate some of those things into their
+own column. But for me, having it just be this flexible column works better because that way
+you're not obligated to be filling out a whole bunch of columns every time you check the spreadsheet
+and you add a new card. Because again, I would just caution against making too many columns. I've
+definitely gone that route before and I've tried it both ways. And the more columns you have,
+the more mental load it is and the less likely you are to fill it out. So having a sort of
+flexible column, in my opinion, is better than having five super specific columns. But you know,
+everyone's different and the spreadsheets out there, you can customize it to your heart's
+content. And yeah, hopefully it's something that works well for you guys.
+And helps keep you organized. So if you guys find this sheet useful, definitely happy to share my
+Google sheet that I use for bank bonuses and other miscellaneous offers like swag books and
+brokerages, etc. It just requires me to go in and clean it up a bit because I've noticed since I
+started that sheet, which was about a year ago, I'm not checking it nearly as much as the credit
+card one, even though I have due dates going off in there. So I think the reason why is because
+that sheet has...
+So many columns. I try to incorporate all the things about a bank bonus. When the bonus was
+deposited, how much I funded it, what the account closure fee might be. Is there an early termination
+fee? Did they send out a 1099 misc? Way too much stuff in hindsight. So I will be cleaning that up
+for myself. And if there's interest, I can do another episode and share it with you guys here
+as well. Same with my lean fire spreadsheet. That one I'm honestly scared to open most of the days
+it's so heavy because it is very calculation heavy with lean fire. You're trying to figure out
+how much do you have left in these buckets versus those buckets, how much inflation is,
+and you adjust it based on the market growth and rate of return and all this stuff.
+And it like slows my computer down sometimes, but it has all the numbers that we use that
+we're currently following to do lean fire. So it's useful in that sense. I don't even think
+necessarily my wife knows how to read that spreadsheet. Like I may be the only person
+who understands it.
+But again, if there's interest, I'm happy to share it and probably a good exercise for me anyway
+to clean that thing up. Otherwise I will end it here. A bit of a shorter episode this week.
+I will be at the Miraval over Thanksgiving on their buy one, get one free award night offer
+that Hyatt was running. It's actually one of our favorite Hyatt hotels. So the next episode I think
+will be a recap and yeah, maybe I'll squeeze in a little review of the Miraval as well. You can find,
+this spreadsheet that we talked about today on the daily churn podcast.com. You can also
+subscribe to the newsletter so that this will get delivered to your inbox every couple of weeks.
+There's no spam and it's totally free to join. And you'll be the first to know when an episode
+drops. Thanks for tuning in guys. Hope you all have a good Thanksgiving break and I will catch
+you all in a couple of weeks. See ya.

@@ -1,0 +1,721 @@
+If you have a specific dollar in mind to reach before you retire, these target date funds
+potentially delay your retirement by years because of their gentle equity slope.
+Hey everyone, welcome to episode 62 of The Daily Churn. Today's episode is a special one. It's
+going to be the final episode in the Big Churn series that I've been doing. So if you remember,
+there's been two more before this, one on the Roth IRA conversions and one on ACA health subsidies.
+So you don't need to have listened to both of those before listening to this. This is going
+to be a totally different episode. I'm going to be talking about the Roth IRA conversions and
+different topic, but would definitely recommend checking those out when you have time because like
+this episode, they're the kind of episode that have a very high financial impact for a pretty
+minimal amount of effort. And so today's one is going to be focused on the glide path investment
+strategy. If that sounds totally foreign to you, or if it sounds kind of intimidating, it's actually
+very simple. And we're going to cover the whole thing today. But the reason I wanted to kind of
+cover it is because investments have sort of been on my mind recently with the Robinhood transfer
+bonus where they're matching 3% on any retirement fund transfers. And based on the discord and the
+comments and just generally, you know, the amount of hype it's getting online, even on boggleheads.com,
+I think a lot of people are doing this bonus. And I think as a result of doing this bonus,
+a lot of people are taking a look at their retirement,
+portfolio, something that a lot of us kind of just ignore and let sit there, you know, a lot of it
+gets auto invested by your employer. And it makes sense why a lot of people don't want to think
+about it. I mean, it's kind of intimidating, you're not sure what to do with your retirement
+funds, it can be a lot of money. So you don't want to make a mistake as to where you invest it.
+You're not sure how to allocate between stocks and bonds. And so oftentimes, it's easier just to go
+to a fund that your employer recommends, which is just auto investing into a target retirement date
+fund or an index fund. I mean, some of us are a little more hands on where you maybe have an
+allocation ratio in mind, like, hey, I want to keep 60% stocks and 40% bonds, and then you rebalance
+that to keep it within those targets. But I think that's more rare than just having things auto
+invest. And if that's you, you know, don't feel bad. I think that's most people. And any of those
+options really are a lot easier.
+So yeah, I think that's a lot easier. And I think that's a lot easier. And I think that's a lot easier.
+are still better than not saving or not investing at all for your retirement. You know, you could be
+keeping your retirement savings in a checking account, which I recently found out is what my mom
+has been doing with some of her retirement funds, like six figures worth of cash. She has been
+keeping in a Bank of America checking account for decades, because she didn't trust the stock market.
+So yeah, that was interesting.
+conversation. So you can see why like a few episodes ago, I got really excited when I finally
+got my dad to open like a credit card for points, because they both grew up in an era and a country
+where you couldn't really trust the financial system. So, you know, there's all kinds of people
+out there in terms of like, how comfortable they are investing and what they want to do with their
+retirement funds. But the general trend is that most people just don't want to have to think about
+it. And they don't want to have to think about it. And they don't want to have to think about it.
+They take the easiest route, which is just let your retirement plan do it for you. It's less work,
+there's less chance of doing something wrong. And again, it's a lot of money at stake. So you don't
+want to feel like, hey, am I making a mistake? So what that ends up meaning, though, is that
+most people end up with a suboptimal retirement portfolio, they end up with portfolios that
+basically mean it will take you longer to reach your retirement goal.
+Portfolios that give you less money during retirement, and portfolios that leave you with
+less money to pass on to your kids. That's what we're talking about today. And usually,
+I tend to caution against over optimizing things because optimization takes time, you know, go out
+there, live your life, you don't need to optimize everything. But if there's one thing to spend a
+little bit of time optimizing, it's this kind of stuff. It's the stuff in the Big Churn series,
+because small tweaks,
+fewer retirement portfolio is going to yield bigger results than probably all of your churning
+combined. So small amount of effort, big results. So today, I'm going to dive pretty deep into the
+glide path investment strategy, because it's a very simple technique that anyone can do to optimize
+for retirement. And you don't need to be an experienced or an active stock trader. Like the
+point of this strategy is the opposite. It's like, what is the,
+least amount of trading that I can do for the most benefit? And you know, if you remember from the
+optimizers curse article I wrote around the holidays, the Pareto principle,
+where like you put in 20% of the work for 80% of the results. This is the thing, you know,
+this is how can I put 20% of the investment effort in that will yield a retirement strategy
+that gives me 80% of the optimization. And that at its core is why I was
+so excited when I stumbled across the glide path strategy. You know, it's so simple. It's so easy.
+And if you've bought or sold stock before, you can do this. There's no like options or calls or puts
+or any of that. If you can tackle a brokerage bonus, you can do this. Like the target retirement
+date fund investments that your retirement plan makes for you. Those are attractive to people
+because they're so easy. You don't have to think about them. This is really not that much harder
+than that.
+All it takes is logging into your brokerage website once a month, or even just once a year
+and making a couple of trades like that is it. So we're going to cover why these target retirement
+date funds are costing you money unless you're a very specific kind of retiree. Unless you're
+that specific kind of retiree, these target retirement date funds are delaying your
+retirement and costing you money during retirement. And more importantly, they're making it riskier
+that you could go back and forth.
+So we'll also go through why fixed stock allocations are also inferior to using a glide
+path. Fixed stock being like, hey, I'm going to keep it at 60% stocks, 40% bonds, and just keep
+it there the whole time. We will not be going into why hoarding your cash in a checking account
+is a bad idea. If that's you, it's probably because of some financial trauma you experienced
+when you were young.
+Like my mom, which at that point, a therapist, I think, is better equipped to tackle that
+than this podcast. But outside of that scenario, this is pretty applicable to everyone, whether
+you're saving for retirement or you're already retired, or if you're planning to retire early,
+you're trying to do the FIRE thing, the financial independence retire early thing that my wife
+and I are doing, or you just plan to retire normally at 65. It's particularly relevant
+if you're about to retire soon, or you don't want to retire early. So if you're planning
+to retire early, you're probably going to want to start with a FIRE plan. So if you're
+planning to retire early, you're probably going to want to start with a FIRE plan. So
+we'll cover all of those scenarios, as well as how to actually implement this glide path,
+like logistically, what do you need to do? And then I'll also run through how we've implemented
+it. And I think share a spreadsheet too, to kind of get you started. So yeah, going to be a pretty
+packed episode today. But I do want to just say this one thing, which is that I'm not a financial
+advisor. So definitely please do decide for yourself if this is right for you. Because at
+the end of the day, if you're going to retire early, you're probably going to want to start with a
+different retirement goals. I hope that by the end of this episode, you have the tools and the
+knowledge to then go forward and do more research. And yeah, you know, kind of just take a bit more
+control of your retirement. Before we get into it, just a reminder that we have a free newsletter
+that you can join. If you want to get notified when one of these episodes comes out and have
+the show notes sent straight to your inbox. There's also a private discord community.
+One of the questions that's come up recently,
+about the discord community, someone left a comment saying, Hey, is it active? Like how
+active is it really? All I'm going to say is that people have left the discord because there was too
+much info. It was too much stuff happening in there. And that is not marketing. That's literally
+the reason they entered when they unsubscribe from the discord. So to alleviate that I actually
+compile monthly discord recaps that summarize what's been happening over the last couple of years.
+And that's a great place to start. If you're new to this podcast or you're new to churning or you're
+new to discord. So definitely check that out. If you haven't yet, you can find all of this
+at the daily churn podcast.com, but otherwise let's get back into glide paths.
+I thought I'd start with just the basics, like what even is a glide path? And so a glide path
+is just a way of thinking about what's going on in your life. And it's a way of thinking about what's
+going on in your life. And it's a way of describing your equity allocation as you age, or put more
+simply how much stocks and bonds you hold as you age, like what percentage in stocks and what
+percentage in bonds. So why is it called a glide path? What if you visualize that ratio, the
+allocation on a graph, it's a line, you know, age is the horizontal axes. And then the equity,
+your equity allocation, like how much stocks you hold,
+is the vertical, the Y axes. And if you have just like a flat horizontal line, all that means would
+be you hold the same percentage of equities your whole life. You know, if that line was right in
+the middle of the graph and it goes the whole way through, that means you're holding 50% equities
+from, you know, age 20 all the way till you die. However, if you have a glide path,
+what that means is that it continuously slopes or glides down, or it continuously,
+slopes or glides up. So if it's gliding down, it means that the older you get, the less equity you
+hold and the more bonds you're holding. If it's gliding upwards, that means the older you get,
+the more equities you're holding and the less bonds you're holding. And it doesn't have to be
+a straight line. It could be like a V shape, you know, where you have more equities when you're
+younger, and it's coming down to less equities until you like hit the middle where you're
+retiring. And then it slopes back up after you retire. So you start accumulating more equities
+after you retire. So there's a lot of different ways you can structure a glide path. And I'll put
+a graph on the website in the show notes if you're having trouble visualizing it just from me
+speaking it. But the basic idea is just simply how much stocks do you own as you age? Now,
+the idea of a glide path is not a new concept. It's been around. The more traditional approach
+is implemented.
+the inside every retirement plan in the form of Target Date retirement
+funds, so Vanguard, fidelity, Morgan Stanley, everyone offers these target date funds, so TDFs
+for short, and all a TDF is is a glide path. It's a really simple declining equity glide path. The
+goal is it just adjusts your allocation of stocks and bonds based on your age and it does it for
+you. So you don't have to go in there and do it.
+Yeah,
+it done.
+most common kinds usually start you around 90%. Like Vanguard, for example, they'll start you at
+90% equity. So you'd hold 90% equities, 10% bonds when you're young, let's say when you're 25.
+And that ratio will decline as you age up until age 65, which is what they assume to be your
+retirement age. And at 65, you'll be holding 50% equities, 50% bonds. And then it keeps declining
+more. So after retirement, it declines to about 30% equities when you're 72, and it keeps you at
+30% until you die. So that's the Vanguard standard equity allocation ratio that they've implemented
+in their TDFs. And pretty much every other brokerage company follows that same kind of a
+slope. Why do they do that? Why do they have a declining glide path? Well, the general theory
+is that when you're young, you can handle
+more than you need to. And that's why they have a declining glide path.
+More stocks. You're less risk adverse when you're 25 than when you're 65. When you're 25,
+you can better recover from setbacks. So they allocate you with more stocks versus when you're
+old, you're less able to recover because you want to retire at 65. So we increase the stable assets
+like bonds so that there's less volatility as you get old. So I mean, as you can tell,
+this is designed for a very traditional
+kind of retirement, a traditional age 65 retirement, someone who has started putting
+money into their retirement account, ideally at age 20, so that you have 45 years of contributions,
+and their models assume that you're comfortable with full capital depletion in 30 years,
+as in after 30 years of retiring, so you're age 95, you'll run out of money, which is okay,
+because you'll be dead by 95. That's why they have that built.
+So of course, you may have already sensed what some of the issues with these target
+retirement date funds may be like, what if you didn't start contributing until later in life?
+What if 65 is only 10 years away for you? What if you want to retire early? What if you want to
+retire 5, 10, 20, 30 years earlier than 65? Or what if you want to have money to leave your kids
+like you don't want full capital depletion by age 95?
+What if you plan to live past 100? The target date fund is not going to work for you. And in
+fact, is suboptimal on all of those fronts, and even for traditional retirees. And so I'm going
+to break this episode up into two parts. So the first part is going to be post-retirement glide
+paths, how to optimally allocate your portfolio after retirement, because it's useful to understand
+that even if you're years or decades away.
+from retirement, even if you don't plan on retiring early, or even if you're already
+retired, it's going to be really helpful to have that foundation of knowledge, which then you can
+apply to other glide paths like the pre-retirement glide path. And so we'll also dive into how to
+optimally allocate your portfolio pre-retirement so that you can either retire sooner or retire
+with more. So two parts to it, but let's start first with the post-retirement glide path.
+With post-retirement glide paths, it's kind of just a different way of thinking about retirement
+based on newer models that have been developed since the target date funds were created back
+in the 90s. So newer analysis, newer research. And a lot of what I'm basing today's topic on
+is the analysis done by Big Earn over at Early Retirement.
+Now, he's a pretty big name in the fire, the early retirement community, but it's applicable
+even for regular non-fire retirees. Like this analysis applies to anyone really who plans to
+retire at some point, which hopefully is most of you listening. But the background real quick on
+Big Earn is that he's one of the most financially conservative voices in the fire community. And I
+mentioned that because I want to be clear that this isn't some like,
+YOLO, high-risk crypto strategy that we're discussing. It's literally the opposite.
+Like Big Earn believes the 4% safe withdrawal rate, which is the amount of money you can
+withdraw each year during retirement without going bankrupt. He believes that 4% rate that
+many fire bloggers and influencers talk about, that CNBC and mainstream news also refer to the
+4%. He believes that rate is too high. He crunched the numbers and he figured out that it's
+too high if you want to make sure you don't actually go bankrupt. So his background is that
+he is a PhD economist. He's worked at the Fed, the Federal Reserve. He's taught at universities.
+He's worked in asset management. He's currently fired. His data crunching and Excel MATLAB skills
+are pretty next level, which is why we're using his analysis today. Like if you think you're a
+good like spreadsheet or you're good at charts or statistical analysis,
+you probably haven't met a PhD economist. I mean, we're like all, we're all ants compared to those
+data whales, you know? And so I will be linking to all of his glide path articles in the show notes
+because they are so in-depth and so good. If you want to read through them, which I recommend you
+do, brew yourself a big pot of coffee and put on some relaxing piano playlist on Spotify because
+these are basically white papers, you know, research papers, and they are very in-depth.
+But hopefully after today, you should have a bit of a head start in being able to digest
+and really process a lot of that information. And going back to the financial modeling side of it,
+he pulls in data dating back from 1871, monthly financial data going back 150 years. And he
+calculates using that data, what a 60 year retirement would have looked like for every
+cohort, every monthly cohort.
+Over the last 150 years. What that means is he's basically crunched and simulated
+what would have happened if you were someone who retired in January of 1871.
+What happens if you retired in February of 1871, March of 1871 for 60 years. And he does that for
+every single monthly group from 1871 until I think 2017 was when these articles came out. So like
+150 years, it's over 1700 cohorts.
+1500 groups of retirees. And using that data, he's calculated the effect of different stock
+and bond allocations ranging from 0% to 100%. And more importantly, what we care about is he's
+calculated the effect of 24 different glide path variations. So 24 different glide path slopes
+that could represent how you would adjust your stock and bond allocations as you age.
+The sheer scope,
+of what he has modeled is pretty mind boggling to me. And honestly, I'm just very grateful that
+someone with the knowledge and the tools to be able to do that, has done that and then also
+shared it. And my goal today is to sort of just summarize and interpret that data a little bit
+and make it more applicable for the folks listening to this show. Because a lot of his
+analysis is framed in the context of a safe withdrawal rate, which is very important for
+people who are trying to fire, you know, retire early, because you want to know what is the fixed
+percentage of my portfolio that I can take out each year without going bankrupt? Like,
+am I able to withdraw $40,000 every year adjusted for inflation for the next 60 years? Like that's
+a very fiery kind of way of looking at retirement. So we're going to frame it a little differently.
+That's maybe more universally applicable to everyone, which is that, like, what is the
+allocation strategy?
+Best allocation strategy that will offer the highest portfolio performance over 60 years? Like
+what will leave you with the most money when you die? And probably even more important is what has
+the least chance of going bankrupt, given that you need to withdraw from that portfolio every year
+during your retirement for such a long timeframe. And, you know, even if you don't plan on being
+retired for 60 years, if it works for a 60 year retirement, it will work for,
+shorter retirement to like 60 is the higher bar, the gold standard here. So that's kind of the
+backdrop for how these new glide paths came about. And the quick and dirty TLDR is that
+these are a better approach than the glide paths that you'd find in the traditional target date
+funds. Because in the target date funds, the glide paths for post retirement, they slope
+downwards. So you hold less and less equities,
+as you get older. The better approach based on this newer analysis is kind of counterintuitive.
+It's to do the opposite of that to glide upwards. So you retire with roughly like a 60% equity
+allocation, but as you age, it glides up all the way to 100% equities in your later years. That's
+almost exactly the opposite of what the target date fund has you do.
+Why is that?
+Why are we doing the opposite? The lower equity allocation, when you start at 60% equities,
+you have that because you want the insurance basically against sequence of returns risk.
+If you've never heard of that term before, that's okay too. It's kind of a fire community
+type term. But what sequence of returns risk is, is that the number one reason retirees
+run out of money when they retire is due to bad returns, bad stock market returns. So
+imagine you retire at the peak of the market and you think you're all set with your million
+dollar retirement portfolio. The stock market crashes the very next day or the next year.
+And if you held 100% equities, your retirement portfolio would be down 20, 30, 40%. And during
+that time, because you're a hundred percent equities, you still have to support yourself
+during retirement.
+So what are you doing? You're selling your stocks to live, but you're selling those stocks
+at their rock bottom during that recession. And that is the absolute worst time to sell
+any stock is at their rock bottom, especially when your portfolio is already depleted so
+much because of that recession. Like you may never recover from that and your portfolio
+might end up hitting zero before you die.
+And so having a mix of two, three, four, five, six, seven, eight, nine, ten, ten, twenty,
+twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty, twenty,
+sixty, twenty, twenty, sixty, ninety, twenty, twenty, twenty, twenty, twenty, twenty
+twenty, twenty, twenty, twenty, twenty, twenty, twenty,
+twenty, twenty,
+thirty, twenty, twenty, twenty, twenty, twenty, twenty,
+things take super long.
+So in conclusion, that's why we'remandit.com.
+We'll pointed out something else, but let me give you the whole issue of equities and
+or SORR. It's basically just the risk that the sequence in which the market is performing well
+or performing badly just happens to be exactly the wrong sequence, the sequence that's not in
+your favor. And that's sheer luck because no one can truly predict the stock market cycles.
+So that's why both the Target Date Fund glide path as well as Big Earn's glide paths all start
+you with a mix of equities and bonds on your retirement date versus having you at 100% equities
+right when you retire. And that's where the similarities end because the TDF glide path
+continues gliding down with less and less equities, whereas our glide path will now glide
+upwards with more and more equities after retirement. In fact, it keeps gliding up all
+the way to eventually holding 100% in equities, 0% in bonds during
+your retirement.
+And the reason it glides upwards is because that is how you make it through 60 plus years
+of retirement. That is how you will die with more money than when you retired. That is how you will
+have money to leave your kids because nothing has more reliably and consistently delivered the kinds
+of returns on your money as the US stock market. The S&P 500 has returned on average 10% every year
+or 7%.
+If you adjust for inflation for the past 100 years. So how do you best capture that kind of
+insane performance? How do you maximize that? You maximize it by holding 100% equities eventually
+because it's a rising glide path. And so what that does is starting at 60% rising all the way
+to 100%. That gives you the best of both worlds. It hedges against the sequence of returns risk,
+which is the biggest risk factor.
+And it provides long term sustainability in later years. You at this point might also
+be wondering why is it a 60% to 100%? You know, what about starting at 40% to 100% or starting
+at 20% but then only going to 80%? Like what is the most optimal version of this rising post
+retirement glide path? And lucky for you and me and all of us, this has all been calculated. He's
+calculated all of these glide paths. And he's calculated all of these glide paths. And he's
+calculated all of these glide paths permutations. And it's a little too much for me to like recap
+all of those findings here. I definitely recommend just reading the full article,
+it should not take you more than like an hour. But in summary, the 60% to 100% one is the one
+that consistently returns the best results when applied to 150 years of historical market data.
+So you start retirement at 60% glide all the way up to 100%. And that is better than any
+other fixed stock allocation, where you're keeping that allocation static. And it's also better than
+any other glide variation, you know, 40 to 100, or 60 or 80 to 100. So based on that historical data,
+60% seems to be the ideal balance of insuring against sequence of return risk, while still
+holding enough equities for long term growth. And eventually you end up at 100% because 100%
+yields the best long term growth. And that's why it's so important to keep that allocation static.
+Once you're no longer at risk of that sequence of returns risk, which is only in the first five
+or 10 years of retirement. So once you're past that risky early phase, you want to let your
+equities soar. There are a couple other little things you can tweak as well to optimize even
+more. There are things like you can adjust the exact slope so that it glides up maybe a little
+quicker or a little slower, because if it takes too long to glide up,
+then you have less equity exposure for longer, which can be suboptimal. Too fast isn't good
+either, because then you have equity exposure too soon, which could also be problematic.
+And so the optimal seems to be around a 0.3 to 0.4% positive slope, meaning it goes up by 0.3 to
+0.4% every month until it hits 100%. And what that essentially results in is that it takes about 10
+years to glide up. And that's why it's so important to keep that allocation static.
+Up from 60% to 100%, which again, makes sense because the sequence of returns risk
+is only really applicable for the first five or 10 years. You can also decide to do it actively
+or passively. Like you can say, I'm going to reallocate every month by 0.3%, which is what
+we do because that's easy, but you could also reallocate only when the market conditions are
+favorable. So I won't go into that too much because at the end of the day, based on the
+analysis he did, the difference is so big. So I'm going to go into that a little bit more.
+Minimal that you don't really need to worry about it. So you should just do whatever is
+easiest. Like just the mere fact that you're following the glide path strategy at all is
+going to do more for your retirement than any of these little tweaks. The big picture here is that
+compared to the Vanguard or any other brokerages target retirement date funds that bring your
+equity allocation down to 30% because it glides down and you hold it at 30% until you die.
+The upward sloping glide path wins every time. Gliding upwards is more optimal than gliding
+downwards during your retirement. And compare it to a fixed allocation where you don't glide at all.
+You just keep your equities at 60% during retirement or 70% or 50%. The gliding upwards
+approach is going to return a 5% to 7% improvement on how much you can withdraw each month, which as
+a percentage,
+may not sound like a lot. But if you plan to withdraw $100,000 each year during retirement,
+that's an extra $5,000 to $7,000 each year you can take out forever. Like that adds up to a pretty
+massive number once you add up all of those years. Like where else can you get that kind of gain
+for almost no effort, just once a month rebalancing? I mean, I think the closest
+thing that's come to this is Robinhood matching you 3%.
+I think that's probably the lowest hanging fruit followed by this. And I think that bonus FYI goes
+through April 30th. So if you're listening to this podcast in April, you still have probably
+like a week or so to do it. As long as you initiate before April 30th, you can get in
+on that transfer bonus. But I digress back to the glide path. If all of this stuff that we've
+been talking about so far with the glide path sounds pretty awesome, that's only half of it.
+There's more because that was just the post-retirement side. Now that you understand
+why glide paths make sense in post-retirement, we can talk about implementing a more optimal
+glide path pre-retirement, which ultimately will help you retire earlier and with more money.
+With pre-retirement, it's kind of like the mirror side of post-retirement. So what you're hedging
+against is the post-retirement side. So what you're hedging against is the post-retirement side.
+It's sort of like the opposite of sequence of returns risk. So sequence of returns risk in
+post-retirement is when the market tanks right after you retire and you end up withdrawing
+equities during that market tank, which is bad because it really hampers the recovery
+of your portfolio. But on the pre-retirement side, when you're contributing, you're accumulating,
+you're investing in the market, investing during a recession boosts your portfolio once it cycles
+back.
+to a growth and expansion period. Again, it's kind of the two sides of the same coin,
+like recessions are bad for new retirees, but they're great for investors that are still working
+and able to contribute into the market. And I'm going to assume probably that most listeners
+listening to the show are pre-retirement. I think there are some fire folks that follow it. So if
+that's you, welcome. Hopefully your fire journey is going well and you may have already heard of
+this early retirement now.
+GlidePath stuff. But for everyone else, I think the majority of people who are pre-retirement,
+I want to kind of start with the most common pre-retirement investment strategy,
+which as we discussed earlier, is that you or your employer is investing into a target date
+fund for you, because that is the default option for most employer retirement plans.
+And I want to just quickly say that that is a good thing. Like studies have found that
+auto-enrolling boosts participation in retirement plans. So the same reason why you haven't
+researched what the better strategies are out there is the same reason why you're auto-enrolled
+in that retirement plan that's doing a target date fund, which is just sheer laziness. You know,
+people are too lazy to opt out of auto-enrolling in their employer-sponsored 401k. And so they end
+up investing in their retirement. And that's a great thing versus not investing in your retirement.
+So, you know, at the end of the day, right, like these target date funds, they're still better
+than keeping your cash under your mattress. So they at least deserve credit for that. But,
+and there's a big but here, target date funds are suboptimal for most people. And we've covered why
+they're suboptimal in post-retirement. They glide the wrong way, but they're also not great
+pre-retirement either. And the analogy I kind of like is the,
+speed limit analogy, you know, speed limits on highways. It's a pretty arbitrary limit that
+everyone has to follow. Like it's the same limit that we all have to follow on the freeway. But
+should your grandma's Toyota Camry from 1990 really be going 65 on the freeway versus a
+self-driving Tesla going 85? I would say that Tesla is probably less likely to crash going 85
+than your grandma's Camry.
+Going 65. But it's way too complicated to give everyone a custom limit based on their age,
+their car, their driving ability. It's easier to set one speed limit because having a limit is
+still better than not having a speed limit. Less people are ultimately going to die thanks to that
+speed limit, but it is suboptimal for most people, except for that select few where 65 miles per hour
+really was the limit. So, you know, it's a pretty arbitrary limit. But it's a pretty arbitrary limit.
+Because the highest speed they should be going, given the car they have and their age and their
+driving ability. And target date funds are designed the same kind of way where there's just
+one fund for everyone. And they're built for a very specific kind of retiree with a very specific
+retirement age who has a very specific risk profile and income and contribution profile,
+which we're going to dig into a little more. But these target date funds, you know,
+they start you off at 90% equities when you're young, when you're far away from retirement.
+And then they glide you down to roughly 67% equities when you're 10 years away from retirement,
+which can be fine if you have a massive nest egg built up already by then,
+you know, that you've been adding to it over the last 30 years, because that's how long they expect
+you to be contributing for, for 40 to 45 years. And that final 10 years, you don't really need
+to grow it. You don't need to grow it. You don't need to grow it. You don't need to grow it.
+Right. You're just kind of topping it off a little bit with 10% of your income every year
+for that last 10 years before you retire. That is the more traditional retiree that these funds
+are built upon. They're kind of built upon this idea of a retiree from essentially the 1950s,
+because these funds came about in the 90s. So who's retiring in the 90s? It's people who grew
+up in the 50s. It's the person who like worked at the auto plant all of their lives. They bought a
+in their 20s, you know, they raised 2.5 kids on a single income, and they contributed 10 to 15%
+of their income every year towards their retirement plan since they were 20, you know,
+and they eventually retire from that same car factory plant job at age 65. And that's what
+these funds are geared towards. And that's not how most people live or retire anymore.
+Maybe you're in your 50s now, and you're just thinking about retirement and going, oh, crap,
+I have nothing saved. Or you're in your 20s and 30s. And you're like, there's no way I can keep
+doing this job for another 30 years. You know, maybe you want to retire in just 10 years. And
+you want to speed run it from having $0 saved to being able to retire and you're down to trim
+like all of your expenses, all the fat, and you're down to save 50% of your income every year
+towards retirement during those 10 years instead of just 10%.
+Those scenarios now are more common than the white picket fence General Motors retiree.
+And these target date funds, they weren't built for these new scenarios. The target date fund,
+again, is for a person who's planned all of their life to retire at a very specific age.
+It's the person who says, I will retire at 65, not a year or two earlier or later.
+It's for a person who is highly risk adverse,
+and extremely vulnerable.
+Extremely inflexible in their retirement date. And so to achieve that, the target date funds
+sacrifice performance to make sure you can retire on your retirement date, no matter what. It's
+essentially a very costly insurance against market conditions that may otherwise cause you to delay
+your retirement. So if you have any flexibility in your retirement date, or if you're someone
+who's able to contribute to your retirement, you're going to have to make sure that you're
+able to contribute a high amount into your retirement plan, like you're able to contribute
+50% into your retirement plan instead of just 10%. If that's you, chances are you could be doing a lot
+better than a target date fund by implementing your own custom glide path. If you recall from
+the post retirement glide path that ends at 100% equities, you can kind of guess where the pre
+retirement glide path should start because it's sort of a mirror copy. The pre retirement glide
+path, the more optimal version of a pre retirement glide path would have your equity start at 100%.
+So 100% equities to start with in pre retirement. And if you're more risk adverse, you would start
+gliding that down to 60% five years before retirement. So you keep it at 100% all the way
+through until five years before retirement, and only then start gliding down from 100% to 100%.
+To 60% until your retirement date. So basically, for the last five years before retirement,
+you're reducing your equity allocation by 8% each year from 100% down to 60%.
+Compared to the Vanguard target date fund, which starts you at 90%. That is the most equities they
+will ever have you hold. So 90%, even when you're, let's say 20 years old, they want you holding 90%
+and that starts gliding down. So reducing stocks, and you start reducing 25 years before
+retirement, not five years before retirement, 25. So at age 40, you'll start reducing down from 90%.
+And by the time you're 10 years out from retirement, you're now only holding 67%
+in stocks. And that will keep declining. So for the last 10 years, you'll glide down from 67,
+all the way down to only holding 50%.
+So why is this bad? It's bad in the same way that the post-retirement glide path
+in the target date funds is bad, in that it is bad because you end up missing out
+on huge chunks of market return. If you want to go from $0 to fire to early retirement in just 10
+years, you don't have the luxury of such a gentle equity allocation, you know, that's
+designed for the traditional retiree who has built up a large nest egg over 45 years.
+That retiree is someone who probably has way more than they need for retirement. They're the kind
+that doesn't care about optimizing because they don't need to. They're the kind that has a set
+retirement date, like the retirement date is more important than the portfolio value to them.
+That is the demographic that Vanguard caters to and all the other
+brokerages.
+cater to with their target date funds. So if you have a specific dollar in mind to reach
+before you retire, these target date funds potentially delay your retirement by years
+because of their gentle equity slope. If you have a specific retirement date in mind,
+target date funds will make sure you reach that retirement date, but you will reach it with less
+money than you would have if you implemented your own glide path.
+With the glide paths we're discussing today that start you at 100% equities in pre-retirement,
+that basically means you capture more of the market, the full effect of the market for longer.
+And in fact, depending on your life situation and your level of flexibility, it can even make sense
+to not glide down at all pre-retirement. So holding 100% equity all the way through to your
+retirement date can also make sense to not glide down at all pre-retirement.
+be a more optimal strategy because if you have flexibility and a high contribution rate,
+if the market tanks right when you're planning on retiring, you would just delay for a few years.
+And during those few years, guess what's happening? You're contributing into a down market,
+which is one of the best things you can do for your retirement portfolio. But at the end of the
+day, I think that level of flexibility is hard for a lot of people. Like you probably at least
+want a year or two where you're sort of winding down and making some plans for your retirement.
+And so most of us, I think, would want some amount of gliding down. Like if you say,
+hey, I plan to retire in five years, you spend those final five years gliding down from 100%
+down to 60%. And that means basically that as you approach your five-year planned retirement date,
+you hold less and less equities, which means less market exposure, which means less volatility,
+which means less risk that you'll have to delay your retirement. The added benefit of gliding down
+to 60% like that is that you're at the perfect starting point then for the post-retirement glide
+path because the post-retirement glide path goes up from 60% to 100% over about 10 years
+post-retirement. Here's the sort of point in the episode where I want to add that if you've
+listened to all of this and you're feeling pretty skeptical,
+because 100% equities at any time, anywhere in the glide path sounds too risky. I get it. It's a
+pretty counterintuitive slash opposite approach to retirement investing than what all of us are
+used to. I know when I heard about this and read about this, I felt the same kind of way. So
+don't take my word for it. I definitely recommend you do the research starting with the bigger
+articles because that's where...
+This stuff is primarily coming from. And early retirement now, that stuff, he's known as the
+Grinch of fire, as someone who regularly argues against most fire influencers for being too
+optimistic in their projections. So this isn't some crazy risk-taking approach towards retirement.
+And I think that's why it feels counterintuitive because equities feel risky. And so saying 100%
+equities sounds like it's...
+It's a risk-based approach, but it's the opposite. It's actually a more conservative
+approach if you want to maintain and fund your retirement without going bankrupt. And Biggern,
+he endorses 100% allocation, equity allocation before retirement, because you can afford
+high equity volatility before you're retired. Your hedge, your diversification against that
+100% in equities is your income.
+Your ability to keep pumping money into the market during a recession. That is the winning
+strategy. That's better than holding bonds. Nothing will boost your portfolio as quickly
+as investing during a recession. The only thing better than investing during a recession
+is investing during multiple recessions. So how crazy is it that if you're still young and you
+have a long investment horizon ahead of you,
+that these target date funds are having you hold bonds? It makes no sense for a 25-year-old
+to hold any amount of bonds for their retirement, because you still have like five or six recessions
+and expansions ahead of you. If you're 25, for your first $10,000 that you save towards
+retirement, putting it into a target date fund will put a thousand of that into a bond ETF.
+Assuming you're working,
+and you have an emergency fund set aside to cover your expenses between jobs,
+diversifying $1,000 into bonds at that age, and then adding more and more bonds 25 years before
+you plan to retire is truly nonsensical. Instead, put that full $10,000 into stocks and let it stay
+there and grow at 7%, which is the average market return over the last 100 years. And that's adjusted
+for inflation. Let it grow at 7% every year for decades instead. So to quickly recap everything
+we've discussed so far, hopefully at this point you kind of understand why a rising glide path
+post-retirement from 60 to 100% equities is better, and why a glide path that starts at 100%
+equities pre-retirement and has a shorter downslope that doesn't even kick in until your five years'
+before retirement, and when it does, it goes from 100% down to 60%, why that is more optimal than a
+target date fund that literally does the opposite thing it should be doing post-retirement. You know,
+it glides the wrong way, and pre-retirement, their glide slope is way too conservative.
+I'll also link to another article in the show notes from Early Retirement Now called
+Why Target Date Funds Suck. I don't think that's how he titled it, but that's basically the
+point he was trying to communicate. And that's a great article to read because he brings up some
+other issues with these target date funds as well that we're not going to cover here today.
+But if you've been following along okay, and you're even mildly interested or convinced
+that this could be a better strategy, and you're like, okay, so how do I
+go about actually doing this? I'm interested. How do I implement it?
+The good news is that the hard part, the mental part is done. You know, like the next steps are
+very easy. And that's why I love this strategy. Because the first step is, you just need to go
+and figure out how much control you even have over your retirement assets. So post-retirement,
+you know, you've retired already, that's pretty easy, because you do have full control. Like,
+even if your employer for a 1k that you still have, they don't let you choose your,
+your funds other than target date funds. That's okay post-retirement because you can just roll it
+over to another brokerage like Fidelity, where you have full control. You can pick any stock or any
+index fund you want, and you can invest those yourself. Pre-retirement, it can be messier
+because some employers don't offer the ability for you to pick your own stock. Like some will give
+you a self-directed option that you can enroll in. And if they give you that option, you should
+definitely do that. But if you're a self-directed option, you should definitely do that. But if you're
+a self-directed option, you should definitely do that. But some don't, and you're stuck with
+whatever options are presented in the plan. And sometimes the only options you have are target
+date funds. So if that's you, and you're stuck with just, you know, these target date fund
+options, you can still hack it a little bit where you pick a target date fund that better matches
+the glide paths we discussed today. So if let's say you plan to retire in 2025, instead of picking
+the 2025 retirement target date fund, you can instead pick the 2035 or the 2040. You'd still
+retire at 2025, but you pick a fund that's 10, 15 years later, because that way you end up earlier
+in their glide path. So you're kind of shifting yourself manually to the higher equity allocation
+part of the glide path. And that's sort of one way of doing it so that you have more equity exposure
+instead of the 2035. And that's sort of one way of doing it so that you have more equity exposure instead of the late 2040.
+of being overexposed to bonds that don't really earn anything. But assuming you do have some level
+of control over what you invest in and you have access to just regular index funds, then just make
+yourself a little Google Sheet, which, you know, if you're a churner, you probably have a million
+Google Sheets, but I'll share my equity allocation glide path Google Sheet in the show notes as well
+if you just want a quick starting point. But just keep in mind, like this is a simple, a very simple
+spreadsheet that you can make in like two minutes. It's just a table of months, like each row is just
+a month and it just keeps going every year from now until your retirement date. And then it keeps
+going past your retirement date by another 10 or 15 years. And that's it. That's your glide path
+table in a Google Sheet, because for each month in the column next to it will just be,
+your equity and your stable assets allocation. And, you know, that's going to change by a little
+percent every single month. And so each month you can just pull up the sheet and follow what it
+tells you. And so for ours, you know, I think it says May 1st, we're supposed to have 72% in equities,
+28% in stable. On June 1st, we're supposed to have 72.3% in equities, 27.7% in stable. And it just
+keeps going.
+Up in equities and down in stable by 0.3% each month, because that is the slope we picked.
+And yeah, each month we get 0.3% closer to holding 100% equities until 2032. That's when we finally
+reach 100% equities. And we retired in 2021. So it's about 11 years for the glide path to complete.
+But basically, once you have that spreadsheet, then you just want to be logged into your
+brokerage and just make a couple really simple trades. So for equities, we prefer to hold VT.
+So V is in Vanguard, T is in television. That's the total world stocks index fund that Vanguard
+has created. So it holds a market cap weighted ratio of stocks across the entire world so that
+you don't have to rebalance between international stocks versus US stocks. But you could also hold
+VTI. So that's the one that's only US stocks. And then you could also do a combination of VTI
+and VXUS. VXUS is the total international stocks. So you could do a combo of that. But if you do a
+combo of that, that's basically what VT is. But VT has a slightly higher expense ratio, I think.
+But don't worry, I'll be listing all of these symbols in the show notes. So you don't have to
+be like jotting these down and getting confused with the acronyms. But that's what we do with our
+equities.
+side, you know, when we reallocate each month, the stable asset side, I think the savvy ones
+listening might be like, I noticed you said, stable assets, you didn't say bonds. And yeah,
+that'd be a good catch. Because yeah, we balance between equities, stocks, and stable assets,
+not just bonds. That's sort of our little variation to the glide path strategy that
+Bigger and Right's about that holds a bond ETF. Because instead of holding a bond ETF,
+we're holding a pure bond ETF, like BND would be Vanguard's total US bond market ETF or BNDW. If you
+want total world bonds, so not just the US, we actually hold a combination of four different
+assets. We hold bond ETFs, BNDW is what we choose because it's diversified against all of the world
+bonds. But we also hold I bonds, the treasury bonds, as well as cash and gold. So for us,
+it's a bucket of stable assets that we reallocate against the bucket of equities. And why do we do
+this? So Bigger and he wrote his glide path articles back in 2017. And they are still as
+relevant today as they have been for the last 150 years. But with the high interest rate environment
+that we're in right now, I bonds and cash are viable alternatives. Like I bonds were at almost
+70%. And I bonds were at almost 70%. And I bonds were at almost 70%. And I bonds were at almost
+70% return a couple years ago. I think they've since dropped to around 3%. So we'll be selling
+those off next year. But like cash now, it's super easy to earn 5.5%. Like you can join Wealthfront
+using a referral and they'll give you 5.5% on any money you save with them. So it's really easy now
+to get that high of a return on cash. And so both treasury bonds and cash have been outperforming
+bond ETFs. So they can be substituted for bond ETFs because the purpose of holding bonds in the
+first place was to act as a stabilizing asset. They help counter some of the volatility in stock
+markets while also providing a small return in the long run. Treasury bonds like I bonds,
+which is literally a bond and cash earning 5% can serve the same kind of function and maybe even
+serve it a bit better, at least in the current interest rate environment. Now, if and when that
+changes, we'll rebalance how much of each of those things we hold. And similarly, we also hold gold
+as an ETF. There's an ETF IAU, which, you know, because it's difficult to hold physical gold and
+also not very liquid, but there is a fund, you can do that. And we hold that because it serves
+a similar purpose as bonds in evening out equity market volatility.
+But has the added benefit that gold has also been helping even out the volatility over the last
+few years in the bond markets, because those markets have also been quite volatile thanks
+to the interest rate increases. So there's definitely, you know, ways you can switch it up
+to better serve your own investment style. I think Biggern also has an article on, you know,
+using gold to hedge against sequence of return risk, which I'll link to as well as kind of a
+bonus thing.
+But if like all that stable stuff sounded like too much, you know, holding like four different
+things in your stable assets, it's okay because you can totally ignore it. You don't need to even
+do that. You can just keep all of your stable allocation in just bonds. And then you can just
+worry only about rebalancing between your equities, which in our case is invested in VT and your bonds,
+which in our case is invested in BNDW. But of course,
+you can pick any of the other versions of those index funds that better match what you prefer
+to do. You know, do you believe in the US or do you believe in the world? Or do you believe in
+international stocks? And then once a month, you just log into your brokerage account,
+pull up your Google sheet, see what it tells you your stock versus bond ratio should be,
+buy or sell some VT or buy or sell some BNDW so that it matches that allocation. And then
+that's all you need to do.
+Once a month, literally two trades and you've optimized your retirement portfolio. I think
+that's easier than most churns we do with way bigger results. And the added benefit here is
+that now each month you're taking a look at your retirement account. You're taking a little more
+of an active role in your retirement. Like at bare minimum now, you're seeing how the markets
+are performing instead of it being a black box in a target date fund.
+And knowledge is power. More information means you'll make better decisions about your finances,
+your spending, your retirement, which I think is a pretty big deal. And it's a good place to be.
+However, before you run off to rebalance everything or open up your 401k and figure
+out what the target date fund you're invested in has been doing over the last decade,
+I want to give you a little bit of an overview of what the target date fund is doing.
+I want to give you a little bit of an overview of what the target date fund is doing over the last
+decade. I want to give you a little bit of an overview of what the target date fund is doing over the
+last decade. I want to share a couple like final thoughts and caveats about the glide path that
+we've discussed today, because this glide path is more optimal. But to be clear, it's not the most
+optimal because the most optimal glide path is going to be unique to every person because every
+person has a different risk profile and different retirement goals. What this glide path is,
+is that on aggregate, on average, this glide path is going to be more optimal than the
+alternatives like a target date fund or a fixed stock allocation. Like another way to sort of
+think about glide paths is that they lessen the impact of bad timing, you know, retiring right
+before a recession. But they also dampen the upside of great timing, retiring right before
+like a 10 year expansion. It kind of levels out those two scenarios so that you avoid a like a
+get rich or go broke. And so, you know, it's going to be more optimal. But to be clear, it's not the
+go broke kind of a strategy. It's a more middle ground. And as a result of that, the glide path can
+underperform a fixed stock allocation in some specific scenarios, like a scenario where the
+opposite of the sequence of return risk thing happens, where you just get really lucky and you
+retire at the bottom of a market and it just booms. The stocks just keep going up after you retire.
+And in that case, if you had just held 100% stock at retirement, that is better than having a glide
+path. 100% stock during a market boom, like a decade long market boom is going to outperform
+a glide path that started at 60%. Because more time in the market means more time for your
+equities to appreciate. But even in that kind of a scenario, early retirement now, he did crunch
+the data on that, of course, because he crunched the data on everything.
+That 60% glide path still beats a fixed allocation ratio of 60% and is almost as good as the 80%
+fixed allocation. But it is worse than 100% equities in that kind of a market.
+But this is where the whole risk thing comes in. You know, do you want to risk holding 100%
+in stocks right when you retire? I mean, maybe it depends on your risk profile and how much money
+you saved and how much you plan to spend. Like that's why it's sort of impossible to create a
+single glide path that's optimal for everyone. Like these target date funds gave it a half-hearted
+try, you know, but look where that's gotten us with these kinds of glide paths that they made
+that try to suit everyone. You know, we're all just driving at 65 miles per hour on the freeway.
+So the risk profile variable is really interesting, you know, and is a big caveat because
+we all have some risk.
+Different risk profiles, like these glide paths are calibrated to a quote-unquote normal amount
+of risk aversion. What is a normal amount of risk aversion and how risk adverse are you
+in relation to that? If you're like, I have no idea how to even think about how risk adverse I am,
+there's a pretty interesting thought experiment you can do right now, you know, while you're
+driving, while you're doing the laundry. It's a pretty easy one. And it's the idea of how you
+would react if presented.
+with a gamble, the gamble being, let's say you have $0 saved for retirement, and you're offered
+a coin toss. If you toss heads, it means that, you know, when you do retire, you'll have $1.5
+million. If you toss a tails, when you retire, you'll only have $500,000. So what number would
+you take to avoid that gamble? What number?
+Would you take to walk away from doing a coin toss? Because the expected value of that coin
+toss is $1 million, right? It's a 50-50 chance you get 1.5 or you get 500,000. So if you're someone
+who would take a million dollars, then you're completely risk neutral. You have no aversion
+to risk, nor do you seek risk, right? You'll take your million dollars because that's right
+in the middle of the expected value of that coin toss would be.
+But if you would only take $1.5 million in order to walk away from that coin toss,
+what kind of person is that? That's someone who would rather do a coin toss under any scenario
+unless they could walk away with a guaranteed $1.5 million in retirement. Like they would
+rather do this coin toss than take $1.4 million guaranteed. That person is on the
+far end, the extreme end of risk seeking. They want maximum risk. On the flip side of that,
+what kind of person would take $500,000 to walk away from the gamble? So they would rather not
+flip the coin at all, and they would rather take the lowest possible value that coin flip would
+have given them. That person is completely risk adverse. Most of us fall somewhere in the middle,
+and in fact, most of us are going to be in the risk aversion side of that bet because this is
+your retirement we're talking about. This is not a weekend in Vegas at a roulette table.
+Retirement portfolios are not places where people seek risk. Most of us would take less than a
+million dollars, so less than the expected value to walk away from the bet. That bet's a pretty
+harsh bet. And if someone offered you,
+$750,000 to walk away from that bet, most people would probably walk away. That's the normal
+response. And if you're listening to that and you're like, no, it would take much more for me
+to walk away from that kind of a bet, that's fine because these glide paths are calibrated
+towards someone who would take $750,000. If you're someone who would require $800,000 or $850,000 to
+walk away from the bet, which is sort of where I think I kind of fall, then you're someone who's
+less risk adverse than the models gave you credit for. And so you can actually take an even riskier
+approach than what the glide path is recommending. So if you're like, the glide path is too risky,
+but I'd only take $900,000 to walk away from the gamble, that would be like saying,
+I'm scared of walking on the sidewalk because I'm worried about getting hit by a car, but I
+ride a motorcycle to work. Conversely, if you're invested in target date funds, those funds are
+calibrated towards someone who would take around $640,000. Just think about that. That's how
+conservatively calibrated target date funds are. It's pretty crazy to me as someone who would take
+$850,000, but some people, I mean, I think do fit the bill. They are extremely, extremely risk
+adverse. But I don't think that's the case. I think that's the case. I think that's the case.
+I would just argue that most of you listening today probably don't fall into that category. So
+when it comes to risk profile, use this thought experiment. Think about where you land so that
+you can kind of gauge, is this glide path too risky or not risky enough for you? And then go
+read the damn article. Read the article on the glide path because he goes through different risk
+profiles on there. I just picked one, the recommended one to discuss today, but there
+are other permutations. You can see how those risk profiles would have performed under different
+market conditions. Finally, because we are talking about stocks and investments, I think it's really
+important to note that everything we discussed is based on historical data, like a lot of it.
+However, you've probably heard the adage, past performance is not indicative of future results.
+And the reason they say that is because that is true. You cannot predict,
+the future using past data, but you can use the historical data as a starting point to sort of
+gauge your own level of risk and comfort because the glide path investment strategy, you know,
+by inputting 150 years of data and making sure that he comes up with an approach that is completely
+fail safe. What that means is that the glide path approach would have survived the great depression,
+the dot-com bubble, the 2008 financial crisis,
+the pandemic, all of those, every single recession we've had in the last 150 years.
+Could we have a recession in the future that's even worse than those ones? I mean, sure, you know,
+but is there any strategy that's safe from that? There are also people who fear the stock market
+completely and keep all of their assets in cash. And that's not safe either. The US financial
+system itself could collapse. The treasury bonds that you hold could become worthless.
+Cash is not going to save you in that scenario. You could buy physical gold and bury it in your
+yard. I mean, you could build a prepper bunker. I mean, what's your level of risk tolerance based
+on what you think might happen in the future? And for me, I'm comfortable gambling that the US
+financial system, the banks, the stock market, those will be around until I die. That said,
+I did just watch Civil War, the movie, last night in theaters. So I'm like,
+5% less comfortable in that statement now than I was yesterday. But I'm still going with the US
+will be around thing because if I don't believe in that, I think I've got bigger things to worry
+about than investment strategy and churning. I need to be out there buying guns and stocking
+up on dehydrated food and digging my bunker. But I'm not doing that. And I am gambling that stocks
+will do what they have done since the inception of the stock market.
+That they'll cycle up and they'll cycle down, but overall, they will rise. And I'm gambling that if
+this glide path strategy can survive every single recession we've had to date, it can probably
+survive the next few recessions that will come around before I die. All right, everyone, that's
+it for this episode. Hopefully you've made it this far. I know this was a big one today. Pretty big
+topic to cover. I'm going to link all the links in the description below. And I'll see you in the
+next one. Bye for now.
+Bye.
+Check it out. Otherwise, I will catch you all next time for the April monthly recap.
+Thanks again for tuning in. See ya.

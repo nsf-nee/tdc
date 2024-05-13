@@ -1,0 +1,452 @@
+Hey everyone, welcome to another episode of The Daily Churn. Today is going to be a special
+episode focused just on employer dark deposits. And it's an episode I've been wanting to do for
+a while because the topic of employer dark deposits comes up and gets asked quite often
+because you know with a lot of these bank bonuses, employer dark deposits are a requirement in order
+to qualify for the bonus. And it can be a pretty annoying requirement to meet even if you are
+fully employed with an employer that's paying you employer dark deposit. Because if you're with
+a smaller employer, I'm sure you know it can be a pretty manual process to update your dark deposit
+information. Sometimes you have to submit a paper form or you have to contact someone in HR. And
+then with some of the bigger companies, they'll let you change your bank account info sometimes
+pretty easily online, but then not all of these companies will let you split that payroll. So if
+you're going after multiple bonuses, you have to pick and choose which
+bank you're going to pay for. So if you're going after multiple bonuses, you have to pick and
+choose which bank account your payroll gets routed to. But even beyond that, let's say your
+company is totally flexible. You can set up as many different accounts as you want to split your
+payroll into. You still have some bank bonuses that require really high thresholds of employer
+payroll. For example, I think SoFi wants $5,000 worth of employer payroll and your paycheck may
+not be that high. Or another pretty common scenario is you work for yourself and you receive money
+from contractors and vendors for your business.
+And you do pay yourself, but you're not necessarily using a formal payroll service to do that.
+However, there are quite a number of services out there you can use, some being paid,
+some being free that you can sign up for and essentially help you generate employer payroll
+to varying degrees of success. So the goal of this episode is to sort of just run you guys
+through some of the services that I know about and that I've used. And I guess just share some
+of my data points on what works and what doesn't. Maybe the
+advantages of one versus another. And, you know, hopefully you guys have some ones that I haven't
+heard of before that you can share as well in the comments. But yeah, let's start with some of the
+paid services, because I did an episode way back in the day, I think almost a year ago on Square
+and Gusto, which are two payroll providers that you can use for employer payroll. And since that
+episode, there's been quite a few developments and some updates and stuff. And so that episode
+is a little outdated now. And also, I'm not sure if you've heard of the paid services, but I'm not
+sure if you've heard of the paid services, but I'm not sure if you've heard of the paid services,
+there's a lot more services now available than when I did that episode. So this is sort of a
+2022 refresher, I think that goes beyond just the scope of Square. But let's start with Square,
+which is the one that I covered in episode two. So with Square being a payroll provider service,
+like if you go to, I think it's squareup.com, you'll see that it's literally a subcompany of
+Square that provides payroll processing services. So the advantage of that is
+that if for whatever reason, when you process payroll through Square, and let's say your small
+credit union doesn't automatically recognize Square payroll as employer payroll, you can very
+justifiably reach out and contact them and say, Hey, my employer uses Square up payroll services,
+and it should qualify for employer payroll. So that's really the biggest advantage of using
+Square. And a lot of these paid services is that you can go in and justify
+later because you know, the general rule is that you don't call in and try and justify why
+your ally bank transfer should have qualified for employer payroll. But if you actually use
+the payroll service, you absolutely can and should follow up. And yeah, it's a very reliable way to
+get your bonus. The downside with Square is that it does cost money. So it's $5 per contractor
+per month. And with a single contractor, you can get about four payments out per month,
+because it takes Square about a week to process one payment. And you can't initiate another payment
+to a different bank account until that first payment has finished. And for the months where
+you don't process any employer payroll, you're not charged anything. Then when the bank receives
+your Square payroll, it shows up literally as Square payroll. And for the most part, I'd say
+90% of banks will automatically treat that as employer payroll. The times where I think it
+gets missed is I've had one bank,
+that thought Square payroll was Square, like the merchant processing thing, which obviously
+wouldn't qualify. And I've had to reach out and say, hey, Square payroll is a different service
+to Square merchant services. However, there have been some data points from folks who listened to
+episode two and try to sign up and ran into issues where their account was then shut down.
+So I personally haven't had any issues with Square payments. Like my account's been active
+for over a year. I use it pretty heavily.
+But I think my guess for why accounts do get shut down pretty soon after signing up is that Square
+initially after signup will do some basic validation on your account. And so the safest
+route would be to sign up with the real business, with your EIN and fill out all that info,
+add yourself in as a contractor with your real name, with your real social security number,
+your real address, all of that good stuff, and send yourself 25,
+$50. You don't want to make it so small that someone sees it and is like, why are you paying
+this person $1? And also don't make it so big where it's like $1,000. And if someone sees it
+and they flag you for some other reason, now your $1,000 is stuck in limbo somewhere and you have to
+follow up with Square who may have now shut down your account. Because that is actually a pretty
+consistent approach that a lot of these companies take is that they review your first transfer.
+And that's,
+when you're most likely to get flagged and have your account closed. So if you can make it past
+the first payment, usually it's smooth sailing from there. The other concern people often have,
+especially with a service like Square, is a worry over how taxes are handled.
+Square now, when you sign up, requires you to fill out a form, which essentially authorizes Square
+to file tax forms on your behalf. So you can no longer sign up for Square without,
+without completing and submitting this form. You used to be able to, now you have to fill out this
+form. And this form is scary for a lot of people because it essentially says that Square can send
+in tax forms on your behalf. And the concern there is obviously, well, I don't want to be
+accidentally taxed or owe taxes on this money that I am transferring to myself that shouldn't be
+taxed. Luckily, the good news on that front, which let me just preface this first by saying that I'm
+not a tax advisor. I'm not a tax advisor. I'm not a tax advisor. I'm not a tax advisor. I'm not a tax advisor.
+But I have been using Square for almost two years and I've gone pretty deep into their help center
+and their articles. And I'll post the link to this on the dailychurnpodcast.com. So you can
+see this article for yourself and sort of make your own judgment. But there is a specific help
+article about what forms Square will send out on your behalf. And they specifically call out the
+fact that if you uncheck the checkbox that says automatically file form 1099,
+and you're not going to be taxed, you're not going to be taxed. So you're not going to be taxed.
+If you uncheck that checkbox, that form will not be sent out. And for contractor payments,
+the 1099 NEC is the one and only form that gets reported to the IRS. So if you uncheck that
+checkbox in Square, that form does not get sent and no other forms get sent because for contractors,
+that is the only form. Now, if you set up Square and you paid W-2 workers, then there are other
+forms that Square will send out. With W-2, there's like quarterly,
+reports, I think the 940 or the 941 that Square will help you send. There's annual reports that
+Square will help you send. I don't know if you can turn those off, but you shouldn't be setting
+up W-2 employees. You should be setting up contractors. And for contractors, it is just
+that one form, which then brings up the subsequent question I think folks have, which is that,
+okay, Square is not sending the forms, but am I still liable for the $1,000 that I paid?
+And the short and simple answer is no,
+you're good. You're on very sound tax footing by not filing this form. You would be liable if you
+were actually paying a contractor and you sent them $1,000 and this person worked for you. But
+in your scenario, you're only using Square for their capability to essentially move money from
+one of your accounts into another account. No one was actually being paid for any goods or services.
+And so in fact, it's a good thing that you're able to turn off these forms because
+filing a 1099 NEC on your behalf would be bad because you're not paying contractors and you're
+not liable for the money. So from a tax perspective, you simply just moved your own money from one
+account to another account. So everything is by the books on that front. But I think what trips
+a lot of people up is that form that you see during signup where it says that Square is going
+to file forms on your behalf. And so the key really is turning off those forms so that nothing
+does get filed, but you do have to submit that.
+So that's one of the things that you can do. And then the other thing that you can do is
+make sure that you have an authorization initially in order to make it into the flow where you can
+actually then set up contractors and all that good stuff. All right. So next up on the paid list,
+we have Chase. And I haven't really seen anyone talk about Chase's ACH payment service, but I only
+know about it because I previously had a business with Chase with a business bank account. And one
+of the services that you can add on with Chase for $25 a month is the Chase ACH payment services. And
+what that is, is essentially it's like a Square. So you can add in vendors and contractors and
+employees just by using their name and their bank account and routing number, and you can
+send payments via ACH to these people. And for $25 a month, you can send up to 25 of these payments.
+And I think after that, it's like 25 cents each for each additional payment that you make. And
+this is different than just adding like an external account to your like regular Chase,
+direct deposit page where you can just, you know, add multiple of your accounts because
+all of those accounts in theory should be owned by you when you do it and they do like a trial
+deposit. But the Chase ACH payment services is very different from that because there are no
+trial deposits. These are going to accounts that you don't own and they're all being sent in the
+name of your business. So whatever your business name is at Chase is what shows up as the billing
+descriptor on the recipient bank. So if your company was the
+daily churn LLC, it will show up as the daily churn LLC to whoever you're transferring to.
+So pretty much anyone with a Chase business account can pay $25 and add this service.
+And the biggest advantage of Chase ACH payment services is that it's really easy to use and
+manage at volume, like I used to use this service to manage a few hundred different people that we
+were paying. And I was doing probably 50 plus,
+ACH,
+per month through Chase. And it was all very, very easy to do and manage. I would say just way
+easier to use than even Square Payroll because with Chase, you can go in and add each new bank
+as a new contractor and you can have hundreds of these contractors. And so it gives you that
+ability to send out multiple payments to multiple contractors at the same time in one go because
+Chase isn't charging you per contractor. It's a flat $25 fee for 25 transactions each month.
+The other nice thing with Chase ACH Payments is that it very much is just a payments service.
+There's no payroll side tacked onto it. So there's no tax forms. They're not trying to
+automatically file anything for you. It's completely disconnected from the tax and
+payroll side of things. It's purely just an ACH Payments service. And that's a good thing for
+churning because you're not actually...
+Trying to tie it with any payroll. You are just trying to transfer money between your various
+accounts. The downside with Chase though is that it is expensive. It's $25 a month, which is a lot
+more than Square. And that's the reason why I prefer to use Square over Chase because I'm not
+doing like 10, 20 bank bonuses every month. Although recently I sort of have been, but
+that isn't my end goal. But if I was just mainly doing bank bonuses and that was like
+my side hustle or my job...
+And I was doing 20, 30 different bank bonuses each month, I would probably use Chase and just
+pay that $25 because at that point Square would be kind of expensive. And some of these free
+services that we'll cover in a bit are not that reliable and a little bit janky at times.
+The other potential downside with Chase is that it may not track automatically. So
+depending on what your business name is or how the white list at a credit union is processing Chase,
+ACH payments, it may or may not track automatically. Now, if your business just happens to have the
+word payroll in it, like Joe's Payroll Service, then it probably will have a better success rate
+of tracking automatically than Tim and Bob's Party Store. But that said, Chase in theory
+should be justifiable because it is a real business. And so in theory, you should be able to
+contact the bank. It would probably take a little bit more work than using Square.
+Because with Square, you can just tell them, hey, just Google Square payroll and they'll see that
+Square payroll is a payroll provider. It may be more challenging or more work to try and explain
+that Tim and Bob's Party Store is your employer. So those are some of the potential downsides of
+using Chase. But I think it's definitely worth at least trying out if you are tackling a lot
+of bank bonuses and $25 a month is not that big of a deal to you. But if you are looking for something
+on the cheaper side, there is one way to do that. And that is to use Square Payroll Service.
+There is WISE, which used to be TransferWise. Now it's just WISE, W-I-S-E. And WISE is quite
+cheap, but not totally free. It's sort of what most people use WISE for is an international
+transfer. So if you're in the US and you need to send money to someone in Europe,
+you can use WISE to just enter their European bank details and it will send your $100 USD
+through their exchange rate. And they'll give you a pretty decent exchange rate, actually.
+And then to...
+Tack on a small transfer fee and the person in Europe now receives like 90 euros. And it's one
+of the better services for doing that. But as with all things churning, someone has figured out that
+you can actually just use WISE to send USD to USD transfers, like local currency transfers.
+And it's like sort of supported on WISE. It's not really advertised that they do that. And it's kind
+of even hard to get to, to do a USD to USD transfer. So if you're in the US and you're
+USD transfer, but it is possible. And there are two main methods of doing it. One being like more
+time consuming to set up, but ends up being cheaper in the long run. And the other method
+is like easier. You can immediately do it, but it ends up being more expensive. And so I've seen
+data points of people doing it both ways. So starting with the easy option, which is just
+to download the WISE app. And you specifically have to download the app because only the app
+will initially let you do...
+A local transfer, a USD to USD transfer. So this doesn't show up on the web portal when you first
+sign up. But if you download the app, you'll see it immediately. Like when you go to click the send
+button, it'll default to international, but you can switch it to local. And now you can send USD
+to another USD bank account. The downside of doing it this way, even though it's really easy,
+is that it costs more. So WISE charges you 0.16%
+so like a 10th of a percent plus a 72 cent flat fee. So what that translates to, let's say you're
+transferring $1,000, it would end up being $2.32 to send $1,000 in USD. If you were trying to meet
+that SOFI requirements and you were sending $5,000, it ends up being $8.72 to send $5,000
+because it's 0.16% of $5,000, which is $8.
+Plus that 72 cent flat transfer fee. So that obviously kind of sucks because you're paying
+almost $9 to make one payment, where Square is only $5 a month and you can make multiple payment.
+But the advantage of using WISE is that anyone can use it. You don't have to go through the
+whole Square signup process with the business and all that stuff. Anyone can sign up for a WISE
+account. And the key benefit is that they give you a reference note field where you can type in,
+say, 10 characters or so worth of a note. And that ends up showing in the billing descriptor.
+So you can type things in there like payroll or direct deposit. However, unlike some of these
+paid options like Square and the Chase ACH payments, you really have no way to justify it
+if the bank decides to not treat it as an employer payroll. So one thing I think that happened
+recently is SOFI used to treat it as employer payroll. As of a few weeks ago, I think the latest
+points are that they no longer treat the WISE transfer as employer payroll. And so when they
+make that switch, you have no way to then contact SOFI and get them to manually credit you for a
+WISE transfer. And so you really are just SOL. And that's sort of the risk of using services
+like WISE. And we'll see with some of these free services, you'll run into the same kinds of issues.
+But if you're willing to accept the risk and you're looking at DOC and there's data points
+that people have used WISE and it works, then you're going to be able to use it. And so that's
+worked for them. WISE can still be a good option, but I would not recommend using the app and paying
+like $9 for a $5,000 transfer. So the second method that will get you way cheaper transfers
+on WISE, which consumes a bit more time upfront to set it up this way, but is way cheaper in the
+long run, is to actually set up a WISE bank account. So again, WISE does not make this
+easy or intuitive to do at all, but it is possible. You just have to know kind of where
+to look. So you'll need to sign up for WISE on like Chrome, like in a web browser and go into
+your account and you can click manage your account and then click account details. And when you click
+account details, it'll let you actually create a WISE bank account. Because when you sign up for
+WISE, they don't give you a bank account. WISE is just moving money from one account to another,
+similar to how Square Payroll works. But you can actually ask WISE to give you account details of
+a bank account that you own that you can then deposit money into. And so signing up for WISE
+bank account, you'll go through the full KYC process that you see at any bank. You'll need
+to provide your social security number, photos of your driver's license. I had to give him a selfie
+as well. So the whole thing. And where a lot of people get tripped up is during that process where
+you're setting up the bank account, they'll ask that you fund this bank account with $20,
+which is also a pretty common thing with bank accounts anywhere as they want you to make
+that initial deposit. The thing with WISE though, and I don't know if this is a new thing,
+but when I was setting up the accounts and trying to deposit the $20, it would not let me deposit
+the $20 in $20 USD. I had to send in the $20 from a different currency. If I selected that I was
+going to send in $20 USD, I got an error message that says, sorry, you can't send between these
+currencies right now. And I'm assuming it's because I'm trying to send $20 of USD,
+into my account, which is a USD account. Like they specifically wanted me to send
+from a foreign currency into my USD account. And I guess that sort of makes sense because
+the whole point of WISE is that they are fundamentally an international payments
+transfer service, the keyword being international. And so I think some people may bail at that step
+because if you select, okay, well, I'll just send in 20 euros then to get my $20 deposit,
+they'll make you add a European.
+Bank account with European bank details, which obviously you probably don't have.
+So luckily I figured out that there's a button that you can click that says, I'll finish it
+later. So you set up saying that you're going to send 20 euros into your bank account that will be
+converted into USD and they'll show you the confirmation page. And instead of like submitting
+it, you can say, I'll finish it later. And that will let you get through the setup process so that
+now you're done creating your USD bank accounts. And when you go to your new account,
+you can see this pending 20 euro transfer and just cancel it. Then after you cancel it,
+you can add a new transfer. And now when you add this new transfer outside of the setup flow,
+you're able to now do a $20 USD transfer into your USD account. And you'll want to do this
+because they want to see $20 deposited into this account, but now you're actually able to do it
+without getting hit with an error message. You'll be able to add your bank via played,
+and you just have to do that. And that's pretty much it for this video. If you enjoyed it,
+I'd love to hear from you in the comments. And I'll see you in the next one. Bye-bye.
+One thing to keep in mind when you're funding that $20 initially is that you have to do it
+through wise, like the way you have to deposit that $20 because you don't have your account
+info yet is you have to do it through wise who essentially pulls that money from your other
+accounts. And when you do it through wise, it is not free. So wise will charge you that same 0.16%
+fee as the first method. So when you pull in that $20, it's going to cost you an extra 3 cents,
+but you have no choice.
+It's the only way you can do it initially because you aren't given your wise account number and
+routing number until after they've approved you for an account, which they won't do if you don't
+deposit your $20. All right, hopefully you're still with me here because we're almost done.
+So now that you have your account details at wise, you can now push money in from an external
+account. So you don't have to use wise to pull money in. And the benefit of doing this is when
+you push money in, there's no fee.
+Involved. So you can use your ally bank account, your ad wise into ally and you use ally to send
+a thousand dollars. There's no fee charged. If instead you used wise to pull a thousand dollars
+from ally, you'll be hit with that 0.16% fee. So it's really important that you do it in the order
+where you're pushing money into wise. Another cool thing that happens once you're given your
+wise account number and routing number is that now you're able to do USD to USD transfers in the web
+app. Whereas before, you had to do USD to USD transfers in the web app, whereas before, you
+could only do it in their phone app. And when you do the USD to USD transfer, be mindful that there
+is two ways of doing it, which is one, you can let wise send money from one of your accounts to
+another account. And you want to avoid that because that's the same as the app method where
+it will charge you that 0.16% plus the 72 cents, because you're using wise to move money from,
+let's say ally into Albert. The other option they'll give you is to
+transfer money from your wise account balance. And so that's the method you want to use. So first
+you send money into wise, however much money you need, and that's free. Then when you do a USD to
+USD transfer of your wise account balance to let's say SoFi, the only fee that gets charged is a flat
+51 cent fee. So instead of paying $8.72 to send $5,000 to SoFi from your ally accounts using wise,
+if you first transfer in the $5,000 into your wise bank account, then send it to SoFi that way,
+you're only going to pay 51 cents, which is a huge difference compared to $8.72. So essentially all of
+your transfers through wise should be done this way and will cost you that flat 51 cent fee.
+So compared to the other options, 51 cents per transaction is pretty reasonable. I mean,
+you do have to go through the setup process, but there's a setup process associated with any of
+those options. So if you want to go through the setup process, you have to go through the setup
+process. So if you want to go through the setup process, you have to go through the setup process.
+Which is pretty competitive even compared to square. So yeah, at 51 cents wise is almost free,
+but there are just actually free options that you can use. So the first of these, which has been
+making the rounds lately is Astra, A-S-T-R-A. I think it's Astra Finance if you were to go to the
+website. And Astra has been popular because it is totally free. The thing with Astra though,
+and you'll see it in the next video, is that it's a free option. So if you go to the website,
+and you go to the website, and you go to the website, and you go to the website, and you go to the
+app, is that it is very, very bare bones. It's a very basic app and their marketing is just
+terrible. If you go to the Astra website, and maybe let me just go to it right now to see if
+they've updated it since I visited. Nope, it's still the same crappy thing. So if you Google
+Astra Finance, the description of Astra Finance in Google search results is an API to fund customer
+accounts and add financial automation to your product. And then if you click it, it's like the
+automation platform for money movement is how they describe themselves. And it all makes it sound
+very much like this is an API service that you might use for your app to kind of integrate some
+kind of money movement in your app. And, you know, maybe that is their primary market. But the thing
+is, Astra actually also has an app that consumers can use. And I don't mention it anywhere really
+that this exists. So if you go to the website, and you go to the website, and you go to the
+so kudos to the first person who discovered Astra and like ignored all of this marketing and was
+just like, hey, maybe I could try it for churning because that's that's pretty creative. But yeah,
+there is an app. And it's not just for developers or APIs. It's actually an app that users can use.
+And you can add in accounts that you own and transfer money between those accounts. The thing
+with the app, though, is that it is quite buggy. So when you sign up, you have to upload your
+driver's license. And if you go to the website, and you go to the website, and you go to the app,
+I went in a verification loop, like 1015 times where it would ask me to upload, I upload it,
+then it will tell me it was uploaded, then asked me to upload, I upload it, then it'll tell me it
+was uploaded. I just kept trying it over and over again in the course of a few days. And my
+verification was never approved. And eventually, I reached out to Astra because I discovered that
+Astra has a website with the little intercom chat bubble. And the guy that probably owns or runs
+Astra replied back being like, hey, you can instead use the web portal to complete your
+verification and upload it there. And that's when I discovered there's an Astra web portal,
+which looks exactly like the app, but allows you to do additional things. Then once I was finally
+signed up, I tried to add my Chase account in Astra, and it didn't work. So I reached back out
+being like, hey, is Chase not supported? And he was like, oh, actually tried in the web portal,
+and then it worked in the Astra web portal. And so it's definitely very,
+much a in-development kind of a project. And I have no idea how Astra even makes money,
+because all of this is free. And it does feel like there's probably just one guy running it,
+coding it, supporting it. And yeah, I mean, it sort of shows in the quality of the app.
+So the way it works is after you've added, let's say, two accounts, you'll set up what they call
+a procedure. And the procedure is the automation that will send money from one of your accounts.
+Into another account. And similar to how Square and Wise and those services work is that Astra
+will take money from one of your accounts into an Astra account and move it into your second
+account. And what you name that procedure, that automation procedure, is what will show up in the
+billing descriptor as Astra procedure name. But one of the downsides with this whole procedure
+thing is that the transfers are quite slow. Like it often takes over a week for money,
+to move from one account into Astra, then out to the other account. And then initially someone is
+manually reviewing your procedures and approving them before they go through. And I think there's
+a limit to how much money you can send in a procedure. I can't remember if it was $1,000
+or $5,000. And so the whole thing is a little bit clunky, but you know, downsides aside,
+it is totally free to use and it does work. Like a lot of people have been using Astra with some
+free services. Although I think the latest data points I saw on SoFi is that Astra used to work
+and no longer works now. And so that is sort of the game though, of using these free services.
+There's also Brex, which works very similar to Astra. But with Brex, you need a business bank
+account. And like Astra, you're able to modify that billing descriptor name. And so Brex has
+worked well for folks in the past. But the thing with Brex is that it used to be pretty
+difficult to get approved. Like I actually tried to get a Brex business bank account back when they
+were giving the 100,000 Brex points. And a lot of people were getting approved, but also a lot of
+people were getting denied. And both of my real businesses were denied Brex accounts because my
+theory is I didn't have a website or domain name for those accounts. And Brex is very much focused
+on the web startup realm. And so not having those, I think, was a disqualifier for them,
+these were real small businesses that made money. I was denied both times. So I never ended up
+getting a Brex account. And actually the latest update on Brex is that they've completely stopped
+supporting small businesses. I think they're actually going through and shutting down
+accounts tied to small businesses that don't see much activity. And now they're focusing
+only on startups as their core customer base. So Brex, unless you're at a startup, it's probably
+not going to happen that you get approved. The thing with Brex,
+though, that was advantageous is that it would actually be easier to justify than say like an
+Astra because with Brex, it is tied to a real business in the same way that like Chase, you
+could do Chase ACH payments. Brex was essentially offering that ACH payment kind of a service for
+free for your business. So Brex would have been, I think, one of my top options, except I was never
+approved. And now I think it's almost impossible to get approved for. So yeah, sadly,
+I think the Brex one is mostly dead. But if you have a Brex account and you haven't been shut down,
+you probably already know how useful it is. Finally, we have Melio, which interestingly,
+I haven't seen mentioned anywhere really. The way I stumbled across Melio, M-E-L-I-O,
+was it was randomly a Reddit ad when I was scrolling Reddit. There was an ad by Melio
+that was like, send payments for free. And that sort of caught my attention. And so I decided to
+give Melio a chance to do that. And I did. And I did. And I did. And I did. And I did. And I did.
+So I gave Melio a try. And like the TLDR with Melio is that they're sort of like a middleman
+payments management company. So similar to Square and Wise, what they do is they'll move money
+between different accounts. Their purpose is that let's say you're a business and you want to pay
+multiple vendors and contractors. You'll be able to then go in as a business and set up one account.
+That's your business account. Then set up multiple vendors and contractors that you pay.
+And then use Melio to transfer money from the one account into these other vendor contractor
+accounts. And the benefit with Melio is that when you transfer money from one account to another
+account using ACH, it's totally free because they also let you transfer money from like your credit
+card to one of these vendors or contractors. And that costs money, which is I think how they make
+money is when you don't just use an ACH transfer. But for the purposes of churning, you would just
+use the ACH version, which is totally free. But where it gets confusing with Melio is that there's
+two flows that you can use when you sign up because they will ask you what type of company are you?
+Are you a business or an accounting firm? And initially I went the accounting firm route
+because I was like, maybe I can just set myself up as an accountant and then set up multiple
+businesses and set up vendor payments and all that good stuff. But it's actually super confusing if
+you set yourself up as an accountant.
+So I won't go through all the details of why it's super confusing if you make yourself an
+accounting firm. But essentially, if you set yourself up as an accounting firm, you're going
+to have to go in and make companies. And these companies are going to have vendors and you might
+be tempted to make multiple companies to pay each other. But that's not how Melio works. You're not
+actually having companies pay each other. One company will have multiple vendors and contractors.
+If you set up a second company, that company will have multiple vendors and contractors,
+and they're unique.
+And so as an accountant, you can then log in as different companies to manage that company
+specifically. And so that took me a long time to figure out that was what was happening.
+So I would probably just avoid that accounting route and actually go and set yourself up as a
+business because then you're at the business level and you don't get to switch to different
+companies. It's just you, your business, and the vendors and contractors that you're trying to pay.
+So when you set yourself up as a business, they'll ask you the regular things like business name,
+business location, industry, stuff like that. And what you'll do in Melio is you'll set up vendors
+to pay. A couple of things to keep in mind is do not use acronyms for the vendor. They don't want
+to see that you're paying ABC Inc. You'll get an email saying your transaction was denied and that
+you can't use nicknames or acronyms. You need to use real names only. And that's okay because in
+theory, you're just paying you or your P2. So it is a real person you're paying anyway. Then you'll
+set up your vendors back.
+And similar to Square and Chase and stuff, you'll just enter the vendor's name, routing number,
+and account number. And sadly, there's also a memo field, which I was hoping would translate
+into the billing descriptor, but it does not. So that memo is purely for your purposes. So
+it doesn't really matter what you put in there. And at that point for your first transfer,
+they'll actually start gathering some more detailed KYC info like your SSN and your EIN.
+And I actually made,
+uh, a pretty stupid mistake, which was my first transfer. I made it 10 cents because
+I was adding my SoFi accounts. I had like 37 cents in there. It was the only account that
+it would let me add because for whatever reason, Chase wasn't working on Played that day. So I
+added my SoFi and I tried to pay 10 cents to my wife and everything goes through fine initially.
+But for at least your first transfer, Melio has someone manually look at that transfer and a 10
+cent Melio payment. They reviewed it, denied my transfer and actually shut down my account.
+So my advice would be for that first transfer, at least you're sending a reasonable amount of money,
+let's say a hundred dollars and maybe in the memo field, actually type in something like a gas
+reimbursement. And so that's, I think how you get past that first check and it's worth it to get
+past that check and not get shut down because I also have another Melio account where initially
+I did set myself up. I did set myself up for that first check and I did set myself up for that next
+check. And so that's, I think, how you get past that first check. And it's worth it to get past that
+first check. And that was a huge headache in terms of just figuring out the UI. But once I
+figured out the UI, I was actually able to use Melio and I'm still using Melio. And I think it
+is worth it. The data points I have on Melio from the accounts that I tested were actually quite
+positive. So the way the Melio descriptor ends up looking is just your company name plus invoices.
+So if your company was the Daily Churn, it would be the Daily Churn invoices is how it shows up on
+the other side. And I was doing a chase bonus and I couldn't figure out how to do that. So I
+didn't get Ally or Astra to work to qualify for the chase bonus. They kept getting tagged as
+other. But then I used Melio and Melio was tagged as ACH credit. And a week later, I got my bonus.
+So it actually worked for chase, whereas Ally and Astra did not work. There was also SoFi and
+SoFi worked with Melio. So SoFi classified the Melio transfer as direct deposit payer,
+which is what you want to see in order to qualify for the SoFi bonus. But
+keep in mind, this was a few weeks, maybe a month ago before SoFi went in and blacklisted Astra
+and Wise. So I don't know if Melio also got cut. I haven't tried since then. But as of like a few
+weeks ago, Melio worked for me to qualify for SoFi. But again, similar to Astra, you're going
+to run into issues where if it doesn't work, you can't justify it. And unlike Astra with Melio,
+you can't really change the billing descriptor.
+Melio is also totally free and is a way nicer, more stable interface and company than Astra is.
+So sort of pros and cons, I think there. So yeah, those are the services I tried. And I guess going
+back to that list, we've got Melio, Astra and Brex for free ones. And then the paid ones, we've got
+Wise, Chase and Square. And so I think each has their own pros and cons, depending on, you know,
+what kind of volume you're trying to do and how just.
+justifiable or not they are and how much they cost or if they're free. And I guess for me,
+I used to mainly use Square, which has been very reliable for me. But these days, because there are
+all these free options, I tend to try Melio or Astra first, maybe Wise if there were some like
+data points saying that Wise worked really well. And Square is always my go to fallback where,
+you know, I'm not going to miss a bonus because Melio or Astra or Wise,
+you know, I'm not going to miss a bonus. I'm not going to miss a bonus. I'm not going to miss a bonus.
+I always have Square that I can use as like the last line of defense to make sure I get my $300
+bonus, you know, and for $5 a month, I think it is very much worth it, especially since you can
+turn off those tax forms. And same with Chase. I mean, I think if I was doing bank bonuses full
+time, I would probably try using Chase for a bit because it is just so much easier. Like,
+I don't know if I emphasized this point enough during the episode, but Chase is by far the
+easiest platform to use in terms of doing these ACH payments. It's very much a nice, fast, simple
+interface to churn out volume. And so if I was doing bank bonuses full time, I would probably
+consider paying that $25 for Chase. And again, like Square, it is very justifiable. And Chase
+is also tax neutral. They do not send out any tax forms on your behalf. And they very much make it
+clear that, you know, you're responsible for your own taxes. So yeah, those are the options that I've
+tried. I'd love to hear if you guys have tried other ones that work well. Definitely leave a
+comment on thedailychurnpodcast.com if you have, or hit me up on Reddit. I'd love to hear about it.
+And you know, maybe there could be like a part three to this episode in the future.
+All right, guys, that's it for today. Hopefully that was helpful. And thanks for tuning in again.
+If you'd like to support the show, you can always head over to Spotify or Apple and leave a rating
+on Apple. You can also leave a review. Really appreciate it when you guys do that. And
+I will catch you guys next time.
+For the July recap. See ya.
